@@ -1,0 +1,5369 @@
+%%writefields TCOPQ false
+%%pageheight 10in
+%%pagewidth 7in
+%%leftmargin 36pt
+%%rightmargin 71pt
+%%textfont Baskerville10Pro 11
+%%vocalfont Baskerville10Pro 11
+%%annotationfont Baskerville10Pro-Italic 11
+%%pagescale 1
+%%staffscale 1
+%%score 1 2
+%%topspace 0.0cm
+%%pos orn above
+%%pos vol below
+
+X:1
+T:Chanson Roland
+%%staffscale 0.9
+M:3/2
+L:1/8
+K:G
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+[V:1]d4A4G4 & [DB]4F4^C4|F3GA4z4 & D3EF4z4|c4A8 & A4F8|B4G8 & G4B,8|d4A4G4 & F4D4^C4|
+[V:2]G,4C4E4|D8D4|D,8D4|G,8D4|D,4F4E4|
+[V:1]F3GA4z4 &D3EF4z4|c4B4A4 & [EG]4[DG]4[DF]4|[B,G]12|A4A4G4 & [DF]4E4^C4|F4E4D4 & D12|
+[V:2]D8z4|C4D8|G,12|A12 & D4^C4A,4|A4G4F4 & D12|
+[V:1][FA]4[GB]4[Ac]4 & D12|[DGB]12|d4A4G4 & F4D4^C4|F3GA4c4 & D8[EG]4|[GB]8A4 & D8[DF]4|G12 & B,8x4||
+[V:2]D,8D4|G,4B,4G,4|D4F4E4|D8C4|D8D,4|G,12||
+
+X:2
+%%pos vocal up
+T: Three Octaves
+L:1/1
+K:C
+%%clef bass
+A,,B,,C,D,E,F,G,|A,B,C\
+w:A B C D E F G a b c
+%%clef treble
+DEFG|ABcdefg||
+w:d e f g aa bb cc dd ee ff gg
+
+X:3
+%%pagewidth 8.5in
+%%vocalfont Baskerville10Pro 11.5
+%%score 1 2
+T:Sumer Is Icumen In
+M:6/8
+L:1/4
+V:1 clef=treble
+V:2 clef=bass
+K:F
+[V:1]
+f e/ d e/ & A3/ B3/ | f f/ (e/d/c/) & A3 | A A/ B G/ & F E/ D E/ | A3 & F F/ E/D/C/ | F A/ G B/ & A,3/ [C3/E3/] |
+w: Summer* is a com-ing* in,* Loud-ly sing Cuc-koo; Groweth* seed, and
+[V:2]
+"_Drone Bass."F,,3- | F,,3 | F,,3- | F,,3 | F,,3- |
+[V:1][FA] A/ G F/ & C3 | A c/ d d/ & F3/ [F3/B3/] | c3 & [F3/A3/] [E3/G3/] |f3/ d3/ & F3/ B3/ | f3 & A3 || (c A/) B G/ & F3/ E3/ | A c/ B A/ & F E/ D C/ |
+w: bloweth* mead and springeth* wood a-new. Sing Cuc-koo! Ewe* Bleat-eth af-ter lamb, Low'th
+[V:2]F,,3 | F,,3- | F,,3 | D3/ B,3/ & F,3 | C3 & F,3 || A,3/ G,3/ & F,,3- | (F,3/ F,3/) &  F,,3|
+[V:1]F A/ G E/ & D C/ B,3/ | F3 & C C/ D B,/ | A A/ B G/ & C3/ E3/ | c c/ d e/ & F3/ B3/ | f e/ d e/ & A3/ B3/ |
+w: af-ter calf the cow;  Bullock* start-eth, Buck to fern go'th, Mer-ry sing Cuc-
+[V:2]D,/E,/F,/ G,3/& F,,3- |A, A,/ B, G,/ & F,,3| F,3/ G,3/ & F,,3- | A,3/ G,3/ & F,,3 | C3/ B, C/ & F,3- |
+[V:1]f3 & B3/ A3/ | c3/ d3/ & A3/ B3/ | c3/ (B A/) & A3/ G F/ | F A/ B G/& x E/ D E/ | (A3/ B) c/ & F3 | A c/ G E/ & F C/ D B,/ | F3 & C3 ||
+w:koo! Cuckoo!* Cuc-koo!* Well singst thou, Cuc-koo!* Nor cease thou e-ver now.
+[V:2]D3/ C3/ & F,3 | F3/ F3/ &  F,3- | F3/ C C/ &  F,3 | D C/ B, C/&F,3- | C3 & F,3 | C A,/ B, G,/ & F,3/ F,3/ | A,3 & F,,3 | |
+
+X:4
+T:Dance Tune
+M:6/8
+L:1/8
+K:F
+V:1 clef=treble
+V:2 clef=bass
+%%score 1 2
+V:1
+[C3F3A3][CA]GF | FEF GEC | CDE EDF | FEG FBA | [C3F3A3][CA]GF | FEG GEC | 
+CDE EDF | FEG FBA | GFE F3 & D2CA,3 ||[F3A3C3]cAF | FEF GEC | CDE EDF | FEG FBA | 
+[F3A3c3]cAF | FEF GEC | CDE EDF | FEG FBA | GFE F3 & D2CA,3 || [FAcf]3[Ff]/c/A/F/F | FEF GEC | 
+CDE EDF | FEG FBA | [FAcf]3[Ff]/c/A/F/F | FEF GEC | CDE EDF | FEG FBA & B,3A,3 | GFE F3 & D2CA,3 ||
+V:2
+F,3F,,3 | [A,,F,]3[C,E,]3 | E,2G,F,2A, & C,3C,3 | G,2B,A,2z & C,3F,2z | F,3F,,3 | [A,,F,]3[C,E,]3|
+E,2G,F,2A, & C,3C,3 |G,2E,F,3 & C,3D,3 | B,,2C,F,,3 || F,3[A,,3F,3] | [D,3B,3][C,3E,3] |[C,3E,3][C,3F,3]|[C,3G,3][F,2A,2]z | 
+F,3[F,F,,]3 | [D,B,]3 [C,E,]3 | [C,E,]3 [C,F,]3 |G,2E,F,3 & C,3D,3 | B,,2C,F,,3 ||F,3[F,F,,]3 | [D,=B,]3[E,C]3 | 
+[A,,A,]3[_B,,F,]3 | [C,B,]3 [F,A,]2z |F,3[F,A,,]3 | [=B,D,]3 [E,C]3 | [A,,A,]3 [_B,,F,]3 | G,,3 D,3 | B,,2C,F,,3 ||
+
+X:5
+%%vocalfont Baskerville10Pro 12
+%%pagewidth 9in
+T: Song on the Victory of Agincourt
+M: 6/8
+L: 1/8
+U: R = "^ritard."
+K: Bb
+V:1 clef=treble
+V:2 clef=bass
+%%score 1 2
+V:1
+"^f"[DGBd]|[D^FAd]2 [Gc] [DGd]2 [EGc] | [DGc] [DGB]2 [D^FA]2 [DGd]|([EGd]c)[DA] ([B,DG]A)(G/D/)|[A,D=F] [G,^CE]2 [F,D]2 [DFA]| [C=EGc]2 [CFc] ([DFd]c)[DGB]|
+w:Our king went forth to Normandy,** With grace*and might*of*chi-val-ry, The God for him* wrought
+V:2
+[G,,G,]| [D,,D,]2 [E,,E,] [B,,,B,,]2 [C,,C,]| [G,,,G,,][G,,,G,,]2[D,,D,]2[B,,,B,,]|[C,,C,]2[^F,,,^F,,][G,,,G,,]2[B,,,B,,]| [A,,,A,,][A,,,A,,]2[D,,D,]2[D,F,]|[C,G,]2[A,,F,] [B,,F,]2[G,,D,G,]|
+V:1
+[CFA] [B,=EG]2"^pp"[A,F]2 [DF]| [^C=EA]2 [DFA] [B,DG]2 "^ritard."[B,DF]|[A,DF] [G,^C=E]2 !fermata![F,^A,D]2 "^ff"([D^/F/A/]B/|[_EGc]/d/c)[CG] ([DGB][C^FA]/G/)A| [B,DG]3-[B,DG]2||
+w:marv'lously,**Where-fore England* may call and cry, ``De**** o gra** ti as!''*
+V:2
+[C,F,A,] [C,G,]2[D,F,]2B,,|A,,2F,,G,,2G,,|A,,A,,2!invertedfermata![D,,A,,D,]2[D,,D,]|[C,,C,]2[E,,E,] [D,,D,][D,,D,]2|[G,,G,]2[D,,D,][G,,,G,,]2||
+
+X:6
+%%pagewidth 9in
+%%vocalfont Baskerville10Pro 13
+T:Christmas Carol
+M:6/8
+L:1/8
+K:F
+V:1 clef=treble
+V:2 clef=bass
+%%score 1 2
+V:1 
+"_f"G | [B,DG]2 B [DFA]2F |(A>G)(F/E/) D2 D & [^CE]3x3|[DG]2 [DB] [DA]2 [DF]|[^CE]3-[^CE]2 "_p"D|
+w: Now-ell, nowell* now-ell,** nowell,* [Now-ell, now-ell, now-ell.]* This
+w:*Bring us in good ale,** good ale, And bring us in good ale: ** 
+V:2
+z |[G,,,G,,]3 [D,,D,]3|[A,,,A,,]3[B,,,B,,]3|[B,,,B,,]2G,,,F,,,2D,,,|[A,,,A,,]3-[A,,,A,,]2B,,|
+V:1
+[B,DF]2 [B,DF] [B,DG]2 [CEG]|[CFA]2 A [CF]3|GBA G2[A,DF] & D3-D3|[CEG]6||"_f""^Carol."[B,DG]2G [DFA]2B|
+w:is the sa-lu-ta-tion of the an-gel Ga-bri-el. Ti-dings true there
+w:For our bless-ed La-dy's sake, bring* us in good ale. Bring us in no
+V:2
+B,,2A,, G,,2C,| F,,3 A,,3|B,,3-B,,2 D,|C,6||[G,,D,G,]3 [D,,D,]3|
+V:1
+[CGc]2 B [CFA]2 [CG]|[B,EB]2 [CFA] [DF]2 [DG]| [^CEA]3-[CEA]2 "_p"D|[B,DF]2 [B,DF] [B,DG]2 [CEG]|[CFA]2 A [CF]3|
+w:be come new, sent from the Trin-i-ty,* By Ga-bri-el to Na-za-reth,
+w:brown* bread, for that is made of bran,* Nor bring us in no white bread, For
+V:2
+[E,,C,E,]3 [F,,C,F,]2 [E,,E,]|[G,,G,]2 [F,,F,] [B,,B,]2 [B,,B,]|[A,,A,]3-[A,,A,]2 B,,|B,,2 A,, G,,2 C,|F,,3 A,,3|
+V:1
+GBA G2 [A,DF] & D3-D2x|[CEG]3-[CEG]2||"_f"[DFd]|[Fc]2 [B,EB] [CFA]2 [^CG]|[DF]2 E D2 D|[DF]2 [DG] [DF] [^CE]2|
+w:ci-ty of Ga-li lee:* A clean maiden* and pure virgin* Through her hu-mi-li-
+w:there--in is no gain.* But bring us in good ale, good ale, And bring us in good
+V:2
+B,,3-B,,2 D,|C,3-C,2||[B,,B,]|[A,,A,]2 [G,,G,] [F,,F,]2 [E,,E,G,]|[D,,D,A,]2 [=C,,=C,A,] [B,,,B,,F,B,]3|[A,,,A,,A,]2 [G,,,G,,B,] [A,,,A,,A,] [A,,,A,,G,]2|
+V:1
+D3-D2 !p!D|[B,DF]2 [B,DF] [B,DG]2 [CEG]|[CF(A]2 A) [CF]3|GBA G2 [A,DF] & D3-D2x|[CEG]3-[CEG]2||
+w:\-ty.* Hath con-cei-ved the per--son second* in De i-ty.*
+w:ale.** For our bles-sed La-dy's sake, Bring* us in good ale.*
+V:2
+[D,,D,F,]3-[D,,D,F,]2 B,,|B,,2A,, G,,2C,|F,,3 A,,3|B,,3-B,,2 D,|C,3-C,2||
+
+X:7
+%%pagewidth 9in
+%%vocalfont Baskerville10Pro 13
+%%score 1 2
+T: Pastime with good company
+M:C
+L:1/8
+K:Bb
+V:1 clef=treble
+V:2 clef=bass
+V:1 
+G3 G [DGB]2 [EGB]2 & [B,D]4x4 | (A>BA[EG]) [DF]2 [CF]2 & [CF]2x6| B3 B A2 G2 & [B,D]2x2 [CE]4| ^FG F2 [B,DG]4 & [CD]4 x4 |
+w:Pas-time with good com** pa-ny I love, and shall un-til* I die;
+V:2
+G,,4 G,2 E,2 | F,4 B,2 A,2 | G,4 C,4 | D,4 G,4 | 
+V:1
+B3 B [DGB]2 [EGB]2 & [B,D]4 x4 | (A>B)(A[EG]) [DF]2 [CF]2 & [CF]2 x6 | B3 B A2 G2 & [B,D]2x2 [CE]4 | ^FG F2 [B,DG]2 z [B,D=F] & [CD]4 x4 | [B,EG]2 [CEA]2 [B,FB]2 z [B,DF]|
+w:Grudge who will, but none* de-*ny, So God be pleas'd this life* will I: For my past-ance, Hunt,
+V:2
+G,,4 G,2 E,2 | F,4 B,2 A,2 | G,4 C,4 | D,4 G,,2 z B,,| E,2 C,2 D,2 z B,,| 
+V:1
+[B,EG]2 [CEA]2 [DFB]2 [EGB]2 | (A>BA)[EG] [DF]2 z [B,DF] & [CF]2 x6 | [B,EG]2 [CEA]2 [DFB]2 z [BDF] | [B,EG]2 [D^FA]2 [DGB]2 [DGB]2 | A2 G2 !lowermordent!^F4 & [CE]4 [CD]4 | [B,DG]8|
+w: sing and dance; My heart** is set. All good-ly sport  To my comfort,* Who shall* me let?
+V:2
+E,2 C,2 B,,2 E,2 | F,4 B,2 z B,,| E,2 C,2 B,,2 z B,,|E,2 D,2 G,2 G,,2| C,4 D,4|G,,8|
+
+X:8
+%%pagewidth 800pt
+%%score 1 2
+T: Ah! The Sighs that come fro' my heart.
+M:C
+L:1/8
+K:F
+V:1 clef=treble
+V:2 clef=bass
+V:1
+F3 G B2 A2 & x4 F4|G d2 d d2 D2 & D6 x2 | [CF]3 [CEG] [CFA]2 [DFB]2|([CFA]3 G/F/ A2) A2|
+w: Ah! the syghes that come fro' my heart, They grieve me passing* sore:*** Syth
+V:2
+A,3 B, D2 C2 & F,4 F,4|[B,,B,]6 [B,,G,]2|[C,A,]3 C, C,2 B,,2|F,,8|
+V:1
+A3 B [CGc]2 [FAc]2 & [DF]4 x4|(_ed)(cB) A3 A & G4 ^F4|d3 G cFBB & D2 =E2 C2 [DG]2|A/B/c/B/ A/G/A x4 & [FA]4 [EG]4 & C8||
+w:I must fro' my love* de* part, Fare-well my joye for e-ver-more.******
+V:2
+D,4 E,2 F,2|C,4 D,4|[B,,B,]2 [C,G,]2 [A,,F,]2 G,,2|C,8||
+
+X:9
+%%pagewidth 800pt
+%%score 1 2
+T: Western Wind, when wilt thou blow?
+M:C
+L:1/4
+K:F
+V:1 clef=treble
+V:2 clef=bass
+V:1
+G>A B[DB]&B,3x|(A/>B/)(A/G/) !fermata!F [A,D]&D x3|[DG]>D F [EG]|!fermata!F3 [B,DB]|
+w:Westron* wynde when wyll* thou* blow? The smalle rain downe `doth' rayne; `Oh!'
+V:2
+[G,,D,]3 [G,,G,]|[D,F,]3 [D,F,]|[B,,G,]2 [D,A,] [C,C]|!fermata![F,A,]3 G,,|
+V:1
+[DFA]>G [A,F][B,D]|[A,DF][CEG][A,F][B,DB]|[DFA]G/G/!fermata![DAd]>[DBd]&x G x2|A//G//F//G// A//B//A/ [B,G]2&[DFA]2x2|
+w:if my love were in my armys, `Or' I in my bed a-gayne.*******
+V:2
+D,2 D, B,,|D,C,F,G,,|D,B,,!fermata!F,,>F,,|D,2G,2|
+
+X:10
+%%pagewidth 900pt
+%%score 1 2
+T:Blow thy horn hunter
+M:C
+L:1/4
+K:C
+V:1 clef=treble
+V:2 clef=bass
+V:1
+c c c2&[EG]2G2|e2cc&c2G2|eedd&c2G2|c3c&[EG]4|c>ccB&[C^F]2 [DG]2|A>AGG&[D^F]2B,x|
+w:Blow thy horne hun-ter, Cum, blow thy horne on hye! In yonder* wode there lyeth a doo, In 
+V:2
+C,2 [E,C]2|[CE]2[E,C]2|[CE]2 [G,D]2|[C,,C,]2 [B,,,B,,]2|[A,,,A,,]2 [G,,,G,,]2|[D,,D,]2 [C,,C,]2|
+V:1
+cBAA&[CE]2 [C^F]2|[B,G]2[B,DG]2|c>cc2&[CG]4|[FB]2cc&x2[EG]2|c>c[GBd]G/A/&[EA]2x2|B/c/d/B/[Ec]2&F2x2||
+w:fayth she woll not dye. Cum, blow thy horne, hun-ter, Cum, blow thy horne, joly* hun-***ter!
+V:2
+[A,,,A,,]2[D,,D,]2|[G,,G,]2[=F,,=F,]2|[E,,E,]4|[D,,D,]2[C,,C,]2|[A,,A,]2[G,,G,]2|[G,,G,]2[C,G,]2||
+
+X:11
+%%pagewidth 950pt
+%%score 1 2
+T:The Three Ravens
+M:C
+L:1/4
+K:Bb
+V:1 clef=treble
+V:2 clef=bass octave=-1
+V:1
+G|GABd&D4|[Gc][DGB][EGc]2|G>A[DGB][Gc]&Dx3|d>edd&[^FA]3x|
+w:There were three ra-vens sat on~a tree, Down a down, hey down, hey down, They
+V:2
+z|B4&G3F|cxC2&EGx2|B,2GE|D3z|
+V:1
+GABG&D2D2|ABcB/c/&[EG]2[EG]2|([Dd]4&G2^F2|[DGd]3)d|dfed&=F4|
+w:were as black as they might be, With a down ... The one of them said
+V:2
+B2G2|c2A2|B2c2&D4|[GB]3z|[B,B]dcB|
+V:1
+cBA>A&F4|BdcB&D4|A^FDB/c/&D3D|[DGd]2c/B/A/G/&x2E2|[D^F]/G/[CA]!fermata![B,G]||
+w:to his mate, Where shall we `now' our breakfast* take? With a down, derry,* derry,* derry* down, down.
+V:2
+A2c2&F4|G,BAG|[D^F]3G,/A,/|B,2C2|D2!fermata!G,||
+
+X:12
+%%score 1 2
+%%staffscale 1.0
+T:The Kinges hunt is upp.
+M:6/8
+L:1/8
+K:Eb
+V:1 clef=treble
+V:2 clef=bass octave=-1
+V:1
+B|[Ge]2B (G>A)B|[Ge]2B (G>A)B|(c>B)A (G>F)E|
+w:The hunt is up, the* hunt is up,* And it* is well* nigh
+V:2
+z|[EB]6|[EB]6|[A,A]3 [EB]3|
+V:1
+[DF]3-[DF]2 [DB]|cAB c2 B & E3-E2 [EG]|(A>G)A B2 B & E2 D E2 [EG]|(c>d)e (d>e)f & E3 A3|[Ge]3-[Ge]3||
+w:day;* And Harry* our King is gone* hunting,* To bring* his deer* to bay.*
+V:2
+[B,B]DF B2B|A3-A2E|F3G2E|A3 [B,B]3|[EB]3-[EB]3||
+
+X:13
+%%pagewidth 900pt
+%%score 1 2
+T:Yonder Comes a Courteous Knight.
+M:6/8
+L:1/8
+K:G
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1 
+[B,G]2G [DG]2D|[CF]2[B,G][A,A]3|A>Bc d2d & [DF]3 [DG]3|e>dc B3 & G3 G3|
+w:Yon-der comes a cour-teous knight, Lus-ti-ly rak-ing o-ver the lay,
+V:2
+G,2z(B3|A2GF3)|c3B3|c3[Gd]3
+V:1
+G>GD (G>A)B/c/ & B,3 D3|d2c [DGB]2 B & [DA]3x3|[Gc]2c [GBd]2 [Gce]|c>d[GB] [FA]2 [DFA] & Fxx4|
+w:He was well 'ware* of a bon-ny lass, As she came wand'-ring o-ver the way. Then
+V:2
+G,2z (B3|F3G2)F|E3D2C|A2G d2D,|
+V:1
+(B>A)G A>FD & [DG]x2 Dx2|[B,G]2[DFA] [DB]G [DFA]|(d>c)B A>AD &[DG]x [DG] [DF]x2|( c>B)A [DB]Gz & [DF] x2 x3 ||
+w:she* sang down a down, hey down derry,* Then she* sang down a down, hey* down derry.*
+V:2
+G,3F,3|E,2D,G,2D,|B,2G, D3|D,3G,3||
+
+X:14
+%%pagewidth 7.5in
+%%score 1 2
+%%staffscale 1.0
+T:Oft I Have Ridden Upon My Grey Nag.
+M:6/8
+L:1/8
+K:F
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+AFF FFF & C6-|AAB c2c & C6|BGGG2G & D6-|B2c d2B & D6|
+w:Oft have I rid-den up-on my grey nag, And with his cut tail he play'd the wag, And
+V:2
+[FA]6-|[FA]6|[B,G]6-|[B,G]6|
+V:1
+A2F F2F & C6-|A2B c2c & C6|B>AG A>GA & C3 C3|[CG]3 [CG]3||
+w:down he fell up-on his crag. Fa, la, re, la, la, ri dan-di-no.
+V:2
+[CA]6-|[CA]6|[CG]3 [CF]3|[CE]3 [CE]3||
+
+X:15
+%%score 1 2
+T: The Hathorne Tre.
+M:6/8
+L:1/8
+K:Eb
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+B|: G2E E2E|G2A (BA)G|A2F F2F|A2B (cB)A|
+w:It was a maid of my coun-try,* As she came by a haw-thorn tree,* As
+V:2
+z|: [EB]6|[EB]6|[EFc]6|[EFd]6|
+V:1
+G2E E2E|[Ee]2e (dc)B|[Gc]2c d2B|c2=A (FG)[D_A]|
+w: full of flow'rs as might be seen,* She marvell'd to see the tree so greeen.* At
+V:2
+[EB]3 [DB]3| [C=A]3 [GB]3| e2c B2G & E3 =E3|[F=A]2z z2[B,B]|
+V:1
+[EG]2E E2E| G2A (BA)G| A2F F2F| A2B (cB)A|
+w: last she ask-ed of this tree,* How came this fresh-ness un-to thee,* And
+V:2
+[EB]6| [EB]6| [EFc]6|[EFd]6|
+V:1
+G2E E2E| [Ee]2[Ee] (dc)B & x3 E3| A2F F2F & F3 x3| [Ff]2e (dc)B :|| 
+w:ev'-ry branch so fair and clean?* I mar-vel that you grow so green.* The
+V:2
+[EB]3 [EB]3| [Dc]2c BAG|F3 [EAc]3|B6 & D3 B,2x:||
+
+X:16
+%%score 1 2
+T: Shall I Go Walk The Woods So Wild?
+M:6/8
+L:1/8
+K:Bb
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+[BD]BB B2[FB,]| G2F D3 & B,6| EFG A2G & B,3 E3| c2B (AG)F & F3 C3|
+w: Shall I walk to the woods so wild, Wandering,** wand'ring* here and there,* As
+V:2
+B,3-B,2 D| (E2D B,3)| G,3 C2B,| A,3 F,3|
+V:1
+[B,B]2B B2[B,F]|G2F D2[DB]&B,3-B,2x| [EA]2G [B,F]2[B,D]| [B,E]2C [A,C]3||
+w: I was once full sore beguil'd,* A-las! for love I die with woe. 
+V:2
+D3-D2D|E2D B,2B,|C3 D2G| C3 F3||
+
+X:17
+%%pagewidth 8in
+%%vocalfont Baskerville10Pro 15
+T: John Dory
+M: 6/8
+L: 1/8
+K: C
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+[EG]| A2G A2B & F3 F3| [Ec]2G G2E/E/ & x3 x2C| F2E [B,D]2G & C3 x3|
+w: As it fell on a ho-li-day, And up-on a ho ly
+V:2
+C|F3 D3|C3-C2C|D3 G2G,|
+V:1
+C3 C2[DG]|[Ec]2c [Ad]2d| [^Ge]2e e2[Ae]|d2c c2B & [FA]3 [DG]3|
+w: tide, a John Do-ry bought him~an am-bling nag To Pa-ris for to
+V:2
+C3 C2B,|A,3 F3| E3-E2C| D3 G3|
+V:1
+[EGc]3 [EGc]2 [CG]| F2E D2G & C3 B,3| C3 [CGc]2 [CE]/[CE]/| F2E D2G & C3 B,3| C3-C2||
+w: ride, a, To Pa-ris for to ride, a, And up-on a ho-ly tide.*
+V:2
+C3 C2E| D3 G3|A3 E2C|D3 G,3|C3-C2||
+
+X:18
+%%score 1 2
+%%staffscale 1.25
+T: Sellenger's Round or The Beginning of the World
+M: 6/8
+L: 1/8
+K: C
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+!>!G3-G>A[FB] & B,3-B,2 x | c3-c>d[Be] & E3-E2 x|d2c B>AB & A3 G2 F|[Ec]6|
+V:2
+G2F E2D|C2B, A,2G,|F,3 G,3|A,>G,F, E,D,C,|
+V:1
+!>!G3-G>A[FB] & B,3-B,2 x|c3-c>d[Be] & E3-E2 x|d2c B>AB & A3 G2 F|[Ec]3-[Ec]2 [Fd]|[Ge]3-[Ge]>dc|
+V:2
+G2F E2D|C2B, A,2G,|F,3 G,3|C,3 C3|C3 E3|
+V:1
+[Bd]3-[Bd]2d|B>cd- d>cB&G6|(A3d2)B & ^F3-F2G|c>dc B2G & G3 D3|A>Bc B2G & ^F3 D3|
+V:2
+G3 G,3|G3 B3|(d3D2)G|E3 G3|D3 G,3|
+V:1
+A2G ^F>EF & E3 D2C|[B,G]3-[B,G]2 A/B/|c>dc B2G & G3 D3|A>Bc B2G & ^F3 D3|A>BG ^FEF & E3 D2C|
+V:2
+C3 D3|E>DC B,A,G,|E3 G3|D3 G,3|C3 D3|
+V:1
+[B,G]6|!>!G3-G>A[FB] & B,3-B,2 x|c3-c>d[Be] & E3-E2x|d2c B>AB & A3 G2F|[Ec]6|
+V:2
+G,3 !>!G3-|G2=F E2D|C2B, A,2G,|F,3 G,3|A,>G,F, E,D,C,|
+V:1
+!>!G3-G>AB & B,3-B,2 x|c3-c>d[Be] & E3 E2x|d2c B>AB & A3 G2F|[Ec]6||
+V:2
+G2F E2D|C2B, A,2G,|F,3 G,3|C,6||
+
+X:19
+%%pagewidth 7.5in
+%%score 1 2
+T:Sellenger's Round with old harmony by Byrd.
+M: 6/8
+L: 1/8
+K: C
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+G3 G>AB|c3 d>ef & [EG]3 E>FG|d2c B>AB & F2E F2F|c6 &[EG]6|G2G G>AB & x3 x2 F|
+V:2
+!segno![GBd]2[FA] [EGc]2[DF]|"^a"G>cG- G>cG & C3 C3|A>Bc d2G- & F2C G2 G,|G>cG- GcG & C3 C3|[GBd]2[FA] [EGc]2[DF]|
+V:1
+c3 c>de & E>FG A2G|d2c B>AB & F2E G2F|c3-c2 &[EG]3-[EG]2!fine!||d & F|e3 e>dc & G>AB c3|d3-d2d &[GB]3-[GB]3|
+V:2
+[CGc]3 [Fc]2[Cc]|A>Bc d3 & F>GA G3|G>cG- G>c & C3 C2||G- & C|G>cG- G>cG- & C3 C3|G>GD- D>GD- & G,3 G,3|
+V:1
+B>cd d>cB & G6|A3-[Ad]2B & ^F3-F2[DG]|c>dc B2G & [EG]2[EG] [DG]2E|A>Bc B2G & F2E [DG]2D|A2G ^F>EF & F2C D2D|
+V:2
+D>GD- D>GD & G,3 G,3|d>cB A2G & D3 D3|[CGc]2[CGc] [Gd]2G|[Fc]2C G2[GB]|c2G A2A & F2E D2D|
+V:1
+G3-G>AB & [B,D]3-[B,D]>CD|c>dc B2G & E>FE D2G|A>Bc B2G & F2E D2D|A>BG ^F>EF & F2D D3|!D.S.![B,DG]6||
+V:2
+G2D zGD & zG,D G,3|G2G G>FE & C2C G,3|D2C GAB & x3 G,2G|c2B A>GA & F2G D2D|G2D zGD & zG,D G,3||
+
+X:20
+%%staffscale 1.0
+T: I cannot eat but little meat
+M: C
+L: 1/4
+K: C
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+G/[CEG] [CEG]|[CFA][CG] [CFA][DFB]|[CEc]2 C2|[B,F][CE] [CF][B,DG]|
+w:I can-not eat but lit-tle meat, My sto-mach is not
+V:2
+z/CC|FE FD|A,2 E2|DC/B,/ A,G,|
+V:1
+[CE]>c [EGc][EGc]|!<(![EAc][EAc] [DAd][Ad]|[^GBe]2 !<)! !>(![=Ge=g]2|[Bdf][Gcg] [Acf][GBd]!>)!|[Ec]2||
+w:good; But sure I think that I can drink With him that wears a hood.
+V:2
+C2 CB,|A,G, F,F|E2 C2|DE FG|c2|| 
+
+X:21
+%%score 1 2
+%%staffscale 1.0
+T: Hanskin or Half Hannikin
+M: 6/8
+L: 1/8
+K: G
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+B>cd d2c & G3 F3|B>cB A2G & G3 F2G|B>cd d>cB & =F3 E3|[^FA]>G[CF] [B,G]3:||
+V:2
+G3 D3| G,2B, D2G|G3 C3|D3 G,3:||
+V:1
+[DGB]3 [EGc]3|[DGB]3 [CFA]2[B,G]|B>AB c2B & G3 E3|[FA]>G[CF] [B,G]3|
+V:2
+G3 C3|G,2B, D2G|E3 A,3|D3 G,3|
+V:1
+[DGB]>AB [EGc]>dc|[DGB]>AB [CFA]2[B,G]|B>cd d>cB & [E^G]3 [EA]x2|[FA]>G[CF] [B,G]3||
+V:2
+G3 C3|G,2B, D2G|E3 A,3|D3 G,3|| 
+
+X:22
+%%pagewidth 7.5in
+%%vocalfont Baskerville10Pro 11.5
+%%score 1 2
+T: Malt's Come Down
+M: 6/8
+L: 1/8
+K: G
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+G|G>AB (B>A)B & D3 D3|(G>A)B c2c & E3 E3|(B>A)B A2G & ^D3 E3|(F>E)F G3 & C3 B,3|
+w:There's ne-ver a maid* in all* this town, But well* she knows that malt's* come down,
+V:2
+z|[GB]3 [FGB]3|[EGB]3 [A,A]3|[B,F]3 [CE]3|[=DG]3 [G,G]3|
+V:1
+(G>A)B B3 & D3 D3|(G>A)B c3 & E3 E3|B>AB A2G & ^D3 E3|F>EF G2 & C3 B,2||
+w:Malt's* come down, malt's* come down, From an old an-gel to a French crown.
+V:2
+[GB]3 [FGB]3|[EGB]3 [A,A]3|[B,F]3 [CE]3|[=DA]3 [G,G]2||
+
+X:23
+%%pagewidth 8.5in
+%%vocalfont Baskerville10Pro 12
+%%staffscale 1.0
+%%score 1 2
+T: Of all the birds
+M: 6/8
+L: 1/8
+K: G
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+B|B2B B2B & G6|B>cd e2e & G3 G3| d2d d>cB & G3 F2G|[Ec]2[FA] [GB]2B|
+w: Of all the birds that e-ver I see. The owl~is the fair-est in her de-gree: For
+V:2
+z|[Gd]6|[Gd]3 [Cc]3|[GB]3 [DA]2[EG]|A3 G2z & C2D G,2x|
+V:1
+B>BB B2B & G6|B>cd e2e & G3 G3|d2d d2B & G3 F2G|[Ec]2[FA] G2B|d2B d2B|
+w:all the day long she sits in a tree, And when the night comes, away flies she: Te whit te whoo! to
+V:2
+[Gd]6|[Gd]3 [Cc]3|[GB]3 [DA]2[EG]|A3 B2z & C2D G2x|z3 z2 G|
+V:1
+d2B d2B & G6|[Gd]3 [Gce]3|[GBd]3-[GBd]2B|B>BB B2B & G6|B>cd e2e & G3 G3|
+w: whom drinkst thou? Sir Knave, to you.* This song is well sung I make you a vow, And
+V:2
+B2G B2G|B3 c3|G3-G2z|[Gd]6|[Gd]3 [Cc]3|
+V:1
+d>dd d2B & G3 F2G|[Ec]2[FA] G3|[GB]3 [Gd]3|B>cd e2e & G3 G3| d2d d2B & G3 F2G|
+w: he is a knave that drink-eth now: Nose, nose, jol-ly red nose! And who gave thee that
+V:2
+[GB]3 [DA]2[EG]|A3 B3 & C2D G3|G3 B3|G>AB c3 & G3 C3|[GB]3 [DA]2[EG]|
+V:1
+[Ec]2[FA] [GB]3|BBB d2B & G3 G3|B>cd e2e & =F3 E3|d2d d2B & G3 F2G|c>BA G2 & E2F x2||
+w: jolly red nose? Cin-na-mon, gin-ger, nut-megs and cloves, And that gave me my jol-ly red nose.
+V:2
+A3 G3 & C2D G,3|G3 B2G|G>AB c3 & G3 C3|[DB]3 [DA]2[EG]|[CA]2[DA] [GB]2||
+
+X:24
+%%pagewidth 1000pt
+%%score 1 2
+%%staffscale 1.0
+T: Who's the fool now
+M: 6/8
+L: 1/8
+K: A
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+[CA]2[DB] [Ec]c[DB]|[CA]2[B,G] A3 & x3 C2[CF]|[DB]2[Ec] [Fd]d[Ec]|
+w: Martin said to his man, fie, man, fie! Martin said to his man
+V:2
+A,6-|A,2E A2F|B,6-|
+V:1
+[DB]2[C^A] B3 & x3 D2[EG]|ced c>BA & [EA]3 [EA]2x|A>Bc/A/ BGE & ^D3 E3|
+w: Who's the fool~now? Martin* said to his man; Fill the cup and I the can; 
+V:2
+B,2F B2E|A,3 C3|F,3 G,2=D|
+V:1
+A2E C>DE & E2x x2C|cdB A3 & E2[DG] C3|"^f"A2E C>DE|cdB A3 & E2[DG] C3||
+w: Thou~hast well drunk-en, man, Who's the fool now? Thou~hast well drunk-en man, who's the fool now?
+V:2
+C3 A3|E3 A3| A2E C>DE|E2E, A,3||
+
+X:25
+%%score 1 2
+%%pagewidth 800pt
+T: We be soldiers three
+M: 6/8
+L: 1/8
+K: G
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+[G,B,E]2z [B,^DF]2z|A2G F2z & [B,E]3 [B,^D]3|[G,E]>FG [B,^DF]2[B,DB]|G>FE F3 & [B,E]3 [B,^D]3|
+w: We be sol-diers three, \
+%%vocalfont Baskerville10Pro-Italic 14
+w:Par-dona* moy, je vous* an pree,
+V:2
+E2z B,2z|E,3 B,2z|E3 B,3|E,3 B,3|
+%%vocalfont Baskerville10Pro 14
+V:1
+d>cB A>GA &=D3 D3|B>AG F2B & ^D2E D2E|A>BG F>EF & E2E C2^D|GE2-E3||
+w: Lately* come forth of the Low* Count-ry, With ne-ver a pen-ny of mo-ney.*
+V:2
+[G,B]>AG [DF]3|G>FE B2G & B,3-B,2z|c2B A2A & z3z2B,|[EG]3 E,3||
+
+X:26
+%%score 1 2
+%%pagewidth 850pt
+T: We be three poor mariners
+M: C
+L: 1/4
+K:Eb
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+[G,E]>F [EG][EA]|[DB]>[Ec] [Fd][DFB]|(c/d/)e dc &[EA][EA] [EA][EA]|[EB]3 [EB] & AG/F/ Gx|
+w:We be three poor ma-ri-ners, New-ly* come from the seas; We
+V:2
+E2 DC|B,3B,|A,CB,A,|E3G,|
+V:1
+AGFD & CB,A,2|E>F (G/A/)B & G,3E|AGF[B,D] & C2A,A,|[G,B,E]4|[G,E]E/F/[EG][EA]|
+w:spend our lives in jeo-par-dy,* While o-thers live at ease. Shall we go dance the 
+V:2
+A,2B,2|C3G,|A,2B,B,|E,4|E2DC|
+V:1
+B/>=A/B/>c/B[DFB]&Dx3|(c/d/)edc&[EA][EA][EA][EA]|B/>=A/B/>c/ BB &[EG]/x/x2[DE]|
+w:round, the round, the round? Shall we* go dance the round, the round, the round? And
+V:2
+B,3B,|A,CB,A,|E3G,|
+V:1
+AGFD & [CE]B,A,2|E>F (G/A/)B & G,3E|[CEA][B,EG][B,DF][A,B,D]|E/>D/E/>F/E2 & [G,B,]x3||
+w:he that is a bul-ly boy,* Come pledge me on this ground, a ground, a ground.
+w:|jol-ly|||
+V:2
+A,2B,2|C3G,|A,E,B,B,|E,4||
+
+X:27
+%%pagewidth 9in
+%%vocalfont Baskerville10Pro 14
+%%score 1 2
+T: My Little Pretty One
+M: 3/4
+L: 1/4
+K:G
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+DD[DG]|F>GF|GGc & C2E|B>cB & D3|
+w:My lit-tle pret-ty one, My pret-ty ho-ney one,
+V:2
+G2x & B,2G,|A3 & D3|E2C|G3|
+V:1
+[GB]dB & xG2|A>GF & E2D|GF>E|"^rall."(A/B/c/B/)(A/G/) & EEE|F3||
+w:She is a joy-ly one, And gen-tle as . . . can* be.
+w:|joy-ous||||
+V:2
+EB,2|C2D|B3 & E3|CA,C|A3 & D3||
+V:1
+"^a tempo"D/>D/GF|E>E[A,D]|D/>D/EG & B,Cx|F>GA & A,2E|
+w:With a beck she comes a-non, With a wink she will be gone.
+V:2
+[DF][B,G]2|[CG]2F,|G,C,2|D,2C,|
+V:1
+[^DB][EG][F=d]|B>cd & G2G|"^rall."e/d/cB & GAG|A>BA & F2F|[GB]3||
+w:No doubt she is a-lone of* all that e-ver I see. 
+V:2
+B,,E,=D,|G,2B,,|C,3|D,2D,|G,3||
+
+X:28
+%%score 1 2
+%%pagewidth 800pt
+T:Robin, lend to me thy bow
+M:C
+L:1/4
+K:D
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+DE/F/GF & x2B,2|EEDd & C3D|cBAF & D3D|[DG][CA][DF]>D|
+w:Now Ro-bin, lend to me thy bow, Sweet Ro-bin lend to me thy bow, For
+V:2
+[DF]2G,2|A,2B,B|AGFD|EA,D2|
+V:1
+G/A/B/c/dA & B,GD2|c/B/A/G/FA  & DCDD|[DB][Ge][Fd][Ec]|[Fd]4||
+w:I must now a hunt-ing with my la-dy go, With my sweet la-dy go.
+V:2
+E2F2|GABF|GEAA,|D4||
+
+X:29
+%%score 1 2
+%%pagewidth 950pt
+T: Who liveth so merry in all this land?
+M:6/8
+L:1/8
+K:Bb
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+B|c>BF BBB & D6|c2c d2d & E3 D3|e>dc d>cB & F3 F3|c>dc B2B & E3 D3|
+w:Who li-veth so mer-ry in all this land, As doth the poor wid-ow that sell-eth the sand, And
+V:2
+z|[B,F]6|A3 B3 & [B,F]6|A3 B3 & [B,F]6|A3 B3 & [B,F]6|
+V:1
+c>BF BBB & D6|c2c d2d/d/ & E3 D3|e>dc d>cB & F3 F3|(cG)>A B2 & E3 D2||
+w:e-ver she sing-eth as I can guess, Will you buy* any sand,* any sand,* Mistress.|
+V:2
+[B,F]6|A3 B3 & [B,F]6| A3 B3 &[B,F]6|F3 F2 & B,3 B,2||
+
+X:30
+%%score 1 2
+%%vocalfont Baskerville10Pro 8.4
+%%pagewidth 6.6in
+T:To-morrow the fox will come to town, or Trenchmore
+M:6/8
+L:1/8
+K:G
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+[B,G]|[A,F]F[B,G] [CA]2[DB]|[CA]2[B,G] [CA]FD|G3 [GB]3 & B,2x x3|([Bd]2[Ac]) [GB]2[B,G]|[A,F]F[B,G] [CA]2[DB]|
+w:To-morrow* the fox will come to town,** Keep, keep, keep,* keep; To-morrow* the fox will
+V:2
+G|D3 D3| D3 D3| G,3 G,3|G,3 G,3|D3 C2B,|
+V:1
+[Ec]2[DB] [CA]2[DB]/[Ec]/|[DBd]2[GB] [CFA]2A|[B,G]3-[B,G]2[B,G]|[A,F]2[B,G] [CA]2[DB]|[CA]2[B,G] [CA]2D|
+w:come to town, O* keep you all well there.* I must de-sire you neigh-bours all, To
+V:2
+A,3 A3|D3 D3| G3 G,2G,|D3 D3| D3 D3|
+V:1
+[B,G]GG [GB]2B|[Bd]2[Ac] [GB]2[B,G]|[A,F]2[B,G] [CA]2[DB]|[Ec]2[DB] [CA]3|!f![DGB]3[DFAd]3|
+w:hal-lo the fox out of the hall, And cry as loud as you can call, Whoop, whoop,
+V:2
+G,3 G,3| G,3 G,3| D3 C2B,|A,3 A3|D3 D3|
+V:1
+[Bd]2B d2[B,G] & [DG]3-[DG]2x|[A,DF]2[B,G] [CA]2[DB]|[Ec]2[DB] [CA]2[DB]/[Ec]/|[DBd]2[GB] [CFA]2A|[B,G]3-[B,G]2||
+w: whoop, whoop, whoop. And cry as loud as you can call, O* keep you all well there.*
+V:2
+G3-G2G,|D3 C2B,| A,3 A3|D3 D3|G3 G,2||
+
+X:31
+%%score 1 2
+%%pagewidth 7.5in
+%%vocalfont Baskerville10Pro 11
+T:The doleful dance and song of death
+M:6/8
+L:1/8
+K:G
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+[DFA]|[DGB]2G d2B|G2D GB2|A2c (B>A)G & D6|(G>F)G [DA]2[DFA] & ^C3 x3|
+w:Can you dance The shaking of the sheets, A dance that ev'-*ry one must do; Can you
+V:2
+D|G6-|G6|F3 G3|E3 F2[D=c]|
+V:1
+[DGB]2G d2B|G2D GB2|A2c (B>A)G & D6|(FA)B [CGc]2 [Gd] & D3 x3|
+w:trim it up with dain-ty sweets, And ev'-ry thing* that 'longs* there-to? Make 
+V:2
+G6-&B3x3|G6|[FA]3 G3| [DA]3 [EG]2 B,|
+V:1
+[EGe]2c [Gd]2 [EGc]|(B>A)G [FA]2D & [DG]2 x4|G2F [B,DG]2D & [CE]3 x3|(B>A)G [FA]2[DFA] & [DG]2 x4|
+w:rea-dy, then, your wind-ing* sheet, And see how ye~can be stir your feet, For*
+V:2
+(C3B,2)A,|D3-D2D|G,3-G,2B,|D3-D2D|
+V:1
+[EGe]2c [Gd]2 [EGc]|(B>A)G [FA]2D & [DG]2 x4|G2F [B,DG]2D & [CE]3 x3|[DFB][CA]2 [B,G]2||
+w:Death is~the man that all* must meet, For death is~the man that all must meet.
+V:2
+(C3B,2)A,|D3-D2D|G,3G,2B,|D3 G2||
+
+X:32
+%%score 1 2
+%%pagewidth 950pt
+T:Wolsey's Wild
+M:6/8
+L:1/8
+K:D
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+A|[Fd]2A (FA)F|(GA)F [CE]2D & D3 x3|[Fd]2A FAF|
+w:Quoth John to Joan* wilt thou* have me? I prithee now, wilt? And I'se
+V:2
+z|D,6|B2A G2F & D6|D,6|
+V:1
+cBc d2 & G3 F2||A|([DF]G)A D2A|(Bc)d [Ec]2A & G3 x3|([DF]G)A (AB)A & x3 D3|(Bc)d c2A & G3 E3|
+w:mar-ry with thee, My cow,* my calf, my house,* my rents, And all* my lands* and tenements:*** O
+V:2
+A,3 D2||z|D3 F3| G3 A3| D3 F3|G3 A3|
+V:1
+FGA EFG & D3 C3| FGA (GA)B & D3 D3|FGA (EF)G & D3 B,3|(FE)[CE] D2 & A,2 x3||
+w:say, my Joan, say my Joan, will not that do?* I can-not come ev'--ry day* to woo.
+V:2
+D3 A,3|D2C B,2G,|D,3 G,3|x2 GF2 & A,3 D2||
+
+X:33
+%%score 1 2
+%%pagewidth 8in
+%%vocalfont Baskerville10Pro 12
+T:The Marriage of the Frog and the Mouse
+M:3/8
+L:1/8
+K:G
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+D|[B,DG]G[DFA]|[DGB]dB|G>G[FA]&Dx2|[GB]dB|
+w:It was a frog in the well, Hum-ble-dum, hum-ble-dum,
+V:2
+z|G,3|G,3|B,2D|G3|
+V:1
+B/c/dB&G3|edB&G3|d>ed/c/&F3|[DB]G:||
+w:And the merry mouse in the mill, twee-dle, twee-dle, twi-no.
+V:2
+GBG|cBG|D3|G2:||
+
+X:34
+%%pagewidth 7.5in
+%%score 1 2
+%%pos orn above
+T:The Cramp
+M:6/8
+L:1/8
+K:Bb
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+G|d2d c2c & G3 G3|[Bd]>[Ac][GB] [^FA]2G|d>ed c2e & G3 G3|[^Fd]3 G2G|
+w:The cramp is in my purse* full sore, No money* will bide there-in, a, And
+V:2
+z|[GB]3 [Ge]3|d2d c2B & G6|G3 G3 & B,3 E2C|[Dc]3 [GB]2 z|
+V:1
+d2d c2c & G3 G3|[Bd]>[Ac][GB] [^FA]2G|d>ed c2e & G3 G3|[^Fd]3 G2z|
+w:if I had some salve* there-fore, O light-ly then would I sing, a,
+V:2
+[GB]3 [Ge]3|d2d c2B & G6|G3 c3 & B,3 E2C|[Dc]3 [GB]2z|
+V:1
+!>![Gc]3 G2[GB]|[^FA]3 G2z|!>![Gd]3 G2[GB]|[^FA]3 G2z|
+w:Hey ho! the cramp, a. Hey ho! the cramp, a.
+V:2
+(e3B2)d & G6|c3 B2 z & G3-G2x|(B3e2)d & D6|[Dc]3 [GB]2z|
+V:1
+!>![Gc]3 G2[GB]|[^FA]3 G3|!>![Gd]3 G2[GB]|[^FA]3 G2||
+w:Hey ho! the cramp, a. Hey ho! the cramp, a.
+V:2
+(e3B2)d & G6|c3 B2 z & G3-G2x|(B3e2)d & D6|[Dc]3 [GB]2x||
+
+X:35
+%%score 1 2
+%%pagewidth 850pt
+T:I have house and land in Kent
+M:2/4
+L:1/8
+K:Bb
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+[B,G][D^FA]|[DGB]d[EGc]B|[=FA]>F[EG]A|BBcc & D2 G2|
+w:I have house and land in Kent, And if you'll love me, love me
+V:2
+G,D|G2E2|[Fc]4|[B,B]2 [EG]2|
+V:1
+[^Fd]2 dd & x2 G2|cB/A/ BG & D2 D2|[D^F]D B/c/d & x2 D2|cG[DB][CA] & E2x2|
+w:now. Two-pence half-penny* is my rent, I can-not come ev-'ry day to
+V:2
+A2x2 & D>C[B,G]2|[A,^F]2 [G,G]2|[DA]2 [G,G]2|[CG]2 [DG][D^F]|
+V:1
+[B,G] "^Chorus"G[DGd][DAd]|cB/A/ B[DG] & [DG]3x|[D^F]D B/c/d & x2 [DG][DG]|[EGc][CG][DGB][D^FA]|[B,G]2||
+w:woo. Yes, two-pence half-penny* is his rent, He can-not come ev-'ry day to woo.
+V:2
+G2 B,^F, & ED/C/x2|G,3B,|DDG,B,|CEDD|G2||
+
+X:36
+%%score 1 2
+%%pagewidth 800pt
+T:Lusty Gallant
+M:6/8
+L:1/8
+K:G
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+G|[B,EG]2A [^DFc]2B|[EBe]2B e2B|[EG]2A [B,E(B]A)G|[A,^DF]3 [G,E]2 :||:
+w:Fain would I have a pret-ty thing To give un-to* my La-dy,
+V:2
+z|E3 B,3|G,6|E,3 G,3|B,3 E2 :||:
+V:1
+E|[B,E(G]F)G [DFA]2A|[DGB]2c [DAd]2d|[EGc]2[DFB] [CEA]2[B,G]|[A,^DF]3[G,E]2 :||:
+w:I name* no thing, And mean no thing, But~as pretty a thing as may be.
+V:2
+z|E3 D3|G,3 F,3|E,3 A,3| B,3 E2 :||:
+
+X:37
+%%score 1 2
+%%pagewidth 950pt
+T:By a bank as I lay
+M:C
+L:1/8
+K:C
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+[DGB]2[CG]2 (A2B2) & x4 (C2F2)|(c>B)(c>d) c4 & E8|B>cdd d2dc & D4 G2E2|B>AG>A ^F4 & D2D2 D4|
+w:By a bank* as* I* lay, Musing* on a thing that was past and gone, heigh ho!
+V:2
+G2E2 F2D2|C8|G4 B,2C2|G,2B,2 D4|
+V:1
+A>_Bcc [Bd][Ac] [Ac]2 & [C=F]2[FA]2 F4|=B>cdd [ce][Bd][Bd]d & [DG]2[GB]2 G4|c2>B2 (A2B2) & G4 (C2F2)|(c>B)(c>d) c4 & E8||
+w:In the merry* month of May, O some-what be-fore the day, Me-thought I heard* at* the* last.
+V:2
+=F4 =F,4|G4 G,4|E4 F2D2|C8||
+
+X:38
+%%score 1 2
+%%staffscale 1.0
+T:Rogero
+M:C
+L:1/8
+K:F
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+(FG)|[CA]2[DF]2 [DB]2 (AG) & x6F2|[FA]3[GB] [FA]2[Fc]2|B2[FA]2 [CG]2[=B,F]2 & DEx6|
+w:When* as the Duke of* Nor-man-dy, With glist'ring* spear and 
+V:2
+z2|F2D2 G2C2|F6 A2|G2 F2 E2 D2|
+V:1
+[EG]3[FA] [EG]2(CD) & G6x2|[CE]2C2 [A,F]2(ED) & x6 A,2|G3A G2[Gc]2 & D6 x2|[FA]2(GF) [DG]2[B,C]2 & x2C2 x4|[A,F]6||
+w:shield.** Had* en-ter'd in-to* fair England,* And foil'd his* foes in field.
+V:2
+C6 z2|C2 A,2 D2 F,2|B,3C B,2E,2|F,2 A,2 B,2 [CE]2|[F,F]6||
+
+X:39
+%%score 1 2
+%%staffscale 1.0
+T:Turkeyloney
+M:6/8
+L:1/8
+K:Bb
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+(G/A/)|B>AG ^F>=EF|GAG (^F>G)A|
+w:If* e-ver I mar-ry, I'll mar-ry a maid:* To 
+V:2
+z|[GB]3 [Ac]3|[Bd]3 [Ac]3|[GB]3 C3|
+V:1
+B>cd A>Bc & x3 E2x|(BA)G ^F2F & D3-D2x|G>AB A>Bc & D3 F3|
+w:marry* a widow* I'm sore* a-fraid; For maids they are sim-ple, and 
+V:2
+D3-D2z|[GB]3 [Fc]3|[B,FB]2[B,FB] [B,FB]3|
+V:1
+[Fd]2[Fd] [F(d]c)B|A2G ^F=EF & E2x C3|[B,G]GC G2||
+w:never will grutch,* But widows full oft, as they say, know too much.
+w:**(grudge)|||
+V:2
+C3 D3|G,3 G,2||
+
+X:40
+%%score 1 2
+%%staffscale 1.0
+T:All in a garden green
+M:C
+L:1/4
+K:F
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+c2 cc & F4|A>B cA & F3F|dc BA & F2 EF|G3 A & E4|
+w:All in a gar-den green Two lov-ers sat at ease, As
+V:2
+[FA]4|c3x & F>G A[Fc]|BA GF|c2 C2|
+V:1
+B>c (d/e/)f & F2 F2|F>G (A/B/)c & F2 F2|[B,EB][CFA] (G/F/)G & x2 [CE]2|[A,F]4||
+w:they could scarce* be seen a mong,* A-mong the leaf-*y trees. 
+V:2
+D2 B,2|A,2 F,A,|G,F, C2|F4||
+V:1
+(c>c) df & [CG]2 [FA]2|fe f2 & [Gc]2 [Fc]2|A>A [GB][FA] & F2 B,2|[CEG][A,F] [CEG]2|(A>G) F/G/A & C2 D2|
+w:They* long had lov'd y-fere, And no longer* than tru-ly, In* that* time
+w:|**(together)||||
+V:2
+E2 D2|C2 A,2|D2 G,2|CD C2|F,4|
+V:1
+B>A (G/A/B) & D2 E2|(c>B) (A/B/)c & E2 FE|d>c BA & D>E F/G/C|[B,DG][A,F] G/F/G & x2 [CE]2|[A,F]4||
+w:of the year,** In* that* time of the year Com-eth 'twixt May* and July.
+V:2
+G,4|A,4|B,>C D/E/F|GD C2|F4||
+
+X:41
+%%score 1 2
+%%pagewidth 850pt
+T:Row well, ye mariners
+M:6/8
+L:1/8
+K:G
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+!f![B,DG]|[A,DF]2E [DF]2[DG]|[DA]3-[DA]2[DGB]|[EG(c]d)c [DG(B]c)B|
+w:All you that news would hear,* Give ear* to me,* poor
+V:2
+G,|D3 D2E|F3-F2G|C3G,3|
+V:1
+[DFA]2F A2[B,DG]|[A,DF]2E [DF]2[DG]|[DA]3-[DA]2[DGB]|[EG(c]d)c [DG(B]c)B|[CFA]2[B,G]2[B,G]||:
+w:Fa-byn Fly, At Rome I was this year,* And in* the Pope* his nose did lie;
+V:2
+D3-D2G,|D3 D2E|F3-F2G|C3 G,3|D2G G2||:
+V:1
+G|(de)d A2B & F3 =F3|(cd)B [CA]3 & E2D x3|"^p"(=GA)G [CF]2[B,G] & E2D x3| (AF)D [B,G]2 & C3 x2 :||:
+w:But there* I could not long a-bide, He blew* me out of ev'* ry side.
+w:For first* when he had heard the news That re *bels did their prince* mis use,
+V:2
+G|[DA]3 [DA]3|[E^G]3 [A,A]3|c2B A2G|[DF]3 [G,G]2 :||:
+V:1
+[DGB]|"^f Row"[DAd]3 "^well,"[^CA]3|"^row"[DAd]3 "^well,"[^CA]3|"^p Row"[DAd]2[FAe]"^well," [Gd]2"^ye"[EAc]|"^ma-"[GB]2"^ri-"[FA] "^ners."G2:||
+w:*Then he with joy,~Did sport him-self with many a toy:
+w:*He then so-stout,~That from his nose he blew me out.
+V:2
+G|F2D A2G|F2D A2G|F2=c B2A|d2[Dc] [GB]2 :||
+
+X:42
+%%score 1 2
+%%pagewidth 7in
+T:Lord Willoughby
+M:C
+L:1/4
+K:G
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+[^DFB]|BB ee & [EG]2 [EG]2|(d>c) B (c/d/) & F2 G2|[Ge]E [CEG][CFA]|
+w:The fifteenth* day of Ju-*ly, With* glist'-ring sword and
+V:2
+B,|E2 C2|D2 G,2|C2 B,A,|
+V:1
+[B,DGB]3 [DGB]| BB e[ce] & [EG]2 [EG]E|(d>c) Bc/d/ & [FA]2 G2|[Ge]E [EG][EA]|
+w:shield, A fa-mous fight in Flan* ders Was* fought-en in the
+V:2
+G,D GF|ED CA,|DD, G,A,/B,/|C2 CC|
+V:1
+[^DFB]3||[B,DB]|[B,EG][B,F] [B,EG][EA]|B>B B[EGB] & [^DF]3x|[CEB][CFA] [B,GB][Gc]|[FAd]3 d/d/ & x3 [FA]|
+w:field: The most cou-ra-geous of-*ficers Were English* Captains* three; But the 
+V:2
+B,3||B,|E^D EC|B,3 G,|CD GE|D3C|
+V:1
+[Gd]2 Bc/d/ & x2G2|[Ge]2 [GB]A/G/ & x3B,|[B,F][G,E] [B,E][B,^D]|[B,E]3||
+w: bra vest in the bat tle Was* brave Lord Wil-lough-by. 
+V:2
+B,2 G,A,/B,/|C2 E[E,E]|[B,^D][CE] [B,F][B,F]|[EG]3||
+
+X:43
+%%score 1 2
+%%staffscale 1.0
+T:All flowers of the broom
+M:3/4
+L:1/4
+K:G
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+A>B A/G/|F>ED|d>e d/c/|B>AG|A>B A/G/|
+V:2
+F>G F/E/ & D3|A>GF & D3|{G,/}B>c B/A/|d>c B & G3|F>G F/E/ & D3|
+V:1
+F>ED|GGF & B,/C/D2|[DG]3||[B,DG][B,DG][DFA]|[DGB]>[DFA][B,G]|[CEc][DGB][DFA]|
+V:2
+A>GF & D3|[EG][DA]2|[GB]3||GGD|G>DE|G,DD|
+V:1
+[DGB][B,DG]2|A>B A/G/ & E3|FDE/F/ & DxC|GGF & B,/C/D2|[DG]3||
+V:2
+GG2|[CA]3|[DA]2[A,A]|[EG][DA]2|[GB]3||
+
+X:44
+%%score 1 2
+%%pagewidth 9in
+%%vocalfont Baskerville10Pro 16
+T:I am the Duke of Norfolk
+M:2/4
+L:1/8
+K:Bb
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+B|[GB]>AGA|B2 [D(B]c/B/)|[FA]FFF|[CF]2 FF|
+w:I am the Duke of Nor folk,** New-ly come to Suf-folk, Say
+V:2
+z|d>cBc & G4-|d2B2 & G2G2|c4- & F4-|c2A2 & F2F2|
+V:1
+GGGA & E4|(Bc/B/) AG|[^Fd]2[Fd]2|[^Fd]3c|BB[GB][Ac] & [DG]2E2|[DBd]2 cB & x2F2|
+w:shall I be at-tend** ed, or no, no, no? Good Duke be not of-fended,* And
+V:2
+[EB]4|[EGB]2[EGc]2|[DAd]2[DAd]2|[DAd]4|G2=F2|B,2D2|
+V:1
+cccc & [FA]2[=EG]2|[FAc]2(cB/c/) & x2G2|ddcB & G4|[^FA][=EG]([FA][Ac])|[GB]2[DG]2|[DG]3||
+w:you shall be at-tend-ed, And* you shall be at-tend-*ed,* now, now, now.
+V:2
+F2C2|F,2[_Ec]2|B2AG & D4|[Dd]4|[Gd]2[GB]2|[GB]3||
+
+X:45
+%%score 1 2
+T:Pepper is Black
+M:6/8
+L:1/8
+K:G
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+[B,G]|[A,F]2D A2[B,G]|(F>E)D A2D & A,2x4|G>AG (A>B)(c/d/) & D3 D3|[DB]3 G2[B,G]|
+w:Look up, my lords, and mark* my words, And hear* what I* shall* sing ye; And
+V:2
+G|D2z z2G|D2z z2D|B,3 F,3|G,3-G,2G,|
+V:1
+(A>B)c (cd)c & E3 E3|(A>B)c (c>B)c & E3 E3|B2c (d>e)c & G3 F3|[GB]3 G2||
+w:sub* jects all,* both great* and small,* Now mark what words* I bring ye.
+V:2
+C3A,3|C3A,3|D3D,3|G,3-G,2||
+
+X:46
+%%score 1 2
+%%pagewidth 7.0in
+T:Walsingham
+M:3/4
+L:1/4
+K:C
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+c/d/ed & [EA]2[FA]|[EAc]AE|c/d/[ce][Bd] & EGF|[Ec]3|
+w:As I went to Wal-sing-ham, To the shrine with speed,
+V:2
+A,2D|A3|AGG|cGC|
+V:1
+B/>c/d/d/e/d/ & FA[EB]|[EA(c]A)E|B/c/d(c/B/) & F[DA][E^G]|[CA]3||
+w:Met I with a jol-ly pal* mer In a pil grim's* weed.
+V:2
+DF^G,|A,2C|DFE|A3||
+
+X:47
+%%score 1 2
+%%staffscale 1.0
+T:Packington or Paggington's Pound
+M:6/8
+L:1/8
+K:G
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+G>FG AFD|G>FG A2A|B>cd cA=F|GBA G2-G||
+
+X:48
+%%score 1 2
+%%pagewidth 800pt
+%%vocalfont Baskerville10Pro 10
+T:In praise of dairy
+M:6/8
+L:1/8
+K:G
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+B,|EFG FGA|GFE [^DF]2B,|GAB ABG & B,3 ^D2E|FE^D E2 & C2B, G,2||
+w:In praise of a dai-ry I pur-pose to sing, But all things in order;* first God save the King!
+V:2
+z|[EG]3[^DB]3|[EB]3B,3|E2G F2E|A,2B, E,2||
+V:1
+B|Bd^c B2F & =D3-D2E|Bd^c B2F & F3-F2^C|Bd^c Bcd & F3 DEF|[Ge][Fd][E^c] [DB]2d|
+w:And~the Queen I may say; That ev'-ry May-day, Has ma-ny fair dai-ry-maids all fine and gay: As-
+V:2
+z|[B,F]3-[B,F]2[^C^A]|[DB]3-[DB]2[E^A]|[DB]3 [GB]3|[EB]2[F^A] [B,B]2z|
+V:1
+BAG [DA]FD & D3 x3|GFE [^DF]2B, & B,3x3|GAB ABG & B,3 ^D2E|FE^D [G,E]2 & C2B, x2||
+w:sist me, fair damsels,* to finish* my theme, In spring* my fan-cy with strawberry** cream.
+V:2
+[G,G]3[DF]3|[EG]3[B,B]2z|E2G F2E|A,2B, E,2||
+
+X:49
+%%annotationfont Baskerville10Pro-Italic 11
+%%pagewidth 7in
+%%score 1 2
+T:Staines Morris
+M:4/4
+L:1/8
+K:G
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+B2e2 "^a"^c2^d2 & G4 A2F2|e2(=d=c) (B2>c2) & E6 G2|(de) (dc)[GB]2 ([FA][EG]) & F6 x2|[^D(F]E) [D(F]G) E4|
+w: Come, ye young men, come a* long,* With* your* mu-sic,* dance* and* song,
+V:2
+E4 A,2B,2|C2B,A, G,2E2|D4G2A2|B2B,2E4|
+V:1
+"^p"(GA) (Bc) [EB]2([FA][EG]) & E4 x4|([^DF]E) ([DF]G) E4 & x4 E2=DC|[B,(G]A) (Bc) [EB]2([FA][EG])|([^DF]E) ([DF]G) E4||
+w:Bring* your* lass-es* in* your* hands, For* 'tis* that which* love* commands.**
+V:2
+E4 G2A2|B2B,2 C2 B,A,|E4 G2A2|B2B,2 E4||
+V:1
+"^f Repeat in Chorus."[B,G]2 [B,G]G D2D2|(EF) GA (B2>c2) & C2C2 D2G2|(de) dc [GB]2([FA][EG]) &F4x4|[^D(F]E) [D(F]G) E4 :||
+w:Then to the Maypole* come* a* way,* For* it is now a* ho-*li-*day.
+V:2
+G,2G,2 B,2B,2|C2E2 G2E2|D4 G2A2| B2B,2 E4 :||
+
+
+X:50
+%%vocalfont Baskerville10Pro 12
+%%annotationfont Baskerville10Pro-Italic 12
+%%score 1 2
+%%pagewidth 8in
+T:The Shepherd's Daughter
+M:C
+L:1/8
+K:Bb
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+D2|G2>G2 (AB)(cA) & B,2x2 [D^F]4|(B2>c2) B2[DGd]2 & [DG]6x2|c2>B2 (AB)(cG) & [EG]2x2 [EF]4|[DFB]6 [DGd]2|
+w:There was a shep-*herd's* daugh-*ter, Came trip-ping on* the* way, And
+V:2
+z2|G4 D4|G,6 B,2| C4 F4|B,6 B,2|
+V:1
+c2>B2 A2c2 & [EG]4 [EF]4|B2>A2 G2B2 & [DF]4 [DE]4|A2>G2 G2^F2 & [CE]4 [CD]4|[B,DG]8||"^Chorus."[G,DG]4 [DGB]4|[CEA]2 [CD^F]2 [B,DG]4||
+w:there, by chance, a Knight she met, which caused* her to stay. Sing, trang, dil-do dee.
+V:2
+C4 F,4 |B,4 E,4|A,4 D,4|G,8||B,4 G,4|C2D2 G,4|| 
+
+X:51
+%%score 1 2
+T:The Frog Galliard or Now, O Now!
+M:6/8
+L:1/8
+K:G
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+[GB]2[FA] [EG]2[DF]|[CE]2[EG] [DA]3|[DB]2[Ad] [Gc]2[GB]|[GA]2[GB] [FA]3|
+w:Now, O now I needs must part, Part-ing though I ab-sent mourn,
+w:While I live I needs must love, Love lives not when life is gone;
+V:2
+G,6-|G,3 F,E,D,|G2F E2D|C2^C D3|
+V:1
+[GB]2[FA] [EG]2[DF]|[CE]2[EG] [DA]3|B2d (cB)A & DGF (ED)C|[B,G]2[A,F] [B,G]3 :||
+w:Ab-sence can no joy im-part, Joy once fled* can ne'er re-turn.
+w:Now, at last, des-pair doth prove, Love di vi-*ded lov-eth none.
+V:2
+G,6-|G,3 F,E,D,|G,3 C3|D3 G,3 :||
+V:1
+c2c c2e & G6|d2e (d2B) & G6|(dc)B (Ac)B & G3 G3|[FA]2[GB] A3 & x3 FED|
+w:Sad despair* doth drive me hence,* That* des-pair* un-kind-ness sends;
+V:2
+E3-E2C|B,2C B,2G,|E2D C2^C|D6|
+V:1
+[^DB]2A G2[B,DF]|[B,E]2G [=DA]3|B2d (cB)A & DGF (ED)C|[B,G]2[A,F] [B,G]3||
+w:If that part-ing be of-fence, It is she,* who then of-fends.
+V:2
+B,3-B,2A,|G,2E, F,E,D,|G,3 C3|D3 G,3||
+
+X:52
+%%score 1 2
+T:Paul's Wharf
+M:6/8
+L:1/8
+K:D
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+[Af]|d2e B2c & ^G3 =G3|[Fd]AF D2[Ae]|[Af]cd [Ge]Bc|[Fd]AF D2 :||:
+V:2
+D|E3 A3|D3-D2 c|d3 A3|D3-D2 :||:
+V:1
+F|FAF GB2|AdB ce2|fed eBc|dAF D2 :||
+V:2
+[DA]|A3 B3 & D6|F2G E3 & D6|[DA]3 [A,G]3|[DF]3-[DF]2 :||
+
+X:53
+%%pagewidth 7.5in
+%%score 1 2
+T:Trip and Go
+M:6/8
+L:1/8
+K:A
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+cA2 e3 & E6|cA2 e3 & E6|cA2 (e2c) & E3 E2A|B3-B3 & A3 G3|cA2 e3 & E6|
+w: Trip and go, heave and ho, Up and down, to and fro; From the town
+V:2
+A6|A6|A,3 c2A|E6|A6|
+V:1 
+cA2 e3 & E6|cA2 (e2c) & E3 E2A|B3-B2G & A3 G2E|[E(A]2G) F2E|[C(A]2C) (B,2A,)|ABc [DGB]2[CA] & C3x3|
+w: to the grove, Two and two* let~us rove, A may-*ing, a play* ing;* Love* hath no gain 
+V:2
+A6|A,3 c2A|E3-E2D|C2z z2C|F2z z2F|E3 E2E|
+V:1
+[E(B]3 [B)EG]2[EG]|[EA]2G (F2E)|[CA]2C (B,2A,)|ABc [EGB]2[CA] & C3 x3|[CA]3-[CA]3 ||
+w:say-ing: So trip and go,* trip and go,* Mer-ri-ly trip and go.*
+V:2
+E3 E,2D|C2z z2C|F2z z2F|E3 E2A|A3 A,3||
+
+X:54
+%%score 1 2
+%%staffscale 0.9
+T:Barley-Break
+M:3/4
+L:1/8
+K:G
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1 
+!f![B,G][DFA]|[DGB]2 [B,B]2[B,AB]2|[B,GB]4[FB][Ec]|[DGd]2[Dd]2[Dcd]2|[DBd]4[DA]B|c2c2c2 & G2cBAG|c4d2 & F2EFD2|
+V:2 
+GD|G,2G2F2|E4DC|B,2B2A2|G4F2|E2edcB|A2GAF2|
+V:1 
+[DB]2[FA][EG][FA]2|G6 :||[M:6/8]"^Fast"G>FG A>GA & D2x F2x|B>cd d2G & G2x4|A>GA B>AB & D2x D2x|c>de e2A & E2x x2D|
+V:2
+G2d2"^Repeat piano."[Dc]2|[GB]6:||[M:6/8][GB]3[DA]3|[G,G]3-[G,G]2[GB]|[FA]3G3|[CG]3-[CG]2[DF]|
+V:1
+B>cde>fg & D2x4|f>edc>BA|B>cdd>e^c & x3E3|[Fd]2[Fd][Fd]3||d2ed2g & G6-|fded3 & G6|
+V:2
+[G,DG]6|[G,DA]6|[G,DG]3[G,G]3|[DF]2[DA][DA]3||B2cB2e & G6-|d2cB3 & G6|
+V:1
+B2c B2e & G3-G3|dGcB3|d2d g3 & G3 G3|G2G [FGd]2[EGc]|B>AG AF2 & [DG]x2 C3|[B,G]6||
+V:2
+[K:clef=bass]d2e d2g & G6-|f2e d3 & G6|[GB]3[FB]3|[EB]3[B,G]2[CG]|[DG]3D3|G,6||
+
+X:55
+%%score 1 2
+%%pagewidth 8.5in
+%%vocalfont Baskerville10Pro 12
+T:Watkin's ale
+M:6/8
+L:1/8
+K:D
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1 
+[CGA]|[DFd]2c d2[DFA]|[DGB]2A B2[^DF]|[B,EG]2F [_B,G]2D|[CF]E2 D2 :||:
+w: There was a maid, this o-ther day, And she would needs go forth to play;
+w: And, as she walk'd, she sigh'd and said, I am a-fraid to die a maid.
+V:2
+A,|D,2z z2D|G2z z2B|E2z G,2z|[A,G]2z [DF]2 :||:
+V:1
+DFD F>GA|EGE G>AB|GBG B>cd & D3 D3|
+w:When that be-heard a lad What talk this maiden* had, There-of he was full glad,
+w:To say, fair maid, I pray, Whither* go you to play? Good sir, then did she say,
+V:2
+[FA]3 [DA]3|[GB]3 [FB]3|B3 G3|
+V:1
+e2d c3 & G3 E3:||:Ad2 c3 & D3x3|FB2 A3|DG2 (F>E)D|[K:clef=treble][B,E]2[A,C] [F,D]3:||
+w:And~did not spare For I will without* fail, Maiden,* give* you Watkin's* Ale.
+w:What~do you care? Watkin's ale, good Sir, quoth she, What is that?* I pray, tell me.
+V:2
+E3 A,3:||:F3 G2A & x3 E3|B3 E2F & D3 C3|G3 [A,C]2[B,D] & B,3x3|G,2A, D,3:||
+
+X:56
+%%score 1 2
+%%pagewidth 9in
+%%vocalfont Baskerville10Pro 13
+T:The Carman's Whistle
+M:6/8
+L:1/8
+K:D
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1 
+G|d2d c2A & D6|B3 A3 & D6|[Dd]2d [Ec]2A|B>AB [CA]3 & [D^G]2x x3|
+w:As I abroad* was walk-ing By the break-ing of the day, In-
+V:2
+z|B3 A3 & D6|G3 F3 & D6|[B,^G]3[A,A]2C|E3 A3|
+V:1
+[D=Gd]2d [EAc]2A|[CEB]3 [DA]2A|[^Gd]3 [A(c]2A) & E6|B>A[^GB] A3 & [D3F2] C3|
+w:to a plea-sant mea dow A young man* took* his way,
+V:2
+B3 A3 |G3 F3|E6|E3 A3|
+V:1
+(=GB2) FA2 & D6|[CE]G2 [DF]2D|(GB2) FA2 & D6|[B,DG]>[A,F][G,CE] D2D|
+w:And* look-ing  round a bout him, To* mark what he* could see, At
+V:2
+B2G A2F & D6|G2E A2D & D3-D2x|B,2G, D,2F,|G,2A, [DF]2D|
+V:1
+GB2 FA2 & D6|[C(E]G2) [D(F]2D)|(GB2) FA2 & D6|G>[A,F][G,CE] D2 & [B,D]3 x2||
+w:length he spied a fair* maid* Un-*der a myr-*tle tree.
+V:2
+B2G A2F & D6|G2E A2D & D3-D2x|B,2G, D,2F,|G,2A, [DF]2||
+
+X:57
+%%score 1 2
+%%pagewidth 8.5in
+T:The Carman's Whistle - Byrd arrangement
+M:6/8
+L:1/8
+K:C
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1 
+G|c2c B2G|A2A G3 & x3 [B,D]2x|c2c B2G|A>GA [B,DG]2 :||
+V:2
+z|[CEG]3 [G,DG]3|[D^F]3 [G,DG]3|E2^F G3 & [A,C]3 [G,D]3|[D^F]3 [G,G]2 :||
+V:1
+FA2 EG2|DF2 E2C|FA2 EG2|F>ED C2C|
+V:2
+A3 c2G & D2F C2E|A2B [Gc]3 & F2D C2E|A3 c2G & D2F C2E|A2B G3 & D2G [CE]3|
+V:1
+FA2 EG2|DF2 E2C|FA2 EG2|FED C2||
+V:2
+F2F G2c & [F,C]3 C2E|A2B [Gc]3 & [DF]3 C2E|F2F G2E & [F,C]3 C2E|A2B G2 & D2G [CE]2||
+
+X:58
+%%score 1 2
+T:Go from my window
+M:C
+L:1/8
+K:A
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1 
+[CEA]2ABc2B>B&x6[DG]2|[CA]8|[EGB]2Bcd2c>c&x6[EA]2|[EGB]6B2|
+w:Go from my win-dow, love, go; Go from my win-dow, my dear; The
+V:2
+A,6E2|A4A,4|E6A,2|(E4E,4)|
+V:1
+B2Bcd2(cB)&[E=G]4[DF]4|ABcA[E^GB]2E2&[DF]2[CE]2x4|[EA]2[CA][DB] [EAc]2[DGB]2|[CA]8||
+w:wind and the rain Will* drive you back a-gain, You can-not be lod-ged here.
+V:2
+E4B,4|D2A,2E2D2|C2F2E2E2|A8||
+
+X:59
+%%score 1 2
+%%pagewidth 7.5in
+T:Go from my window - Bacon
+M:C
+L:1/8
+K:C
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1 
+[CEA]2ABc2[EB]A|[D^G]2[CA]2[B,E]4|[EA]2Bc[EAc]2Bc|c4B2Bc&[Gd]6z2|
+w:Go from my win-dow, my love, my love; Go from my win-dow, my dear;* For the 
+V:2
+A,6C2|B,2A,2^G,4|C4A,4|=G,6z2|
+V:1
+dcdBe2[E^GB]B|[EAc]c[EB]A[E^GB]2EE|[EA]2[CA][DB][EAc]2[D^GB]2|[CA]8||
+w:wind is in the west, And the cuc-koo's in his nest, And you can't have a lodg-ing here.
+V:2
+z4z2E2|A,2C2E2D2|C2F2E2E2|A8||
+
+X:60
+%%pagewidth 7.5in
+%%score 1 2
+T:Dulcina
+M:C
+L:1/8
+K:C
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1 
+[Ec]2edc2G2|E2C2G2[FG]2|[Gc]2G2[Gd]2(ed)|[GB]2([^FA]G)G4|
+w: From O-*beron, in fai-ry-land, The king of ghosts and* sha-dows* there,
+V:2
+[CG]8-|[CG]6[DB]2|[Ec]4[B,G]4|[Dd]2[Dc]2B4&x4G2=F2|
+V:1
+[Gc]2edc2G2|E2C2G2[B,FG]2|[CEc]2G2[CFA]2([EG][DF])|[CE]2([B,D]C)C4||
+w:Mad Robin* I, at his command,* Am sent to view the* night-sports* here.
+V:2
+E8-&c8|E6D2|C4F,4|[G,G]2[G,F]2[CE]4||
+V:1
+!p!E2A^GA2B2&C4C4|[EAc]2[CA]2[E^GB]2[EGe]2|[EAe]2A2[A(f]e)(dc)|[^G(B]c)(BA)A4|
+w:What re-vel rout Is kept a-bout, In ev'ry* cor* ner* where* I* go,
+V:2
+A,4F4|E6D2|C4D4|[Ed]4[Ac]4|
+V:1
+!f![Ec]2edc2G2|E2C2G2[FG]2|[Gc]2G2[CFA]2([EG][DF])|[CE]2[B,(D]C)C4||
+w:I will o'er-see, And mer-ry be, And make good sport, With* ho, ho,* ho!
+V:2
+[CG]8-|[CG]6[DB]2|[Ec]4F4|G2[G,F]2[CE]4||
+
+X:61
+%%vocalfont Baskerville10Pro 12
+%%score 1 2
+%%pagewidth 8in
+T:Who list to lead a soldier's life
+M:6/8
+L:1/8
+K:A
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1 
+G|(c>d)e (c>B)A&E6|[DB]2G[CE]2A|c>de A>Bc&E3E3|
+w:Who list* to lead* a sol-dier's life.||
+V:2
+z|[A,A]6|[G,E]3[A,A]3|[A,A]3[CA]3|
+V:1
+[EB]3-[EB]2B|c>de c>BA&E6|[DB]2G E>DC&x3C3|D>EF E>FG&B,2x D2x|[CA]3-[CA]2||
+V:2
+[EA]3[EA]2z|[A,A]6|[G,E]3[A,A]3|[B,F]3G>AB&x3E3|A3-A2||
+
+X:62
+%%score 1 2
+%%pagewidth 7.5in
+T:Lord Thomas and fair Ellinor
+M:6/8
+L:1/8
+K:A
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1 
+E|ABc B2A&C3F3|[EG]FG E2B|cde c2A&E3E3|
+w:Lord Thomas* he was a bold fo-res-ter, And a chaser of the king's
+V:2
+z|A3D3|E3-E2z|A3[A,A]3|
+V:1
+[EB]3-[EB]2B|cde c2A&E3E3|[E(G]F)G E2E|ABc c2B&E3[DG]3|[CA]3-[CA]2||
+w:deer,* Fair El-li-nor was a fine* woman, And Lord Thomas* he loved her dear.*
+V:2
+[EA]3-[EA]2z|A3A,3|E3D3|C3E3|(A3A,2)||
+
+X:63
+%%score 1 2
+%%pagewidth 7.5in
+T:The friar and the nun.
+M:2/4
+L:1/8
+K:Bb
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1 
+G/A/&E|BBBB&D4|B3B&F2D2|[FAc]cAB|c3e&[FA]4|[FBd]BBB|
+w:All* in a mis-ty morn-ing, Cloudy* was the weather, I meeting* with an
+V:2
+E|B,4|D2B,2|F4|F2F,2|B,4|
+V:1
+B3B&[B,F]2[C=E]2|[CA]FFG|_A3A&[CF]2[B,D]2|[B,EG]EEF|G_ABB&E4|
+w:old man Clothed* all in leather, With ne'er a shirt up-on his back, But
+V:2
+D2C2|F4|F,2B,2|E,4|E2G2|
+V:1
+[DF]FDE|F3_A&D2B,2|[B,G]EEF|G=ABB&E2D2|AB[Ac]>B&E2E2|[DB]3||
+w:wool un-to his skin. With how d'ye do, and how d'ye do, and how d'ye do a-gain.
+V:2
+B4|B,2D2|E4|C2G2|F2F2|B3||
+
+X:64
+%%score 1 2
+T:John, come kiss me now.
+M:2/4
+L:1/8
+K:F
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+F>GAG/F/|BDBA/G/|F>G A/G/A/B/|c>Cc2|F>G AG/F/|
+w:John, come kiss me* now, now, now,||||
+V:2
+[FA]2[FC]2|[GB][GB][GB]2|[DA]2[DF]2|[CEG][CEG][CEG]2|[A,F]2[F,F]2|
+V:1
+B/A/B/c/ dc/B/&x2F2|A/B/c/A/ G>F&F2FE|F,4&F,4||[Fc]2[FAf]e|[FBd]3[GBe]|[Af]A/B/ [Fc][FBd]|
+V:2
+[DF]2[B,F]2|FAc2&C3C|[FA]2F,2||A2F2|B3G|d2AB/A/|
+V:1
+[GBe][Af][Gcf]e|[Fcf]c/B/ AA&x2F2|Bc d/c/B/A/&D2GD|GA G>F&EF FE|F4&F4||
+V:2
+GFC2|A2d2|G2BG|c4&c2C2|[FA]2F,2||
+
+X:65
+%%score 1 2
+T:All you that love good fellows or the London prentice.
+M:C
+L:1/8
+K:C
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+G2|:[Ec]2G2[EC]2[Gd]2|[ce]4[Gd]2[DGB]2|[CGc]2G2[B,G]FED|1 C6G2&x6GF:|2 C6||
+V:2
+z2|:C,4[Cc]2[Gd]2|[ce]4[Gd]2[F,F]2|[E,E]2z2[G,DG]2z2| [CEG]2G,2G,F,E,D,:||[CEG]6||
+V:1
+[EGc]2|[GBd]2[Gce]2[GAd]2[^FA]2|[Gd]2d2d2[^Fce]2|[Gd]3[EGc][DGB]2[C^FA]2|[B,G]2G2[Gg]3f|[Gce]2c2[Gce]2[GBd]2|
+V:2
+C2|G2C2D3C|B,6A,2|B,3CD2D2|G3=FE2D2|C2E2G2F2|
+V:1
+[Gc]2G2G2[CEG]2|AB[CGc]2[DFc]2[DFB]2&[CF]2x6|[Ec]6||[CEG]2|[FA]2[EG]2[FA]3[EG]&C8|[FA]2[EG]2[FA]3[EG]&C8|
+V:2
+E6C2|F2E2D2G2|C6||C2|F,6C2|F6C2|
+V:1
+[CF]4[CF]4|[B,D]6[Ec]2|[GD]2[ce]2[Gd]2[Ec]2|[Gd]3[ce] [Gd]2[Gdg]f|[Gce]2[Gd]c c2B2&x4[Gd]4|[Ec]6||
+V:2
+A,2F,2C2C,2|G,2G,,2G,2[Ec]2|[Gd]2[ce]2[Gd]2[Ec]2|[Gd]3[ce][Gd]2[B,,B,]2|[C,C]2[E,E]2[G,G]4|[Cc]6||
+
+X:66
+%%score 1 2
+T:All you that are good fellows
+M:C
+L:1/8
+K:C
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+GG|[Ec]2G2[Ec]2[Gd]2|[ce]4[Gd]2[DGB]2|[CGc]2[CFA]2[BDG]2[DFB]2|
+w:All* you that are good fel lows, Come heark-en to my
+V:2
+z2|C,4[cC]2[Gd]2|[ce]4[Gd]2[F,F]2|[E,E]2[F,F]2[G,G]2[G,,G,]2|
+V:1
+[CEc]6[BDG]2|[CGc]2G2[Ec]2[GBd]2|[Gce]4[Bd]2[FB]2|[Ec]2[FA]2[EG]2[DGB]2|[EGc]6||
+w:song; I know you do not hate good~cheer, Nor li-quor that is strong.
+V:2
+[C,C]2A,2G,2F,2|E,4A,2G,2|C2E2G2G,2|A,2F,2G,2G,2|C,6||
+V:1
+[Ec]2|[Bd]3[ce][df]2[Gce]2&G6x2|[^FAd]6[DFA]2|[DGd]3[EGc][DGB]2[C^FA]2|[B,G]6[Gdg]2|
+w:I hope there is none here, But soon will take my part, See
+V:2
+B,2|G,6C2|D3ED2C2|B,3CD2D2|G3^FG2B,2|
+V:1
+[Gce]2[Gc]2[Ad]2[FB]2|[Ec]2[FA]2[EG]2[CGc]2|[CFA]2[CF]2[CE]2[B,DG]2|[CEc]6||
+w:ing my mas-ter and my dame Say wel-come with their heart.
+V:2
+C2E2=F2G2|A2F2c2E2|F2D2G4|C6||
+
+
+X:67
+%%score 1 2
+%%vocalfont Baskerville10Pro 12
+%%pagewidth 8.5in
+T:The British Grenadiers.
+M:C|
+L:1/4
+K:G
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+D|[BG]D[DG][FA]|[GB]2[FA](B/c/)|[DGd]G[C/F/(B/]A/)(G/F/)|
+w:Some talk of A-lex an-der, And* some of Her* cu*
+V:2
+z|G,2[B,G][DA]|[GB]2[DA]2|[B,G]zDz|
+V:1
+[B,G]3D|[B,G]D[B,G][EA]|[^DFB]2[EA](B/c/)|[DGBd]G[C/F/(B/]A/)(G/F/)|[B,G]3||:
+w:les, Of Hec-tor and Ly-san-der, And* such great names* as* these;
+V:2
+GG,/G,/G,z|G,2EC|B,2CB,/A,/|D,zDz|G,G,/G,/G,||:
+V:1
+[Gce]|d>ed[DAc]&[FA]x3|(B>c)d[=FGd]&[DG]x3|[Ece]e[E/(d/]c/)(B/A/)|G2FD&D2-DD|
+w:But~of all the world's brave he* roes There's none that can* com-*pare, With a
+V:2
+C|D3F|G3B|c2[CA]2|B2A[FA]&D2-DC|
+V:1
+[DG][CD][B,G][DA]|[D^GB]2[CA]B/c/|"^Repeat the last part in Chorus."[D=GBd]G[CE(B]/A/)(G/F/)|[B,G]3:||
+w:tow row, row, row, row, row To the Bri-tish Gre-*na-*dier.
+V:2
+[B,G][A,F]G,=F,|E,2A,2|D,2D2|G,3:||
+
+
+X:68
+%%score 1 2
+T:The Cushion Dance
+M:3/4
+L:1/4
+K:G
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+!p!([DB][B,G])[DB]|B>BA&(GE)F|GGF&FE/D/C|[B,G]3|"_f"[DB][B,G][DB]|B>BA&(GE)F|
+V:2
+(G,G)F|(EC)D|B,CD|ED/C/B,/A,/|(G,G)F|(EC)D|
+V:1
+GGF&FE/D/C|[B,G]3||"_p"[DFA]AA|d>cB&[DA]2x|A>GF/E/&EC2|[A,F]D2|"_f"[DFA]AA|
+V:2
+B,CD|G,B,G,||D,3|FDE|CA,2|D>A,F,/A,/|D,3|
+V:1
+d>cB&[DA]2x|A>GF/E/&EC2|[A,F]D2||"_p"([DB][B,G])[DB]|B>BA&(GE)F|GGF&FE/D/C|[B,G]3|
+V:2
+FDE|CA,2|D>CB,/A,/||(G,G)F|(EC)D|B,CD|ED/C/B,/A,/|
+V:1
+([DB][B,G])[DB]|B>BA&(GE)F|GGF&FE/D/C|[B,G]3||[M:6/8][BDG]G/G[FA]/|G/>G/A/ G/>A/B/&Bx2|
+V:2
+(G,G)F|(EC)D|B,CD|G,3||[M:6/8]G,3/D,3/|G3/E3/|
+V:1
+A/>B/c/ B/>A/B/&Dx/Dx/|[FA]3/-[FA]A/|[FA]A/ A/>B/c/&x3/[DF]x/|[DGd]d/[EAd]c/|B/>A/G/B[CFA]/&D3/2-Dx/|[B,G]3|
+V:2
+F3/G3/|dA/D3/|D3/C3/|B,3/A,3/|D3/D3/|GD/G,3/|
+
+X:69
+%%score 1 2
+T:Joan Sanderson or The cushion dance.
+M:3/4
+L:1/8
+K:Bb
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+[DG]2d3c&x2D2x2|B3cA2&G2E4|[DG]2G2[CD]2|[B,G]6|[EG]2d3c&x2[DA]2x2|B3cA2&[DG]2[C^F]4|
+V:2
+"^Slow."x2A4&[GB]2^F2D2|[EG]2[Cc]4|[DB]4[DA]2|[EG]2[EG]2[B,D]2|[CG]2^F,2D2|G,2A,4|
+V:1
+[DG]2[CEG]2[CD]2|G6||[M:6/8]"^Quick."x2dd2c&G2xE3|d>edc2A&G3^F3|B2B c>dB&G3E2G|[^FA]2GG3|
+V:2
+B,2C2[D^F]2|[G,GB]6||[M:6/8][GB]3c3|B3A3|G3C3|D3G3|
+V:1
+G2dd2c&B,3[EG]3|d>edc2A&G3^F3|B2B c>dB&[DG]3[EG]2[DG]|[C^FA]2G[B,G]2||[BG]|A>BA^F2F&E3D3|G>AGD2G&B,3D3|
+V:2
+G,3C3|B,3A,3|G,3C,3|D,3G,2||G|C3D3|E3B3|
+V:1
+B2B c>dB&D3E2G|[EA]2GG2[DG]|A>BA^F2F&E3D3|G>AGD2G&B,3D3|B2Bc>dc&[DG]3[EG]2[DG]|[C^FA]2G[B,G]3||
+V:2
+G,3C3|D3G2[GB]|[Cc]3[DA]3|[EG]3[B,G]3|G,3C,3|D,3G,3|
+
+X:70
+%%score 1 2
+T:With my flock as walked I.
+M:6/8
+L:1/8
+K:Bb
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+[Dd]2G[C^F]2[B,G]|A2G ^F>=ED&E3A,3|B>A[DG][CF]2[B,G]&[DF]2x4|[C^FA]3[B,G]3|
+w:With my flock as walk-ed I,* The plains* and mount-ains o ver
+V:2
+B3A2G|C3D3|D>CB,A,2G,|D,3G,3|
+V:1
+d2G[C^F]2[B,G]&D3x3|A2G (^F=ED)&E3A,3|B>A[DG][CF]2[B,DG]&[D^F]2x4|[C^FA]3[B,G]2d|
+w:Late, a dam-sel pass'd me by;** With an in-tent to move her, I
+V:2
+B3A2G|C3D3|D>CB,A,2G,|D3G3|
+V:1
+=f>e[FBe][FAc]2[EA]&[=FBd]2x4|[DB]2[Gc][^FAd]2d|[Gd]2G[C^F]2[B,G]|[C^FA]3[B,G]3||
+w:stept in her way; She stept a-wry, But oh! I~shall e-ver love her.
+V:2
+G2DF2F|G2ED2C|B,3A,2G,|D,3G,3||
+
+
+X:71
+%%score 1 2
+T:Go no more a rushing
+M:C
+L:1/8
+K:Bb
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+GABc[^Fd]2G2&D4x4|[CEG]2[A,D^F]2[B,DG]4|Bcde[Af]2B2|[EGB]2[CFA]2[DFB]4|Bcde[Ff]2[Fd]2&F4x4|
+w:Go no more a rushing,|||||
+V:2
+[GB]4[DA]2[EG]2|C2D2G,4|[GB]4[Fc]2[GB]2|E2F2B,4|[Bd]4[Ac]2B2|
+V:1
+[Gc]BAG^F2D2|[DG]A[DGB]c[^FAd]2G2|[CEG]2[A,D^F]2[B,DG]4||"^f"d2d2d2ef&B8-|g2[Beg]2[Bf]4&B2x6|"^p"c2c2c2df&A8|
+V:2
+[EG]4[DA]2[C^F]2|[B,G]2G,2D,2E,2|C,2D,2G,4||B8-&B,2B,2B,2CD|B2x6&E2[EB]2[DB]4|[Fc]8
+V:1
+[cf]edc[Bd]4&F4F4|"^f"[^FAd]DDD[DF]3F|[DG]A[DGB]c[D^FA]2D2|[DG]A[DGB]c[^FA]2G2|[CEG]2[A,D^F]2[B,DG]4||
+V:2
+A,4B,4|D4C4|B,2G,2D2C2|B,2G,2D,2E,2|C,2D,2G,4||
+
+X:72
+%%pagewidth 7.5in
+%%score 1 2
+T:The blind beggars daughter of Bethnal Green
+M:C
+L:1/8
+K:Bb
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+D2|[DG]2[EG]A[DGB]2[DA]G|^F2GA[B,DG]2[EG]2&[CD]4x4|
+w:It was a blind beg gar had long lost his sight, He
+V:2
+^F2&D>C|[B,G]2[CG]2[F,G]2B,2|D4G2[EB]2|
+V:1
+=F>G[C(F]E) (DF)[DB]c&C2x6|d2c>B[Fc]2[_EF]2&=E4x4|[Dd]2[FB]d[Fc]2Ac|
+w:had a fair* daught-*er of beau-ty most bright, And ma-ny a gal-lant brave
+V:2
+[FB]2[FA]2B2A2|[GB]4[FA]2[FA]2|[B,B]2[DB]2[FA]4|
+V:1
+[DB]2A>G^F2D2&x2D2x4|E2FGD2[B,DG]A|[DGB]2A>G[B,G]2&x2[C^F]2x2||
+w:sui tor had she, For none was so come-ly as pret ty Bes-sie.
+V:2
+G2B2d2D2|[CG]4[B,G]2G,2|D,4G,2||
+
+X:73
+%%score 1 2
+T:The blind beggar
+M:C
+L:1/8
+K:Bb
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+d>c&[DA]2|B>c(A>B) (GB)AG&[DG]2[C^F]2B,2[B,E]2|F>GF>D[B,D]2D2&[B,C]2[A,C]2x4|
+w:It* was a blind* beg-*gar had long* lost his sight, He
+V:2
+^F2|G2D2E2C2|F2F,2B,2[^FB]2&x6D>C|
+V:1
+G>A[C^F]2[B,DG]2A>A&D2x4D2|[DB]2[DA]G[^FAd]2(d>c)&x6[DA]2|(B>c)A>B [B,G]B(AG)&[DG]2[C^F]2x2[B,E]2|
+w:had a fair daughter* of beau-ty most bright; And* ma-*ny a gallant* brave*
+V:2
+[B,G]2A,2G,2^F,2|G,2=F,E,D,2^F2|G2D2E2C2|
+V:1
+(=F>G)F>E[B,D]2D2&[B,C]2[A,C]2x4|[DG]2[CEG]A[B,DB]2[DA]G|[D^F]G[CFA]2[B,G]2||
+w:sui-*tor had she, For none was so come-ly as pret-ty Bes sie.
+V:2
+F2F,2B,2[^FA]2 & x6D>C|G2C2G,2B,2 &B,2x6|D2D,2G,2||
+
+X:74
+%%pagewidth 9in
+%%vocalfont Baskerville10Pro 14
+%%score 1 2
+T:Cock Lorrel or Cook Lawrel
+M:6/8
+L:1/8
+K:Bb
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+A|AAAA2A|A^FDF2D|DGGG2^F|G2A B>AG|
+w:Let's cast a-way care, and mer-*rily sing, For there is a time for ev'ry thing, He* that
+V:2
+z|[CEA]6|[D^F]3[CDA]3|[B,DG]3[DA]3|[GB]3[G,G]3|
+V:1
+AAAA2A|[DA]^FD (F>=E)D|BAB cdB&D3^F3|[^FA]2GG2||
+w:plays at his work, And works at his play,* Doth neither* keep work-ing nor ho li-day.
+V:2
+c6|[^Fc]3[Ac]3|[GB]3A2d&x3D3|c2BB2&G3-G2||
+
+X:75
+%%score 1 2
+T:Fortune my foe
+M:C
+L:1/8
+K:Bb
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+[B,DG]4[DG]3[D^FA]|[DGB]6[D^FA]2|G2d2c2B2&D4E2G2|A8&G4^F4|G4[CEG]3A|
+w:For-tune my foe, why dost thou frown on me? And will thy
+V:2
+G,4B,3D|G6D2|B4[CG]4|[Dd]8|[Ec]4C4|
+V:1
+[DGB]6[C^FA]2|G2d2[Ec]2[GB]2&D4x4|[^FA]8|[D=Fd]4[DFd]3[DFd]|[DFd]6d2|[FBd]2f2[Ge]2[Bd]2|
+w:fa vours ne-ver great-er be? Wilt thou, I say, for ev-er breed me
+V:2
+G,6A,2|B,4C4|D8|[B,=FB]4[B,FB]3[B,FB]|[B,FB]8|B,4E4|
+V:1
+c8&B4A4|[Fc]4[Af]3e|d6(cB)&B4E4|[^FA]2G2G2F2&x4[A,D]4|[B,DG]8||
+w:pain, And wilt thou not re-*store my joys a gain?
+V:2
+F8|[A,F]4F,4|G,4C4|D2E2D4|G8||
+
+X:76
+%%pagewidth 8in
+%%vocalfont Baskerville10Pro 15
+%%score 1 2
+T:Death and the Lady
+M:C
+L:1/8
+K:G
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+(G>A)&B,2|B2>B2[GB]2[EGd]2&[DG]2x6|[EGc]2[DGB]2[DFA]2[B,G]2|[DA]6(G>A)&G4F2x2|
+w:DEATH.~Fair* La-dy, lay your cost ly robes a side, No*
+V:2
+G,2|G6B,2|C2G,2D2E2|D6G2|
+V:1
+B3B[GB]2[DGd]2&G2x6|[EGc]2[DGB]2A3G&x4[CG]2[DF]2|[B,G]6||(B>c)&[DG]2|d2>B2[B,EG]2[B,FB]2&[DG]2x6|
+w:lon ger may you glo ry in your pride; Take* leave of ev'-ry
+V:2
+E6B,2|C2G,2A,2D,2|(G,4G,,2)||G2|B,4E2D2|
+V:1
+[EGc]2[DB]2[CFA]2[B,G]2|[DA]6[EG]>[FA]&G4F2D2|B2>B2[B,GB]2[Gd]2&[B,F]2x6|[EGc]2[DGB]2A3G&x4[CG]2[DF]2|[B,G]6||
+w:car-nal vain de light, I'm* come to sum-mon you a-way this night.
+V:2
+C4D2E2|D6D2|^D4E2B,2|C2G,2A,2D,2|G,6||
+
+
+X:77
+%%vocalfont Baskerville10Pro 14
+%%pagewidth 9.5in
+%%score 1 2
+T:The King and the miller of Mansfield
+M:6/8
+L:1/8
+K:F
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+[A,F][FA][FB] [Fc]c[Fd]|[Cc]G[EB] (A>G)F&x3Fx2|[A,F][FA][FB] c>B[FA]&x3F2x|
+w:Hen-ry our royal* King, would ride a hunt-*ing, To the green fo-rest so
+V:2
+FEDA,2B,|E,2G,F,3|FEDA,2F|
+V:1
+[DG]F[G,E] [A,F]2F|[A,F][FA][FB] [FC]c[Fd]|[A,c]G[EB] A>GF&x3F2x|
+w:plea-sant and fair, To see the harts skip-ping, and dain-ty does trip-ping Un
+V:2
+B,2C F,A,C|FED A,2B,|E,2G, F,3|
+V:1
+[A,F][FA][FB] c>B[FA]&x3F2x|[DG]F[G,E]F3&x3A,2x||"^Chorus"!f!A>GF AA[CGc]&[DF]x2x3|A>G[CF] [CEG]2C & [CF]x2x3|
+w:to mer-ry Sherwood* his no-bles re-pair. Hawk* and hound were unbound, all things pre-pa-red
+V:2
+FED A,2F|B,2C F,FE|D3-D2E|F2A,C3|
+V:1
+!p!A>G[DF] c>BA & [CF]x2 [CF]x2|[DG]F[G,E] [A,F]3||!f! A>GF AA[CGc] & [DF]x2 x3|
+w:For the game, in the same, with good re-gard. Hawk and hound were un-bound,
+V:2
+FED A,2F|B,2C F,FE||D3-D2E|
+V:1
+A>GF [CEG]2C & [CF]x2x3|!pp!A>G[DF] =c>B[CFA] & Ex2[CG]x2|[DG]F[G,E] [A,F]3||
+w:all things pre-pa-red For the game, in the same, with good re-gard.
+V:2
+F2A, C3|^C2D E2F|B,2C F,3||
+
+X:78
+%%vocalfont Baskerville10Pro 11
+%%score 1 2
+T:Little Musgrave and Lady Barnard
+M:C	
+L:1/8
+K:G
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+D2|G2(G>F)E2c>B & x2B,2C2C2|A>GF>A D2D2 & D2x4A,2|G2G>F E2c>B & D2x2C2C2|A6D2 & D2x6|
+w:As it fell* out on a high* holiday,** As many there* be in the year, When
+V:2
+x2|x2[G,G]2[CG]2[A,A]2|[DF]2z2z2F2&x6D>C|[B,G]2z2[CG]2[A,A]2|[DF]2A,2D,2z2|
+V:1
+(G>A)B>cd2(cB)&x2G2A2F2|c2BAB2GA&G2D2D2DF|B2G>GD2F2&G2D2B,2A,2|[B,G]6||
+w:young* men and maids to-*ge-ther do go,  Their* mass-es and matins to hear.
+V:2
+z2G2F2D2|E2F2G2B,A,|G,2B,2D2D,2|(G,4G2)|| 
+
+X:79
+%%score 1 2
+T:The Gipsies' Round
+M:6/8	
+L:1/8
+K:G
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+[Ad]3B2G|B>cdB2G|[Ec]2B[Gc]2[Bd]|[ce]6:||c2Bc2d&x3A3|
+V:2
+[FAd]3[Gd]3|[DFB]3[EGB]3|[CGc]3[Ec]2[Gd]|[ce]6:||[Ae]3=F3|
+V:1
+e2=fe2d&^G6|c2Bc2d&A6|[=Ge]3-[Ge]2[GBd]|[Gce]3[Ad]>c[GB]|[FA]2G A>Bc&x3Fx2|
+V:2
+E6|A3=F3|C3-C2G|c3^F2G|D2ED3|
+V:1
+[Gd]>cB [Fc][CA]2|[B,G]6|[EGd]3[Ad]>c[GB]|[FA]2G [FA]>Bc|[Gd]>c[GB] [Ec][FA]2|G6||
+V:2
+B,2G,D3|E>DC B,G,2|c3F2G|D2ED3|B,2ECD2|G6||
+
+X:80
+%%score 1 2
+T:The Legend of Sir Guy
+M:3/4
+L:1/8
+K:F
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+F Ac&xFx|f2c2dB&F4F2|c3F Ac&F2x2F2|f2A2BG&F4DE|F3F Ac&F3xF2|
+w:Was ever* knight for la-dy's sake So toss'd in love as I, Sir Guy! For Phillis*
+V:2
+zF2|A3F BG|(A2F)zF2|D3D G,C|(F,2F)zF2|
+V:1
+f2c2dB&F4F2|c3F Ac&F2x2F2|f2A2BG&F4DE|F3&F3||[CG][CA][CF]|
+w:fair, that la-dy bright As e-ver man be-held with eye. She gave me
+V:2
+A3F BG|(A2F)zF2|D3D G,C|(F,2F)||EFD|
+V:1
+[CG]2(AB/c/) BA&x2C2D2|G3GAF&E3CCC|G2c2d=B&C2G2F2|c3c_BA&E2xCEF|
+w:leave my-**self to try The va-liant knight with shield and spear, Ere that her
+V:2
+E2F2B,2|C2C, EFD|E3EGG,|C2C, A[G_B][Fc]|
+V:1
+B2(AB/c/) [DFB][CEG]&G2F2x2|[CEG]3C[CF][CEG]|[CFA]2[CFc]2AG&x4[B,E]2|[A,F]3||
+w:love she** would grant me, Which made me ven-ture far and near.
+V:2
+[Ec]2[Fc]2B,F|C2C, BAG|F2A,2C2|F2F,||
+
+X:81
+%%vocalfont Baskerville10Pro 11
+%%pagewidth 7.5in
+%%score 1 2
+T:Loth to depart
+M:6/8
+L:1/8
+K:Bb
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+AAA[FA]2[Gd]&^F3x3|(c>d)B[FA]3&^F2Gx3|(G>A)[DGB] [C^FA]2[B,G]&Dx2x3|(G>A)[DGB] [C^FA]2[B,G]&Dx2x3|
+w:Lie near my dear! why dost* thou rise? The light that shines, comes from* thine eyes,*
+V:2
+d3[cd]2[Bd]|[Ad]2[Gd][Dd]3|B2GD2E|B,2G,D,2G,|
+V:1
+AAAA2[DGd]&[EG]3[D^F]2x|(c>d)[DGB][DFA]3&[D^F]x2x3|(d>c)[EGB][EGA]2[DGB]&[D^F]x2x3|[CGc][C^FA]2[B,G]3||
+w:'Tis not the day breaks, but* my heart, To think that thou and I must part.
+V:2
+c3c2B|A2GD3|B,2EC2B,|A,D2G,3||
+
+X:82
+%%score 1 2
+T:Queen Eleanor's Confession
+M:C
+L:1/8
+K:G
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+D2|[B,G]2D2[B,G]2D2|(G>A)(Bc)d2B2&B,x3x2[DG]2|c2d2(e>d)(cB)&[CG]2G>FE2E2|A6D2&F6x2|
+w:Queen Eleanor* was a sick** woman,* And afraid that she* should* die, Then
+V:2
+z2|[G,G]2z2[G,G]2z2|[G,G]2z2z2G2|E2[B,G]2[CG]2[G,G]2|[DG]2G,2D,2z2|
+V:1
+G2GFE2G2&x2D2C2B,2|[DA]2F2D2D2&x6D2|G2GGA2F2&D2[B,E]2[CE]2[A,D]2|[B,DG]6||
+w:she sent for two friars out of France To speak with her spee-di-ly.
+V:2
+z2[B,G]2[CG]2E2|[DF]2z2z2F2&x6D>C|[B,G]2E2A,2D2|G,4G2||
+
+X:83
+%%vocalfont Baskerville10Pro 11
+%%pagewidth 7.5in
+%%score
+T:The Lamentation of a Sinner
+M:6/8
+L:1/8
+K:D
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+(D2E)F2G|A2BA3&D6|(B>A)G (GAB)&D3D3|A2FF3&D3A,3|(C2D)E2F&A,6|
+w:Sweet* England's* prize is gone! Well-*a-day,** well-a-day; Which* makes her
+V:2
+[DFA]6|[F,D]6|[G,D]3[B,G]3|[DF]3D3|[AE]6|
+V:1
+G2AB3&D3D3|[DA]2F (DE[CF])|([CE]3D3)||d3B2c&D6|d2dB2d&D6|(B>A)G ([DF]E)D&D3x3|
+w:sigh and groan E-ver-more** still.* He did her fame advance,* In Ireland,** Spain* and
+V:2
+[B,D]3[G,G]3|F3-FGA&A,3-A,2A,|([DG]3[DF]3)|[B,F]6|[B,F]6|[G,G]3[DA]3|
+V:1
+E6&DCB,C3|[EAe]3[EAc]de|[EG]AB ([B,E]2G)|[A,DF]ED EC2|D6||
+w:France, And by* a sad* mis-chance,* Is** from us ta'en.
+V:2
+[A,A]6|[CA]3[A,A]3|[EB]3G,3|A,3[A,G]3|F6&D3D,3||
+
+X:84
+%%vocalfont Baskerville10Pro 11
+%%pagewidth 7.5in
+%%score 1 2
+T:The fit's come on me now
+M:9/8
+L:1/8
+K:D
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+D|D2A (FD)[DA][DB]2[DA]|D2A (FD)[DA][Dd]2[DA]|
+w:The fit's up on* me now, The fit's up on* me now, Come
+V:2
+[D,D]|[D,D]3-[D,D]2FE2[D,D]|[D,D]3-[D,D]2EB2[D,D]|
+V:1
+D2A (FD)[DA][DB]2[Gc]|([Dd]A)[DB] ([FA]F)D[CE]2||D|[Dd]2A (dA)[Ad][ce]2[Af]|
+w:quick-ly gen-*tle lady, The fit's* up-on* me now. The world shall know they-re fools, And
+V:2
+[D,D]3-[D,D]2FG2E|F2GD2BA2||[D,D]|[D,D]3-[D,D]2FA2[D,D]|
+V:1
+[Fd]2A (df)[^Gde][Ace]2A|[Ad]2[GA] ([Fd]A)[Ad][^Gde]2[=Gcf]|([Fd]A)[DB] ([DA]F)D[CE]2||
+w:so shalt thou* do too, `Let cob-blers mend* their tools,' The fit's* up-on* me now.
+V:2
+[D,D]3-[D,D]2[E,E][A,,A,]2[G,G]|[F,F]2[E,E][D,D]2[C,C][B,,B,]2[A,,A,]|[D,D]2GF2BA2||
+
+X:85
+%%vocalfont Baskerville10Pro 11
+%%pagewidth 7in
+%%score 1 2
+T:Mall Sims
+M:C
+L:1/8
+K:F
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+[DFA]6[Adf]2|[A^ce]2A4[ca]2|g2f2e2d2&d4[GB]4|[A^c]4A4&E4x4|(f2ede2)A2&A4A2x2|
+V:2
+[D,D]4[F,F]4|[A,A]4[F,F]4|[B,B]4[G,G]4|[A,A]4[A,A]4|(d4^c2)[A,A]2|
+V:1
+G2F2E2[^CA]2|=B^cd2d2c2&E2[DA]2[EA]4|[Fd]4[Dd]4||!p!f>ga2e>fg2&[FAc]4[CGc]4|dfed^c2A2&A2[GB]2[EA]2x2|
+V:2
+[G,G]2[F,F]2[E,E]2[A,A]2|[G,G]2[F,F]2[A,A]4|[D,D]4[D,D]4||x8|F2G2A4|
+V:1
+!f!F>GA2E>FG2|DE/F/ ED ^CAA2|!p!defg afd2&B4[Adf]2x2|!f!DEFG AFD2|!p!defg afd2&B4[Adf]2x2|
+V:2
+F>GA2 E>FG2|DE/F/ ED ^CA,A,2|[Gd]4[DAd]2z2|DEFG AF D2|[Bf]4[Fcf]2z2|
+V:1
+!f!FGAB cAF2|f4[Ad]2[Ad]2&[FA]4x4|[DFd]2[DFd]2[EA^c]2A2|=B^cd2d2c2&E2[DA]2[EA]4|[Fd]4[Dd]4||
+V:2
+FGAB cAF2|[Dd]4[Cc]2[Cc]2|[B,B]2[B,B]2[A,A]2[A,A]2|[G,G]2[F,F]2[A,A]4|[D,D]4[D,D]4||
+
+X:86
+%%vocalfont Baskerville10Pro 11
+%%pagewidth 8.5in
+T:Crimson Velvet
+M:3/4
+L:1/8
+K:Bb
+%%score (1A 1B) 2A
+V:1A clef-treble
+V:2A clef-treble stem=up
+V:2A clef-bass octave=-1
+V:1A
+D|G>A [DB](A/G/)[^FA]2|G>A [DB](A/G/) ^FD|B>B [Gc][Ge][Gd]2|
+w:It was a youth-ful* knight Lov'd a gal-lant* la-dy, Fair she was and bright,
+w:Her-self she did be-*have, So courteously* as* may be, Wedded* they were, brave;
+V:1B
+x|Dx2x3|Dx2x3|Dx2x3|
+V:2A
+z|B2G2D2|B,2G,2D,2|G2EC B,>C|
+V:1A
+[1 B>c AA [B,G]:||[2 B>c [C^FA]A [B,G]2 ||: d>d [EAd]c [DB]2|
+w:And of vir-tues rare. Joy with-out com-pare. Here be-gan the grief,
+w:||Wo-men lewd of mind,
+V:1B
+[DG]x4 :|| [DG]x2x3 ||: [D=F]x2x3|
+V:2A
+D2D,2G, :|| D2D,2G,2 ||: B,2F2B2|
+V:1A
+A>(Bc)[DB] [^FA]D|G>A [DB]d ([Gc]/B/)(A/G/)|[^FA]4-[FA]A :|| [K:G]
+w:Pain with-*out re\-lief; Her husband* soon her love* for* sook,* To
+w:Be-ing* bad in\-clin'd, He on-ly lent a plea-*sant* look,* The
+V:1B
+Dx3x2|Dx3x2|x6|
+V:2A
+^F>GAG D2|B,2G,2E,2|D,6:||[K:G]
+V:1A
+A>AAA [A,F]D|A>Adc [DB]G|c>c [DGB]B [CFA]A|[B,G]6|
+w:Lady* she sat weeping,* While that he was keeping* Company* with* others* moe.~Her
+w:|||[more]
+V:1B
+[A,E]4x2|D4x2|[CE]x2x3|x6|
+V:2A
+^C4D2|F,4G,2|A,2D2D2|E>FGFED|
+V:1A
+A>AAA [A,F]D|A>Adc [DB]G|c>c [DGB]B [CFA]A|[B,G]6||
+w:words, My love, be-lieve not, Come to me, and grieve not; Wantons* will thee o-ver-throw.
+V:1B
+[A,E]4x2|D4x2|[CE]2x4|x6||
+V:2A
+^C4D2|F,4G,2|A,2D2D,2|G,6||
+
+X:87
+%%vocalfont Baskerville10Pro 11
+%%pagewidth 7.5in
+%%score 1 2
+T:Walking in a country town
+M:2/4
+L:1/8
+K:F
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+[K:treble][F,D]E[DF]G|A>GA[Fd]&D3x|[G^c][Ad][Bd][Ec]|[Fd]2!>!d2|DEFG&x2D2|
+w:Walking* in a meadow* green, For recre-*a-tion's sake, To drive a-way some
+V:2
+D,2DE|F>EFB|EFGA|D2!>!d2|F2D2|
+V:1
+([EA]>[DG])[^CA][Dd]|[G^C][Fd] dc&x2E2|d2!>!d2&F2d>c|"^sf"[Be]>[Ad][Gc][FB]|[EB]2[FA][FB]|
+w:sad thoughts* That sorrow-full did me make, I spied two love-ly lo-vers, Did
+V:2
+C>B,A,F|EDA2|D2 [K:treble]b>a|gfed [K:bass]|(c2F)G|
+V:1
+[Fc][Fd] cG&x2E2|[FA]3A|c(=B/c/) dc&F4|[FA]2AG/F/&x2D2|[^CE]>D[CE][A,C]|[A,D]4||
+w:hear each o-ther's woe, To 'point a* place of meet-ing Up-*on the meadow* brow.
+V:2
+ABc2|F4|A2BA|d>c B>A|[GA]>[FA][A,G]2|[DF]4||
+
+X:88
+%%vocalfont Baskerville10Pro 11
+%%pagewidth 7.5in
+%%score 1 2
+T:Phillida flouts me
+M:3/8
+L:1/8
+K:Bb
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+([B,D]/[CE]/)[DF][DF]|[EG][DF][DB]|([B,D]/E/)[B,F][DF]|[A,F]2[B,D]:||:Bcd&G3|
+w:O* what a plague is love! I* can-not bear it; It so tor-
+w:She* will in-constant* prove I* great-ly fear it: She wa-vers
+V:2
+B,3|B,3|B,/C/DB,|F,2B,:||:[Gd]3|
+V:1
+d>cB&^F2G|BcB&=E3|([FAf]2[FBd]):||[Dd][Ec][FB]|[F3/2A3/2][EG]/[DF]&B,x2|[BD]/E/[B,F][DF]|
+w:ments my mind, That my heart fail-eth; Please her the best I may, She* loves still
+w:with the wind As a ship sail-eth.||||
+V:2
+[DAd]2[GBd]|[GB]3|[Fc]2[Bd]:||[B,B][CA][DB]|E/F/G/A/B|B,/C/DB,|
+V:1
+[Ee][Fc][Fd]|[Dd][Ec][FB]|[F3/2A3/2][EG]/[DF]&B,x2|([B,D]/E/)[B,F][DF]|[A,F]2[B,D]||
+w:to gain-say, A-lack, and well a-day! Phil-*li-da flouts me.
+V:2
+G,A,B,|[B,B][CA][DB]|E/F/G/A/B|B,/C/DB,|(F,2B,)||
+
+X:89
+%%vocalfont Baskerville10Pro 11
+%%pagewidth 7.5in
+%%score 1 2
+T:Lady Lie Near Me
+M:3/8
+L:1/8
+K:C
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+(E/F/)GE&CC2|[B,D]EC|GGc&C2[CE]|[CFA]2[DG]|(E/F/)GE&CC2|
+w:All* in the month of May, When all things blos-som, As* in my
+V:2
+CEC|xGE&G,2A,|E,2C,|F,/G,/A,B,|CEC|
+V:1
+[B,D]EC|GGc&C2[CE]|[FA]2[EG]&C3||c>d(e/d/)&E2[E^G]|[EAc][FA][EG]|ccd&G2[Ac]|
+w:bed I lay, Sleep it grew loath-some. Up I rose,* and did walk O-ver yon
+V:2
+xG E&G,2A,|E,2C,|F,A,C||A2E|A,F,C,|E2F|
+V:1
+[Gce]2[FBd]|(c>d)e/d/&E2[E^G]|[EAc][FA][EG]|ccd&G2[Ac]|[ce]2[Bd]&G3||!f!eed&[EB]3|
+w:mountains* Through* meadows* and through dales, Over rocks and foun-tains; I heard a
+V:2
+G2^G|A2E|A,F,C,|E2F|G3|^G3|
+V:1
+c>de&E2[Ec]|!p![DG][CE][CE]|[B,D]2C|!f![Ee][Ee][Ed]|[Ec]>[Ed][Ee]|!pp!GE[CE]|[B,D]2C||
+w:voice to sing, Sweetheart,* come cheer me, Thou hast been long* away, Lady,* lie near me.
+V:2
+A2A,|(B,C)E,|(G,2C)|[B,E^G][B,EG][B,EG]|[A,EA]>[B,E^G][CEA]|[E=G]C[CG]|([G,F]2[CE])||
+
+X:90
+%%vocalfont Baskerville10Pro 11
+%%pagewidth 7in
+%%staffscale 0.9
+T:The Mill-field
+M:6/8
+L:1/8
+K:G
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+[B,G]|A2B (cB)A&[DF]6|B2G d2B&[DG]3[DG]3|[DFA]2F D2D|E2F [B,G]2[B,G]&C3x3|
+w:|Out, a-*las! what grief is this, That prin-ces' subjects can-not be true; But
+V:2
+G,|D6|G3B,3|D6|D3G,2G,|
+V:1
+A2B cBA&[DF]6|B2G d2B&[DG]3[DG]3|[DFA]2F D2D|E2F[B,G]2&C3x2||
+w:still the Dev-il hath some of his Will play their parts what-e'er en-sue.
+V:2
+D6|G3B,3|D6|D3G,2||
+V:1
+[DB]|[DA]F2D2[Fe]|[Gd]B2G2[DB]|[DA]F2D2D|E2F[B,G]2[DB]&C3x3|
+w:For-get-ting what a grie-vous thing It is to of\-fend th' a-nointed king. A
+V:2
+G|F3-F2c|B3-B2G|F3-F2D|D3G,2G|
+V:1
+[DA]F2D2[Ae]|[Gd]B2G2[DB]|[DA]F2D2D|E2F[B,G]2&C3x2||
+w:las! for woe, why should~it be so? This makes a sor-row-ful heigh ho!
+V:2
+F3-F2c|B3-B2G|F3-F2D|D3G,2||
+
+
+%%%%staffscale 1.0
+X:91
+%%vocalfont Baskerville10Pro 11
+%%pagewidth 8.5in
+T:The Spanish Lady
+M:3/4
+L:1/8
+K:A
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+EA&C2|[DG]3[CEA]BB&x4E2|(c/B/)A3AG&E4E2|F3EFG&D4D2|
+w:Will you hear a Span-ish la-*dy, How she wooed an English*
+V:2
+A2|B3A[GB]2|A4[CA]2|[DA]4B,2|
+V:1
+[CEA]4EA&x4C2|[DG]3[CEA] BB&x4E2|(c/B/)A3AG&E4E2|[DF]3[A,E] [DF][B,DG]|
+w:man? Gar-ments gay, and rich as may* be, Deck'd with Jew-els she had
+V:2
+(A,2A2)A2|B3A[GB]2|A4[CA]2|[DA]3C B,E|
+V:1
+[CA]3A/B/ [AC][Ge]|[Fd][Ec][DB][CA] cd&x4A2|[Ae]3A/B/ c[Be]|[Ad][Gc][FB][DA] [EAc][DGB]|[CA]4||
+w:on. Of a come-ly count-en-ance and grace was she, And by birth and pa-rent-age of high de-gree.
+V:2
+(A2A,2)A,2|A4F2|(C2A,2)AG|FEDFE2|(A2A,2)||
+
+%%%%staffscale 1.0
+X:92
+%%vocalfont Baskerville10Pro 11
+%%pagewidth 7.5in
+T:The Jovial Tinker
+M:6/8
+L:1/8
+K:D
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+D|D2[Fd][Fc]2[GB]|[DA]3[B,G]2G|G2GF2F&C>DEA,2x|
+w:There was a jo-vial tin-ker, Who was a good ale
+V:2
+D|D2BA2G|F3E3|A,>B,CD2F|
+V:1
+[DF]3[CE]2D|D2[Ad][Gc]2[Fd]|[EAe]3[Ec]2[EA]|(B>c)[Ad][Gd]2[Gc]&Dx2x3|[A,F]3-[A,F]2||
+w:drink-er, He ne-ver was a shrink-er, Be-lie-ve me, this is true.*
+V:2
+A3A,2D|D2FE2D|C3A2F|G2FE2A|D3-D2||
+V:1
+[Fd]|[Fd]2[Fd][F^Ac]2[FAc]|[DB]2[DB][DFA]2[DF]|G>FG[CA]2A&Dx2x3|[DA]2FD2D|
+w:And he came from the Weald of Kent, When all* his money was gone and spent, Which
+V:2
+B|B2BF2F|G2GD2D|E3[A,G]3|[DF]3-[DF]2D|
+V:1
+D2[Ad][Gc]2[Fd]|[EAe]2d[EAc]2[EA]|B>c[Ad][Gd]2[Gc]&Dx2x3|[Fd]3-[Fd]2[EA]|
+w:made him look like~a Jack a-lent. And Joan's** ale is new,* And
+V:2
+D2FE2D|C3A2F|G2FE2A|D3-D2C|
+V:1
+(d2d)[Fc]2[GB]&F2x4|[B,A]2[CG][DF]2D|(G>FG)[CA]2A&Dx2x3|D3-D2||
+w:Joan's* ale is new, my boys, And Joan's** ale is new.*
+V:2
+B,2BA2G|F2ED2F|E3[A,G]3|[DF]3-[DF]2||
+
+X:93
+%%vocalfont Baskerville10Pro 11
+%%pagewidth 7.5in
+T:Under and over
+M:6/8
+L:1/8
+K:D Minor
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+D|D2dc2B&x3G3|A3(G>F)E&F3^C3|(F>G)A (G>A)F&D3^C2D|
+w:As I a-broad was walk-ing,* I heard* two lo-*vers
+w:As in a mea-dow turn-ing,* Up on* a sum-*mer's 
+V:2
+z|D3E3|F3E3|D2FE2D|
+V:1
+E3C2C&^C3x3|D2d^c2d&x3G2F|e3A2A&E3F3|(B>c)d (d>e)^c&D3F2E|d3-d2&F3-F2:||
+w:talk-ing One to an-o-ther speak-ing, Of lo-*vers' con-*stan-cy.*
+w:morn-ing, I heard these lo-vers mourn-ing 'Cause of* love's cru-*el-ty.*
+V:2
+x3A3&A,3A2G|A3E2D&F3x3|^C3D3|G,3A,3|D,2A,D2:||
+V:1
+d&F|c2c ([Ac]>[GB])[FA]&G3x3|G2G (G>F)E&D3^C3|F>GA G>AF&D3^C2D|
+w:For under and o-*ver, over and un-*der, Un-der and o-ver a
+V:2
+D|E3F3|B3A3|D2FE2D|
+V:1
+(E3C2)C&^C3x3|D2d^c2d&x3G2F|e3A2A&E3F3|(B>c)d (d>e)^c&D3F2E|[Fd]3-[Fd]2||
+w:gain.* Quoth she, sweet-heart, I love thee, As mai-*dens should* love men.*
+V:2
+x3A3&A,3A2G|A3E2D&F3x3|^C3D3|G,3A,3|D,2A,D2||
+
+X:94
+%%vocalfont Baskerville10Pro 11
+%%pagewidth 7in
+%%staffscale 0.9
+T:The Oxfordshire tragedy
+M:3/4
+L:1/8
+K:C
+%%%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+G [DGB]G|[CGc]2[CE]2[A,F][B,D]|C3c BA&x4[D^F]2|[DGd]2[B,G]2[EA][D^F]|[B,G]3||
+w:Near Wood-stock town, in Ox-ford-shire, As I walk'd forth to take the air.
+V:2
+zF2|E2A2DG|(E2C) zC2|B,2E2CD|(G2G,)||
+V:1
+[B,G] [CGc][FBd]|[Ece]2[GBd]2[Ec]E|[CG]3[CE] [CF][EG]|[FA]2[CG]2[A,F][=B,D]|C3||
+w:To view the fields and mead-ows round, Me-thought I heard a dread-ful sound.
+V:2
+=F ED|C2G,2A,2|E,3_B A[GB]|[FA]2E2DG|C3||
+
+%%%%vocalfont Baskerville10Pro 14
+%%%%pagewidth 6.6in
+%%%%staffscale 1.0
+X:95
+T:Put on thy smock on Monday
+M:6/8
+L:1/8
+K:C
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+c|[Ec]2GE2G|[Fd]3-[Fd]2G|[Ec]2Bc2d&x3A3|[Gce]3-[Gce]2e|
+V:2
+z|[CG]6|[CGB]6|[CGc]3F,3|C,6|
+V:1
+d>ef edc&G3G3|[Gd]2B G>A[FB]|[Ec]2GE2G|[Ec]3-[Ec]2||
+V:2
+B3c3|[GB]3-[GB]2[Gd]|
+
+X:96
+%%vocalfont Baskerville10Pro 11
+%%pagewidth 8in
+T:Drive the cold winter away
+M:6/8
+L:1/8
+K:Eb
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+C|E>DC[CG]2[Ec]|[EB]>A[EG][Ee]2[DE]|F2G A>BA&C3C3|[=B,G]3-[B,G]2 C|
+w:All hail to the days that me-rit more praise Than all the rest of the year,* And
+V:2
+[CE]|[CG]3E2A|G2Ec2B|A3F3|G3G,2[CE]
+V:1
+E>DC[CG]2[Ec]|[EB]>A[EG][Ee]2[DE]|[CF]2G [CA]>BA|[=B,G]3[B,G]2||
+w:wel-come the nights that dou-ble de-lights, As well~for the poor as the peer!*
+V:2
+[CG]3E2A|G2Ec2B|A3F3|G3G,2||
+V:1
+[CEc]|[EB]>GEB2[Cc]|[CA]>GFA2[B,FB]|[B,EG]>[DF][CE][=B,D]2C|[Ee]3-[Ee]>(d[Fc])|
+w:Good for-tune at-tend each mer-ry man's friend, That doth but the best that~he may;* For*
+V:2
+A|!p![EG]3-[EG]2[EG]|[FA]3-[FA]2[DF]|[EG]2FG2A|[CGc]>=Bc[CA]2[DA]|
+V:1
+[GB]>GE[FB]2[=Ec]|[FA]>GF[FA]2[DFB]|[EG]>FE [=B,D]>CD|C3-C2||
+w:get-ting old wrongs, with ca-rols and songs, To drive the cold win-ter a-way.*
+V:2
+[EG]3[_DB]2[CG]|[FA]3[=DB]2B,|E2CG2G,|C3C,2||
+
+X:97
+%%vocalfont Baskerville10Pro 11
+%%pagewidth 7in
+T:Up, tails all
+M:2/4
+L:1/8
+K:F
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+(A/B/)&F|cc A(G/A/)&E2F2|BB G(A/B/)&D2E2|cc A>B&E2F2|
+w:Fly,* mer-ry news, a-*mong the crews, That* love to hear of
+V:2
+F,|C,2F,2|G,2C2|A,2D2|
+V:1
+c3(d/e/)&E2B2|ff c(B/c/)&A2F2|dd A(A/B/)&F2DF|[FAc]2C2|[A,F]3:||
+w:jests, &c.|||Up tails all!
+V:2
+C2c2|d2AG/A/|B2FD|C2[CEG]2|[F,F]3:||
+
+X:98
+%%vocalfont Baskerville10Pro 11
+%%pagewidth 7in
+T:Pescod time
+M:6/8
+L:1/8
+K:G
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+D|[B,G]2[CA][DB]2[B,G]|[DB]2[CA][B,G]2[EB]|[Ec]2[D=FB][CEA]2[B,E^G]|
+w:In Peas-cod time, when hound to horn Gives ear, till buck be
+V:2
+z|G6-|G3-G2^G|A2DE3|
+V:1
+[CEA]3-[CEA]2[CEA]|[Ec]2[Ec][DAd]2c|[DGB]2[CFA][B,G]2[FB]|(BA)G G2F&Ex2[A,D]3|[B,DG]3-[B,DG]2||
+w:kill'd:* And lit-tle lads, with pipes of corn, Sat keep-*ing beasts a-field.*
+V:2
+A,2EA3-|A2G^F3|G2DE2D|C3D3|G,3-G,2||
+
+%%%%vocalfont Baskerville10Pro 14
+%%%%pagewidth 6.6in
+%%%%staffscale 1.0
+X:99
+T:Chevy Chace
+M:6/8
+L:1/8
+K:G
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+d|c2BA2D|F2GA2B|c2d[GBe]2[=Fd]|
+w:God pros-per long our no-ble king, Our lives and safe-ties
+V:2
+[K:bass]B&G|e2dc2B&G6|A2Bc2d&G6-|e2Bx3&G3G3|
+V:1
+[Ed]3-[Ed]2[Ed]|B2AB2c&^F3G3|(de)dA2[DFB]&F3-F2x|[CGB]2[Gd][DGB]2[CFA]|[B,G]3-[B,G]2||
+w:all;* A woe-ful hunt-ing once* there did In Che-vy-Chace be-fall.*
+V:2
+c2GC2[CG]|[Dc]3[GB]2[EG]|[DA]3-[DA]2D|E2B,D3|G3-G2||
+
+%%%%vocalfont Baskerville10Pro 14
+%%%%pagewidth 6.6in
+%%%%staffscale 1.0
+X:100
+T:The children in the wood
+M:3/4
+L:1/8
+K:D
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+z[CE]|[DF]E D3[CE]|[DF]E D3[CE]|[DG]B [DA]3[DF]|
+w:Now pon-der well, You par-ents dear, These words which I shall
+V:2
+A,2|D4A,2|D,4D2|B,2F,2G,2|
+V:1
+[CE]4z[A,F]|[B,G]B [EA]3[DF]|[CA]F D3[DA]|[DB]d F3E&x2D2C2|D4||
+w:write; A dole-ful sto-ry you shall hear, In time brought forth to light.
+V:2
+A,2A,,2A,2|E2C2D2|A,2B,2F,2|G,2A,2[A,G]2|[DF]4||
+
+X:101
+%%vocalfont Baskerville10Pro 11
+%%pagewidth 7in
+%%staffscale 0.95
+T:In sad and ashy weeds
+M:6/8
+L:1/8
+K:C
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+G|[EG]2G [FA]2!<(![DB]|[Ec]3[Ge]3|!<)!!>(![Ff]2A [Ec]2!>)![G,CE]|
+w:In sad and ash-y weeds I sigh, I groan, I
+V:2
+z|[CG]6-|[CG]3[C_B]3|A3G2C,&C3-C2x|
+V:1
+[K:treble][F,B,D]2C C2G|[DG]2G [DA]2[D^GB]|[CAc]3[_Be]3|[Gf]2[FA] [Gc]2[G,CE]|[F,B,D]2C C2||
+w:pine, I mourn; My oat-en yel-low reeds I all to jet and e-bon turn.
+V:2
+G,2[CE][CE]2z|B,3F2E|A3[G_B]3|c3-c2C,&F3E2x|E2[CE][CE]2||
+V:1
+c|G2G (A>B)c&C6|E2E (F>G)A&C6|D2E (F>G)A&B,3B,3|[CEG]3-[CEG]2[CFA]|
+w:My wa-t'ry eyes,* Like win-ter's skies,* My fur-row'd cheeks* o'er-flow:* All
+V:2
+z|E3F>GA|C3D>EF|G3G,3|C3-C2F,|
+V:1
+[_B,DG]2FE2D|[ADF]2GA2[DF=B]|[CGc]2[CF][B,D]2C|C3-C2||
+w:heav'n know why, Men mourn as I! And who can blame my woe?*
+V:2
+G,6|D3-D2D|E2[CG][G,F]2[CE]|[CE]3-[CE]2||
+
+X:102
+%%vocalfont Baskerville10Pro 11
+%%pagewidth 7in
+%%staffscale 0.95
+T:The Bailiff's daughter of Islington
+M:C
+L:1/8
+K:Bb
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+D2|B2AB c2BA&D4^F4|[Gd]2[EG]2[D^F]2D2|[DB]2B (cd/e/dc)|
+w:There was a* youth, and a well-belov'd youth, And he was~a Sq-*uire's**
+V:2
+z2|G,4A,4|B,2C2D2z2|G2[GB][EB]2[FA]2|
+V:1
+d6D2|B2ABc2(BA)&D4^F4|[Gd]2[EG]2[D^F]2D2|G2AB^F2D2&D2D2C4|[B,G]6||
+w:son; He lov-ed the bai-liff's* daugh-ter dear, That liv-ed in Is-ling-ton.
+V:2
+B4[D^FA]4|[G,G]4A,4|B,2C2D3C|B,2G,2D4|G,6||
+
+X:103
+%%vocalfont Baskerville10Pro 11
+%%pagewidth 7in
+T:The Bailiff's daughter of Islington(Second tune)
+M:C
+L:1/8
+K:Eb
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+BA&[B,F]2|G3F E2BA&[B,E]2[A,D]2G,2[B,F]2|G>AF>G[G,E]2(GA)&[B,E]2[A,D]2x4|B2BB e2e2&x2[EG]2[EB]4|
+w:There* was a youth, and a well-le-lov-ed youth, And* he was a squi-er's
+V:2
+D2|(E2B,2E,2)D2|(E2B,2E,2)z2|z2E2G4|
+V:1
+[EGB]6(AG)|c2c=de2(dc)&x2[EA]2[EA]2[EA]2|B3A[EG]2[B,E]2&F4x4|(GF)EF[G,E]2[AD]2&C4x4|[G,E]6||
+w:son; He* lov-ed the bai-liff's* daugh-ter dear, That li-*ved in Is-ling-ton.
+V:2
+E4 [E_d]4|[Ac]2 AB C2 BA|D4 E2G,2|A,4 B,2B,2|E,6||
+
+X:104
+%%vocalfont Baskerville10Pro 11
+%%pagewidth 7in
+%%staffscale 0.9
+T:It was a lover and his lass.
+M:2/4
+L:1/8
+K:F
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+F|A>Bcc&F3C|BAG G/A/&D/E/F FE|BB/c/ dd/e/&D3B|f3e/d/&A2x2|
+w:It was a lover* and his lass, With a hey, with a ho, with a hey non ne
+V:2
+z|FDA,A|GF cC|G3G,|DC/B,/ Az|
+V:1
+cA/B/ c2-&x3F/E/|cB/A/ B[CEG]&D3x|[A,F]3 :||: c|c[Fc][Fd][Fc]|
+w:no, And a hey* non ne no ni no. That o'er the green corn
+V:2
+z2zA,|B,3C|(F2F,) :||:z|zABA|
+V:1
+B[FA][FG][EG]&D/E/x3|[Ad]2=BG&D2-D2|[Gc]2Ac&C2-C2|[cf]2dB&F2-F2|[FBd][Ac] [DB][CA]|
+w:field, did pass, In Spring time, in Spring time, in Spring time; The on-ly pret-ty
+V:2
+GFcC|(F2G2)|(E2F2)|(A,2_B,)D|F3F|
+V:1
+[Gc]2AF&C2-C2|BAG [EGc]&D2Ex|[Fc]/B/A/G/ F [Acf]|[Bf]/e/d/c/ B [FBd]|
+w:ring time, When birds do sing, Hey ding a ding a ding, Hey ding a ding a ding, Hey
+V:2
+(E2F)A|G2cc/B/|A2zF/E/|D2zB,/A,/|
+V:1
+[GBd]/c/B/A/ G[DGB]|A>A GG&GFFE|F3:||
+w:ding a ding a ding, Sweet lov-ers love the Spring.
+V:2
+G,2zG|c2[CB]2|([FA]2F,):|| 
+
+X:105
+%%vocalfont Baskerville10Pro 11
+%%pagewidth 7.5in
+T:Willow, willow
+M:3/4
+L:1/8
+K:G
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+"_mf"B2|[B,GB]3E[A,^DF]2|E2E2BB&x4G2|"_sf"[Gd]2[DG]2[FA]2|G4"_pp"[GB]2|
+w:The poor soul sat sigh-ing by a si-ca-more tree. Sing
+V:2
+z2|E,2G,2B,2|[EG]4[EG]2|B2B2c2&D4D2|[GB]4E2|
+V:1
+"^Ritard.~~~~~~~~~"[EGc]3EGc&x4E2|B2B2"_mf""^A tempo"BB&[^DF]4D2|"_sf"[=Dd]2[DG]2[CFA]2|[B,GB]2G2[B,GB]2|[EA]3GFE|
+w:wil-low, willow, wil-low! With his hand in his bo-som, and his head up-on his
+V:2
+c2c2c2|B4[B,F]2|[G,B]2B,2D2|G4G,2|C4[CA]2|
+V:1
+[^DF]4"_f"[=Dd]2|^cBAGFF&E2^C2D2|E2E2[Ae]2&^C4x2|^d^cBA^GF&F2^D2D2|
+w:knee; Oh! wil-low, wil-low, wil-low, wil-low, Oh! wil-low, wil-low, wil-low, 
+V:2
+[B,F]4[B,F]2|[A,A]2[A,A]2[DA]2|[A,A]4[A,^c]2|[B,B]2[B,B]2[B,B]2|
+V:1
+[E^G]2E2"_pp"[B,E=G]2|[EF]3E [^DF]2&A,4x2|E4"_f"[EG]2|G3G [CFA]2&E2D2x2|[B,GB]2[B,GB]2z2|"_p"d3BcA&G4F2|
+w:wil-low, Shall be my gar-land: Sing all a green wil-low, wil-low, wil-low,
+V:2
+[EB]4E,2|C4[B,A]2|G4G2&E4ED|[CG]2B,2A,2|G,2G,2z2|B4A2|
+V:1
+B2B2d2&G4"^Cres."G2|d3B(cA)&G4F2|!>(![GB]3[FA] [EG]2|!>)!"_pp"[EF]2E2[^DF]2|E4||
+w:wil-low. Ah me! the green* wil-low must be my gar-land.
+V:2
+G4c2|B4A2|E2E,2G,2|[CA]4[B,A]2|[EG]4||
+
+X:106
+T:Whoop! Do me no harm, good man
+M:6/8
+L:1/8
+K:D
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+D|F>GA A>GA&x3D3|B>AG G>FE&D3C3|F>GA A2^G&D3D3|
+V:2
+[DF]|[DA]3F,3|G,3A,3|D2C B,2E|
+V:1
+G3-G2D&C>DE A,2x|F>GA A>B=C&x3D3|B>AG !fermata!E2[Dd]&D3D2x|F>GF (E>F)E&D3C2x|D3-D2||
+w:||***Whoop!* do me no harm,* good man.*
+V:2
+A,3-A,2[DF]|[DA]3F,3|G,3!fermata!^G,2[G,E]|[A,F]3[A,G]3|[DF]3-[DF]2||
+
+X:107
+%%vocalfont Baskerville10Pro 11
+%%pagewidth 7.5in
+T:O Mistress mine!
+M:3/4
+L:1/8
+K:F
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+[A,F]2AA[CG]2&x2F2x2|[A,F]2A=B cc&x2F2[EG]2|(F>G) AA [CG]2&x2F2x2|[A,F]2A=B cc&x2F2[EG]2|
+w:O mist-ress mine, where are you roam-ing? O* mist-ress mine, where are you roam-ing?
+V:2
+F4E2|D4C_B,|A,2F2E2|D4C2|
+V:1
+"^rall."[_EGc]2[DAd][DBd][D^Fd]2|[C=FA]2[CGc][CAc][CEc]2|"^a tempo."[Fc]2([FBd][Fc])[FAf]2|[EA]2[DG][CF][B,EB]2|[CFA]2([CG][A,F]) [CFc]c|
+w:O stay and hear; your true love's coming, That can* sing both high and low: Trip no* furth-er
+V:2
+c2^FGD2|=F2=EFC2|A2BAd2|c2BAG2|F2EDA,2|
+V:1
+F>G ([CFA][B,EG])F2&D2x4|[CFc]2([FBd][Fc])[FAf]2|[EA]2[DG][CF][B,EB]2|[CFA]2([CG][A,F]) cc&x4[CF]2|(F>G [CFA])[B,EG][A,F]2||
+w:pret-ty sweet-*ing, Jour-neys* end in lovers'* meeting, Ev'-ry* wise man's son** doth know.
+V:2
+B,2C2AB&x4FG|A2BAd2|c2BAG2|F2EDA,2|B,2C2F,2||
+
+X:108
+%%vocalfont Baskerville10Pro 11
+%%pagewidth 7in
+%%staffscale 0.9
+T:Heart's-Ease
+M:6/8
+L:1/8
+K:Bb
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+D|(G>A)B A2G&D3E3|^F2GA2D&D3-D2x|[DG]2[DA][DB]2[Gc]|
+w:Sing care* a-way with sport and play, Pas-time is all our
+V:2
+z|[GB]3[Cc]3|[DA]3-[DA]2c|B2^FG2E|
+V:1
+[^FAd]3-[FAd]2D|(G>A)BA2G&[B,D]3[CE]3|^F2GA2D&D3-D2x|[DG]2[DA][DB]2[Gc]|[FAd]3-[FAd]2||
+w:pleasure;* If well* we fare, For naught we care, In mirth con-sists our treasure.*
+V:2
+D3-D2z|G,3C3|[DA]3-[DA]2c|B2^FG2E|D3-D2||
+V:1
+!f!d|(A>B)cc2c&=F6|f2cc2A&F3-F2x|[FB]2[EA][DFB]2[FAc]|[FBd]3-[FBd]2!p!d|
+w:Let lun-*gis lurk, And drudges* work, We do de-fy their slavery:* He
+w:|[lankies]||||
+V:2
+z|[Fc]6|[EA]3-[EA]2E|D2CB,2F,|B,,3-B,,2z|
+V:1
+c2B (A>B)c&G3F3|B2A (G>A)B&F3E3|A2G (^F=E)F&E3C3|[B,G]3-[B,G]2||
+w:is but~a fool* That goes to school,* All we de-light* in bravery.*
+V:2
+[Ec]3F>GA&x3F3|[DB]3E>FG&x3E3|[CA]3[DA]3|[G,G]3-[G,G]2||
+
+X:109
+%%pagewidth 7.5in
+T:Jog on, jog on
+M:6/8
+L:1/8
+K:G
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+D|[B,G]2D [B,G]2A|([GB]>c)B ([DA]F)D|([DG]>A)G[EGd]2c|([DGB]3[DFA]2)D|
+w:In eighty-*eight, ere I* was born,* As I* can well re-mem-ber, In
+V:2
+z|G,3E3|D3C3|B,3A,3|D3-D2z|
+V:1
+A2B (c>d)c&=F3E3|(B>c)B A>=G[^DF]&[D^G]3C3|([B,EG]>AG) ([A,^DF]>G)F|E3D2&B,2^Cx2||
+w:Au-gust was* a fleet* pre-par'd,* The month* be-fore* Sep-tem-ber.
+V:2
+D3A,3|E,3A,2B,|E,3F,3|G,2[A,G][DF]2||
+
+X:110
+%%pagewidth 9in
+%%vocalfont Baskerville10Pro 14
+T:Come live with me, and be my love
+M:3/8
+L:1/8
+K:D
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+[DFB]|[DFB]2[DFB]|(B>c)d&[EG]2F|[Ee]2[Fd]|[Fc]2[Gc]|[Fd]2[FAd]|(d>e)f&[GB]2[FA]|(e>d)c&G2[EG]|
+w:Come, live with me,* and be my love, And we will all* the plea-*sures
+V:2
+B,|B,2B|E2[DB]|[C^A]2[B,B]|[F^A]2=A|[DA]2D|G2D|E2A|z
+V:1
+[Fd]2d|(fd)[DA]|(B>c)d&[DG]2[DA]|[Ge]2[Fd]|[F^Ac]2[Ac]|(d>e)f&[FB]2[FB]|[Be]2[EGB]|[DFd]2[CF^A]|[DFB]2||
+w:prove That hills* and val-*leys, dale and field, And all* the crag-gy moun-tains yield.
+V:2
+Dz|z2F|G2F|E2B,|F2F|B2D|G2E|F2F,|B,2||
+
+X:111
+%%pagewidth 8in
+T:Three merry men be we
+M:C
+L:1/8
+K:Bb
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+d2cdB2F2&D8|B2AB D2E2&D4D2C2|F2B>A (Bc)[Bd]2&D4F4|[FAc]6d2|
+w:Three mer-ry men and three mer-ry men, And three mer-ry men* be we a,
+V:2
+[B,F]8|[B,F]8|F8&B,4D4|F4F,2z2|
+V:1
+c2cAF2F2&[FA]4x4|[Bf]2[Bf][Ad][Bd]2B2&F4F2F2|c2c2(cd)e2&[FB]4[FA]4|d6&[FB]6||
+w:I in the wood, and thou on the ground, And Jack sleeps in* the tree.
+V:2
+F6E2|D2DCB,2D2|F4F,4|B,4B,,2||
+
+X:112
+T:I loathe that I did love
+M:C
+L:1/8
+K:C
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+"^Slow."A2|[CEA]3A[E^Gc]2[DB]2|[CA]6[B,D=G]2|[CFAc]3[EGc][DAd]2[DGB]2|"^First tune"[FAc]6[DFA]2|
+w:I loathe that I did love! In youth that I thought sweet, (As
+V:2
+z2|A4E4|F6G2|C4F2G2|C6D2|
+V:1
+[EAc]3c[DFB]2[DA]2|[CEc]3c[DFB]2A2|A3^GG2A2&[B,E]8|[CEA]6||
+w:time re-quires for my be-hove,) Me-thinks it is not meet
+V:2
+A,4D2F2|A4D4|E8|A,6||
+V:1
+"^Slow."G2|G3GG2(FE)&E6x2|G6G2&E8|G2G2c2c2&D4C4|"^Second tune"[DB]6G2|
+w:I loathe that I did* love! In youth that I thought sweet, (As
+V:2
+z2|[CG]8|[CG]8|[B,G]4[A,^F]4|[G,G]8|
+V:1
+c2B2A2G2&C8|[DG]2D2E2(^FG)|[C^FA]2G4^F2&x2D2[A,D]4|[B,DG]6(GA)|
+w:time re-quires for my be-hove, for* my* be-hove), Me*
+V:2
+[EG]8|G8&B,4C4|A,2(B,C)D4|G,8|
+V:1
+B2c2d2[B,G]2&[DG]6x2|[CGc]2[CFc]2[DGB]2[EGe]2|[FBd]2[Gc]2c2B2&x4[DG]4|[EGc]6||
+w:thinks it is not meet, Me-thinks, me-thinks, it is not meet.
+V:2
+=F8|E2A2G2C2|D2EFG4|C6||
+
+X:113
+%%pagewidth 8in
+%%vocalfont Baskerville10Pro 13
+T:Peg A Ramsey
+M:2/4
+L:1/8
+K:F
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+[FAc]d[Gc_e]c|[Bd]B [DB]d|[Fc]F[DF][=EG]|[FA]2[DFB]2|[FAc]d[Gc_e]c|
+w:When I was a Bache-*lor, I liv'd a mer-ry life, But now I am a
+V:2
+F2c2|G2G2|A2[CB]2|[FA]2B,2|F2c2|
+V:1
+[Bd]B [DB]d|[Fc]F[DF][=EG]|[FA]2[DFB]2|[CFA]F[CF]A|[EG]CCE|
+w:mar-ried man, And troub-led with a wife, I can-not do as I have done, Be
+V:2
+G2G2|A2[CB]2|[FA]2B,2|F,2A,2|C2B,2|
+V:1
+[CF]F[DF][EG]|[FA]2[DFB]2|[CFA]F[CF]A|[EG]CCE|[CF]F[DF][EG]|([FA]2[DFB]2)||
+w:cause I live in fear, If I go but to Is-ling-ton, My wife is watch-ing there.*
+V:2
+A,2[CB]2|[FA]2B,2|F,2A,2|C2B,2|A,2[CB]2|[FA]2B,2||
+
+X:114
+%%pagewidth 8.5in
+%%vocalfont Baskerville10Pro 14
+T:Oh! London is a fine town
+M:C
+L:1/8
+K:E
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+B2|[B,EG]3FE2E2|[CE]4E4|F2G2A2B2&C8|c2c4[FAd]2&[FA]6x2|
+w:Oh! Lon-don is a fine town, And a gal-lant ci-ty; 'Tis
+V:2
+z2|E8|C8|A,8|F,6F,2|
+V:1
+[FBe]2d2c2B2|([EAc]d)e2E2E2|F2G2A2G2&[A,C]8|F2F4B2&[B,D]6x2|
+w:gov-ern'd by the scar-*let gown, Come lis-ten to my dit-ty. This
+V:2
+G,8|A,8|F,8|B,6z2|
+V:1
+[B,DG]3[A,F][G,E]2E2|[B,E]4[A,CE]2E2|F2G2A2B2&[A,C]4[CF]4|[EGc]6[FBd]2|
+w:ci-ty has a May-or, This May-or is a Lord, He
+V:2
+B,4C4|G,4A,4|F,4F4|C6B,A,|
+V:1
+e2d2[EAc]2[EB]2&[EB]4x4|([Ac]d)[GBe]2E2E2|F2G2[FA]2[EG]2&C4x4|[DF]6||
+w:go-ver-neth the cit-*i-zens All by his own ac-cord.
+V:2
+G,4A,2G,2|F,2E,2C4|A,4F,4|B,6||
+
+X:115
+%%pagewidth 8in
+%%vocalfont Baskerville10Pro 12
+T:A very proper dittie: to the tune of Lightie Love
+M:3/8
+L:1/8
+K:Eb
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+B|B>cd&B2A|[Gd]BG|A>BG&D2E|F2B&D3|B>cd&B2A|
+w:By force I am fix-ed my fan-cy to write, In-gra-tit-ude 
+w:Then blame me not, ladies,* al-though I in-dite What ligh-ty love 
+V:2
+z|G2F|E3|F2E|B,2A,|G,2F,|
+V:1
+eBG&G2x|FED&C2x|E2:||:E|c>dc&E3|BAG&F2E|
+w:will-eth me not to re-frain: Your tra-ces in pla-ces, to 
+w:now* amongst* you doth reign: Your ni-cings and 'ti-cings, with 
+V:2
+E,3|x2F&A,2B,|G2&E,2:||:z|A3|D2E|
+V:1
+A>BG&D2E|F2G&D3|A>Bc/d/&F3|eBG&E2x|FED&C3|E2:||
+w:out-ward allure-ments, Do move* my en-deavour* to be the more plain:
+w:sundry* procure-ments, To pub-lish your* lightie* love do me cons-train.
+V:2
+F2E|B,3|F,3|G,2C|A,2[B,F]|[E,G]2:||
+
+X:116
+%%vocalfont Baskerville10Pro 11
+T:When that I was a little tiny boy
+M:2/4
+L:1/8
+K:G
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+[B,GB]B/B/ [B,EG]G|[CFA]/[GB]/[FA]/[EG]/ [^DF]G/A/|[EB]2[EG]>G|[CF(A]/[B)G]/[FA]/[EG]/ [^DF][B,D]|
+w:When that I was a little* tiny* boy, With a heigh ho! the wind* and the rain, A
+V:2
+E,2E2|A,2B,2|G,2C2|A,2B,A,|
+V:1
+[B,E][A,^DF][G,EG][EA]|[^DF(B]/A/)[B,D(G]/F/) [B,E][A,D]|[G,B,E][B,F][B,EG][A,EA]|[^DF(B]/A/)[B,D(G]/[F)A,]/ [G,E] [B,EG]/A/|
+w:fool-ish thing was but* a* toy, For~the rain it rain-eth ev'-*ry* day, With a
+V:2
+G,F,E,C|B,B,/A,/ G,F,|E,=D,C,C|B,B, E, E/F/|
+V:1
+[B,EB]2 [EG]>G|[CF(A]/[B)G]/[FA]/[EG]/ [^DF][B,D]/D/|[B,E][A,^DF][G,EG][FB]|[E(B]/A/)[^D(G]/F/)E||
+w:heigh ho! the wind* and the rain, And the rain it rain-eth ev'-*ry* day.
+V:2
+G2c2|A2BA|GFE=D|xB/A/[EG]2&CB,x2||
+
+X:117
+T:Sick, sick and very sick
+M:C
+L:1/8
+K:G
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+[B,D]3D[B,G]2[CE]2|[A,F]3GA2[DFA]2|[DGd]2d2[EG]2c2|[DG(B]4[e)EG]4|
+w:It be-fell at Mar-tin-mas, When weather* wax-ed cold,*
+w:Sick,* sick and ve-ry sick, And sick and like to die; The
+V:2
+G4E2C2|D6C2|B,4C4|G4C,4|
+V:1
+[Fd]3c[GB]2(AB)|[Ec]2A2[DF]2D2|[G,DG]2D2G,2C2|[G,B,(D]4[E)G,C]4:||
+w:Cap-tain Car said* to his men, We must go take a hold.*
+w:sick-est night that* I a bode, Good Lord have mercy on me.*
+V:2
+D4E4|A,4D4|B,4E2x2&x4C4|G,4C,4:||
+
+X:118
+T:Tomorrow is St. Valentine's Day
+M:6/8
+L:1/8
+K:A
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+A|(ce)d (cB)A|E2cE2A|(ce)d cBA|
+w:Good mor-*row, 'tis* St. Valent-ine's day, All in* the morn-ing be
+V:2
+z|[A,E]6|[CA]6|[A,E]3[CA]3|
+V:1
+B3-B2B|(ce)d (cB)A|E2CE2E|(AB)c cB2&x3[EG]3|[EA]3-[EA]2||
+w:time,* And I* a maid* at your window,* To be* your Valen-*tine.*
+V:2
+(A3G2)z&E3-E2x|[A,E]6|[CA]6|[Ec]3[Ed]3|[Ac]3-[Ac]2||
+
+X:119
+%%pagewidth 8.5in
+%%vocalfont Baskerville10Pro 13
+T:Greensleeves
+M:6/8
+L:1/8
+K:G
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+[B,E]|[EG]2A (B>c)B&x3Dx2|[DA]2F (D>E)[DF]|[B,G]2E (E^D)E|
+w:A-las! my love,* you do me wrong,* To cast me off* dis-
+V:2
+[EG]|[CG]3[G,G]3|[DF]3-[DF]2[DA]|[EG]3[CG]3|
+V:1
+[^DF]2DB,2[B,E]|[EG]2A B>cB&x3Dx2|[DA]2F (D>E)[DF]|G>FE (^D>^C)D&B,x2B,x2|[G,E]3[G,B,E]2||
+w:courteosly,** And I have lov-*ed you so long,* De-light-*ing in* your comp-any.
+V:2
+B3x2[EG]&B,3-B,2x|[CG]3[G,G]3|[DF]3-[DF]2[DA]|[EG]3[B,F]3|[E,E]3[E,E]2||
+V:1
+z|"^sf"[Dd]3 (d>[A^c])[GB]&x3[DB]x2|[FA]2F (D>EF)|[B,(G]2E) (E>D)E|[^DF]2DB,3|
+w:Green-sleeves* was all my joy,__ Green-*sleeves* was my de-light,
+V:2
+z|[B,F]3[G,G]3|[DA]3-[DA]2[DA]|[EG]3[CG]3|B3x3&B,3-B,3|
+V:1
+"^sf"[=D=d]3d>[A^c][GB]&x3[DB]x2|[FA]2F (D>E)[DF]|G>FE (^D>^C)D&B,x2B,x2|[G,E]3[G,B,E]2||
+w:Green-sleeves was my heart of gold,* And who but my La-*dy Green-sleeves.
+V:2
+[B,F]3[G,G]3|[DA]3-[DA]2[DA]|[EG]3[B,F]3|[E,E]3[E,E]2||
+
+X:120
+%%pagewidth 10.5in
+%%vocalfont Baskerville10Pro 14
+T:The Trimmer
+M:6/8
+L:1/8
+K:G
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+[A,DF]|[B,DG]2G G>AB&x3Dx2|A>FD D>E[CF]&[DF]x2x3|[B,G]2E E>FG&x3B,x2|
+w:Pray lend~me your ear, if you've a-ny to spare, You that love Common-wealth as you
+V:2
+D|G,3B,3|D3-D2D|E3G,3|
+V:1
+F>DB, B,2[A,=DF]&[B,^D]x2x3|[B,DG]2G G>AB&x3Dx2|A>FD (D>E)[CF]&[B,D]x2x3|A>FD [A,^DF]2D&[B,E]x2x3|[G,E]3-[G,E]2||
+w:hate Com-mon Prayer, That can~in a breath pray, dis-*semble and swear,* Which no-*body can de-ny.*
+V:2
+B,3-B,2D|G,3B,3|D3-D2A,|B,3B,3|D3E,2||
+V:1
+([EGB]/c/)|[DBd]2d d>cB&x3[DG]x2|A>FD D2[Fd]&[DF]x2x3|[Ge]2e g>fe&x3^Ax2|[B^d]BB B2[EGB]/c/|
+w:I'm*first on~the wrong side and then on the right, To\-day I'm a Jack, and to-morrow a Mite, I for*
+V:2
+E|G,3B,3|D3-D2D|C3C3|B,3-B,2E|
+V:1
+=d>ed d>cB&[=DB]x2[DG]x2|A>FD (D>E)[CF]&[DF]x2x3|G>FE [A,^DF]2F|[G,E]3-[G,E]2||
+w:ei-ther will pray, but for nei-ther will fight,* Which no-*body can de-ny.*
+V:2
+G,3B,3|D3-D2A,|B,3B,3|E3E,2||
+
+X:121
+T:My Robin is to the greenwood gone
+M:6/8
+L:1/8
+K:F
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+D|F>GF [^CE]2D&D3x3|[C(c]B)d A3|F>AF [^CE]2D|
+w:My Ro-bin is to the green-wood gone,||
+V:2
+z|D6|A2B[Fc]2[E^c]&F,3x3|[Dd]3A,2B,|
+V:1
+[=C=c]AdA3|Adc B>AG|c>BA/G/ F>ED|c2A F>GA&[CF]3D2[CF]|[DG]>F[^CE]D2||
+V:2
+A2Bc2^c&F,3F3|d6&^F3G3|c3[DA]3&E2C2x2|A,3B,2F,|B>AGF2&G,2A,D2||
+
+X:122
+%%pagewidth 9in
+%%vocalfont Baskerville10Pro 15
+T:With a fading
+M:6/8
+L:1/8
+K:F
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+C|[A,F]2C[CF]2G|(A>B)A[EG]2E&Fx2x3|[CF]2F[Ac]2c|
+w:The cour-tiers scorn us coun-*try clowns; We coun-try clowns do
+V:2
+z|F,3A,3|F,3C3|A,3F,3|
+V:1
+(d3/2e)f/ [Ge]2e&Bx2x3|[Ff]ed [Fc]BA|[EG]AB [FA]2[FA]|!>![FA]3-[FA]GF|
+w:scorn* the court, For we are as mer-ry up-on* the downs As you* are at
+V:2
+B,3C3|D3A,3|C3F,3|F,A,CF2z|
+V:1
+!>![EG]3!>!C2C|[A,F]GA [CA]GF|[FA]czz2||
+w:mid-night with all your* sport. With a fad-ing.
+V:2
+CEGc2z|F,3F3|F2zz2||
+
+X:123
+%%pagewidth 9in
+%%vocalfont Baskerville10Pro 15
+T:How should I your true love know?
+M:C
+L:1/8
+K:C
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+E2|A2B2c2BA&E6E2|[D^G]2[CA]2[B,E]2E2|[Ec]3c[Gce]2[FBd]2|
+w:And how should I your* true-love know From many an o-ther
+w:*How should I||From an-o-ther
+V:2
+ED|C2G,2A,2C2|B,2A,2^G,4|A,4=G,2G,2|
+V:1
+[Ec]6c2|B2c2[DAd]2(cB)&F4x2[E^G]2|[EAe]2[DFA]2B,2CB,&x4E4|[A,A]2AB[EAc]2[D^GB]2|[CA]6||
+w:one? O by his coc-kle* hat and staff, And* by his* san-dal shoon.
+w:|By his||And his||
+V:2
+C8|D4F2ED|C2D2^G,2A,=G,|F,4E,2E,2|A,6||
+
+X:124
+T:And will he not come again?
+M:6/8
+L:1/8
+K:C
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+A|A>BA E2c&C6|(c3B2)A&D3-D2x|[CA]>BA [^C(E]>^F)G|(G3^F2)(E/D/)&D3-D2x|
+w:And will he not come a-gain,* And will he not come* a-gain?* No,*
+V:2
+z|[A,6E6]|[^G,E]3-[G,E]2z|[A,E]3[A,A]3|[DA]3-[DA]2z|
+V:1
+^C>DE=F2A|^G>ABE2[DAd]|[EAc]>de [E^G(d]>c)[DGB]|[CA]3-[CA]2||
+w:no, he is dead, Gone to his death-bed, He ne-ver will come* a-gain.*
+V:2
+[EG]3[D=FA]3|[DEB]3[CEA]2F|E3E3|A3-A2||
+
+X:125
+T:O Death! Rock me asleep
+M:C
+L:1/8
+K:C
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+e2|e6e2&[Ec]8|d2c2B3B&[FA]4[D^G]4|[CA]4[EAe]4|[FAd]2[Ec]2[DB]2[CA]2|
+w:O Death! O Death, rock me a-sleep! Bring me to qui-et
+V:2
+x2|A,8|D4E4|F4C4|D6F2|
+V:1
+[E^GB]6B2|B6B2&[E^G]8|B2B2[E^FB]2[^DFB]2&[EG]4x4|B6e2&[EG]8|[Ae]6A2&E4=F4|[E^Gc]2[DB]2[CA]4|
+w:rest: Let pass my wea-ry, guilt-less life Out of my care-ful breast.
+V:2
+E6z2|E,6^F,2|G,2A,2B,4|E4D4|C4D4|E4A4|
+V:1
+z4z2[CA]2|[Ac]2[GB]2B3A&x4F4|G6A2&E8|c2B2A3A&F4D4|^G6BB&E8|
+w:Toll on the pass-ing bell, Ring out my dole-ful knell, Let thy
+V:2
+"^f"F8|C4D4|E4C4|D4F4|"^p"E8|
+V:1
+[EAC]3[CEA][DFB]2[CEA]2|z4z2[E^GB]2|[EAc]3[CEA][DFB]2[CEA]2|z4z2[FAB]2|
+w:sound my death tell. Death doth draw near me, There
+V:2
+A,8|"^pp"E,8|A,8|"^f"D8|
+V:1
+[EAc]3[CEA][DFB]2[D^GB]2|A6!>(!A2&C4F4|A6A2&E4D4|!>)!A6A2&C4D4|A6A2&[CE]4[DF]4|"_pp"A2A2A4&[^CE]8||
+w:is no re-me-dy, no re-me-dy, There is no re-me-dy.
+V:2
+E4E,4|A,4(D4|C4B,4|A,4)(F4&A8|E4D4)|[A,EA]8||
+
+X:126
+T:Can you not hit it, my good man?
+M:6/8
+L:1/8
+K:D
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+"_ROSALINE.--"[Fd][Gd][Ad][Bd]2[GB]|[Ec]2[Fd]e2c&x3G3|dddd2c&F2BA3|[GB][FA][EG][DF]3||
+w:Thou canst not hit it, hit it, hit it, Thou canst not hit it, my good* man. 
+V:2
+DEFG2G,|A,6|B,A,G,F,3|G,2A,B,3||
+V:1
+"_BOYET--"(FG)AB2A&D6|B2AB2E&D3-D2C|(FG)A B/B3/A&D6|(GF)ED3&D2Cx3||
+w:An* I can-not, can-not, can-not, An* I can-not, an-o-*ther can.
+V:2
+DEFG2F|G2FG2A|DEFG2F|E2AD3||
+
+X:127
+%%pagewidth 10in
+%%vocalfont Baskerville10Pro 14
+T:Bara Faustus' Dream.
+M:6/8
+L:1/8
+K:D
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+!p![DF]2B[E^A]2[FB]|(c>B)^A[DB]3&Gx2x3|!f![Fd]2d[E^Ac]2c|(B>d)[G/(c/]B/) [C^A]F2&Fx2x3|
+w:Come sweet Love, let sor-*row cease, Ban-ish frowns leave off* dis-sen-*tion.
+V:2
+B,3C2D|E2FB3|B,3C3|D2EF2E|
+V:1
+!p!F2B[E^A]2[DB]|(c>B)[F^A][FB]3&Cx2x3|!f![Gd]2[^Ed][Fc]2[Fc]|(B>d)[^E(c]/B/) [F^A]F2&Fx2x3||:!p![Gc]2[Fd][Ee]2[Gc]|
+w:Love's war makes the sweet-*est peace, Hearts u-ni-ting by* con-*ten-tion, Sun-shine fol-lows
+w:||||Af-ter sor-row
+V:2
+D3C2B,|^A,2F, D>CB,|B3^A2=A|^G2=GF3||:=A6&E2DC2A,|
+V:1
+[Fd]A2F3|[A,D]!<(!F2[DG]B2|[E^A][Fc]2!<)![FB]!>(!d2|[Gc]2B [CB]^A2|!>)![DB]6:||
+w:af-ter rain, Sor-rows ceas-ing, This is pleas-ing, All proves fair a-gain.
+w:cometh* joy, Trust me, prove me, try me, love me, This will care an-noy.
+V:2
+[DA]6|FD2BG2|c^A2dB2|E3F3|B,6:||
+
+X:128
+%%pagewidth 8.5in
+%%vocalfont Baskerville10Pro 14
+T:The Spanish Pavan
+M:C
+L:1/8
+K:Bb
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+D2|G2B2A2G2&B,4E4|[A,^F]2D2D2=E2|^F2G2A2F2&A,4C4|
+w:When Sam-son was a tall young man, His pow'r and strength in-
+V:2
+z2|G4C4|D8|D4D4|
+V:1
+G3A[GB]2[FA]2&B,4x4|[^EG]2[CE]2[CF]2[B,EG]2|[A,FA]2F4c2|c3dc2[EB]2&[=EG]2x6|(A3G)F2&F2x4||
+w:creas-ed then, And in the host and tribe of~Dan, The Lord did bless him al-*way.
+V:2
+G4G,4|C2B,2A,2G,2|F,4A,4|C8&x6c2|c3BA2&F6||
+V:1
+[Fc]2|d2c2B2A2&F4F4|B3cd2cB&D4G4|c2B2A2G2&G4E4|[A,^F]2D2D2=E2|
+w:It chan-ced so up-on a day, As* he was walk-ing on his way, He
+V:2
+A,2|B,4D4|G4B,4|E4C4|D8|
+V:1
+^F2G2A2F2&A,4C4|G2A2B2c2&B,4G4|d2(cB) [^FA][=EG][FA]2&G4x4|G6||
+w:saw a maid-en fresh and gay, In Tim-nath,* in* Tim-nath.
+V:2
+D4D4|G4E4|[DB]4[Dc]4|[GB]6||
+
+X:129
+T:Wigmore's Galliard
+M:3/4
+L:1/8
+K:Ab
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+C2|(A2>B2)A2&[CF]2x2[CF]2|([B,FG]2[CFA]2)[DFB]2|(c2>B2) (cd)&[CA]2x2[FA]2|[EAe]4A2|(A2>B2)A2&[DF]2x2E2|
+w:You pa-*rents, whose* af-fec-*tion* fond Up on* your
+V:2
+z2|F4F2|F2F2F2|F4F2|C6|D4C2|
+V:1
+([DFB]2[CA]2) (BA)|(G2>F2) (E=D)&=E2x4|=E4C2|(A2>B2)[CFA]2&[CF]2x4|([B,FG]2[CFA]2)[DFB]2|(d2>c2) ([FAc]d)&[CA]2x4|
+w:chil-*dren* doth* ap-*pear, Mark well* the sto-*ry now* in*
+V:2
+(B,2F,2)z2|C6|C4z2|F4F2|F2F2F2|F4F2|
+V:1
+[_GAe]4[FAd]2|[EAc]4[CEB]2|([DFA]2[DF=G]2)[B,EB]2|([CFA]2>[B,G]2) ([A,F][G,=E])|[A,F]4||
+w:hand, Where-in you shall* great mat-*ters* hear. 
+V:2
+C4D2|A4_G2|F2B,2D2|C4C2|F,4||
+
+X:130
+%%pagewidth 9in
+%%vocalfont Baskerville10Pro 14
+T:Upon a Summer's-Day
+M:6/8
+L:1/8
+K:C
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+G|[CG]2G E2C|(G2>G2)AB|!<(!c2Bc2d&F6!<)!|!>(![Ee]3-[Ee]2E!>)!|"^pp"[CE]2ED2C|
+w:Up-on a time I chanc'd* To* walk a-long a green,* Where pretty* lasses*
+V:2
+z|[CE]6-|[CE]3C3|A2GA2B&C6|c6&(C3C3)|A,6|
+V:1
+([DEB]3[CEc]3)|[DAd]2[CE] [B,D]2C|(C3C2)||d|[DBd]2d B2G|d3-d2 B&x3F3|
+w:danced In strife, to choose a Queen.* Some home-ly dress'd, some handsome,* Some
+V:2
+^G,3A,3|F,3[G,F]2[CE]|[CE]3-[CE]2||z|G,6-|G,3G3|
+V:1
+!<(!c2Bc2d&F6!<)!|"^f" !>(![Ee]3-[Ee]2E!>)!|"^pp"[CE]2E D2C|([DEB]3[CEc]3)|[Cd]2E [B,D]2C|C3-C2||
+w:pretty* and some gay,* But who excell'd* in dancing, Must be the Queen of the May.
+V:2
+A2GA2B&C6|c6&(C3B,3)|A,6|^G,3A,3|{D,/}^F3{G,/}=F2[CE]|[CE]3-[CE]2||
+
+X:131
+%%pagewidth 9in
+%%vocalfont Baskerville10Pro 14
+T:The hunter in his career
+M:C
+L:1/8
+K:F
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+[Ff]2[Gc]B[FA]2([DG]F)|([CE]D)E[DF][EG]2[FA][EB]|[Fc]2[DF]G[CFA]2(G>F)&x6[B,E]2|[A,F]6F2|
+w:Long ere the morn Ex-*pects* the re-turn Of Apel-lo from the o-cean* queen, Be-
+V:2
+A2E2F2B,2|C6F,G,|A,2B,2C2C2|F2C2F,2FE|
+V:1
+[Af]2[G(c]B)[FA]2[DG]F|[C(E]D)E[CF][CG]2[CA][EB]|[Fc]2[DF]G[FA]2(G>F)&x6E2|F8||
+w:fore the* creak Of the crow* and the break Of the day in the wel-kin* seen,
+w:***(croak)||||
+V:2
+D2E2F2B,2|C3DE2FG|A2B2c2[CB]2|[FA]2C2F,4||
+V:1
+[CA]2(GF)E3F&x2B,2C4|G2FE[=B,D]2[CE][B,F]&C2A,2x4|[CG]2[A,C]D[CE]2(D>C)&x6=B,2|C8|
+w:Mounted he'd* halloo, And cheer-ful-ly follow To the chace with his bu-gle* clear.
+V:2
+F2D2C2A,2|E,2F,2G,2C,D,|E,2F,2[G,G]2[G,F]2|E8&C,2C_B,A,2G,>F,|
+V:1
+[CA]2GF[EB]2AG|[Fc]2[F(B][c)F]!fermata![Fd]2[FA][EB]|[Fc]2[DF]G[CFA]2(G>F)&x6[B,E]2|[A,F]8||
+w:Echo doth he make, And the moun-tains* shake, With the thun-der of his ca-*reer.
+V:2
+F,4G,4|A,2G,A,!fermata!B,2F,G,|A,2B,2C2C2|F2C2F,4||
+
+X:132
+%%pagewidth 8in
+%%vocalfont Baskerville10Pro 13
+T:Once I loved a maiden fair
+M:C
+L:1/8
+K:F
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+A3AA2A2&[CF]8|[B,EG]2[CA]2[A,F]4|G2G2[CEG]2[CEA]2&[DF]4x4|[B,EG]4[A,F]4|A3AA2A2&[DF]8|
+w:Once I lov'd a maid-en fair, But she did de-ceive me; She with Ve-nus
+V:2
+F8|C4D4|B,4C2C2|F8|D8|
+V:1
+[DG]2[^CEA]2[DF]4|G2G2[=CEG]2[CEA]2&[DF]4x4|[B,EG]4[A,F]4||
+w:might com-pare In my mind, be-lieve me. 
+V:2
+B,2A,2D,4|B,4C2C2|F8||
+V:1
+!<(![CFA]2[CEB]2[CFc]4!<)!|!>(![Fd]2[EGd]2[FAc]4!>)!|A3Bc2[FA]2&F6x2|
+w:She was young, And among* Creatures* of temp-
+V:2
+F2G2A4|B2B2A4|F,3G,A,2D2|
+V:1
+V:1
+G4[A,F]4&[DF]2[CE]B,x4|"^sf"A3AA2A2&E6F2|[DG]2[^CEA]2[DF]4|G2G2[_B,EG]2[B,EA]2&[=B,F]4x4|[B,EG]4[A,F]4||
+w: ta-tion, Who will say But maid-ens may Kiss for re-cre-a-tion.
+V:2
+B,2C2F,4|^c6d2|B2A2D4|G,4C,4|F,2C2F4||
+
+X:133
+%%pagewidth 8in
+%%vocalfont Baskerville10Pro 13
+T:Gathering peascods
+M:C
+L:1/8
+K:G
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+%%pos orn below
+"_f"d4d2d2&G8|B3c d2[GBd]2&G6x2|[Gce]2[Gd]2[Fc]2[GB]2|[FA]6"_pp""^rall."[FB]2|
+w:How plea-sant is it in the blos-som of the year, To
+V:2
+[GB]8|d4x4&G3AB2G2|c2B2A2G2|d6D2|
+V:1
+[EA]2[DG]2G2F2&x4C4|[B,G]8|"_f""^a tempo."d4d2d2&[GB]4[FA]4|B3c d2d2&G4G2F2|e2d2[Ac]2[GB]2&E4x4|
+w:stray and find a nook, Where nought doth fill the hol-low of the list'-ning
+V:2
+C2B,2A,2D2|G,8|G4D4|E4B,4|C4A,4|
+V:1
+[FA]6[FB]2|"^rall.""_pp"[EA]2[DG]2G2F2&x4C4|[B,G]6||"_mf""^a tempo."G2|F2D2F2G2&A,8|[DA]4B2A2&x4D4|
+w:ear, Ex-cept the mur-m'ring brook; Or bird in neighb'-ring grove, That in
+V:2
+D6D2|C2B,2A,2D2|G,6||z2|D4D,2E,2|F,4G,2F,2|
+V:1
+(GA)B2A2G2&D4^C4|[DF]6"_p""^rall."[^CF]2|[B,E]2[A,D]2E3D&x6^C2|D8|"_mf""^a tempo."d4d2d2&G4[FA]4|
+w:so-*li-tude doth love To breathe his lone-ly hymn! Lost in the 
+V:2
+E,4A,4|B,6A,2|G,2F,2G4&x4E,2A,2|F8&D,4D3=C|B,4D4|
+V:1
+B3cd2d2&G4A4|e2d2[Ec]2[DB]2&[^GB]4G4|[CA]4[D^F]2"_p""^rall."[FB]2&A2=G3x3|[EA]2[DG]2G2F2&x4C4|[B,G]8||
+w:min-gled song, I care-less roam a-long,* From morn to twi-light dim.
+V:2
+G4=F4|E4E4|A4D2D2|C2B,2A,2D2|G8||
+
+X:134
+%%pagewidth 8in
+%%vocalfont Baskerville10Pro 13
+T:Lull me beyond thee
+M:6/8
+L:1/8
+K:C
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+E|E2E (c>B)c&x3Ex2|(d>c)d[Ge]3&Ax2x3|E2E (c>B)A&x3Ex2|!>(!(^G3!>)!A2)z&(D3C2)x|
+w:As I was walk-*ing all* alone, I heard a youth* la-ment-ing,
+V:2
+z|z3A,3|F3E3|z3A,2C|(E3A2)z|
+V:1
+E2E (c>B)c&x3Ex2|(d>c)d[^Ge]3&Ax2x3|E2E (c>B)A&x3Ex2|!>(!(^G3!>)!A2)z&(D3C2)x||
+w:Under a hol-*low bush* he lay,~But sore he did* re-pent him.~A-
+V:2
+z3A,3|F3E3|z3A,2C|(E3A2)z||
+V:1
+"^cres."[FAc]2[FAc] d>[Ac][FBd]&x3[FB]x2|(e>f)[Gce] [GBd]2G&[Ec]x2x3|[Gc]2[EGc] (d>c)[Fd]&x3Ax2|(e3d2)z&G3G2x|
+w:las! quoth he,* my love* is gone, Which caus-eth me* to wan-der,
+V:2
+F2E D2G,|C2E G2[FB]|[Ec]2[Cc] [Fc]2[Dc]|[Gc]3[GB]2z|
+V:1
+"^f"e>fe (d>c)B&Gx2[E^G]x2|c>BA [^GBe]3&[EA]x2x3|"_pp"E2E c>BA&x3Ex2|!>(!(^G3!>)!A2)z&(D3C2)x||
+w:Yet merry* will* I ne-*ver be, Till~I lie lull-ing be-yond her.
+V:2
+[CGc]2z[B,EB]2z|[A,EA]2[F,F] [E,E]3|z3A,3|(E3A2)z||
+
+X:135
+%%pagewidth 8.5in
+%%vocalfont Baskerville10Pro 13
+T:Come, shepherds, deck your heads
+M:C
+L:1/8
+K:Bb
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+G2|[B,G]2A2B2c2&x2D4^F2|d6[Bd]2&G3GG2G2|[Gce]2[Fd]2[Ec]2[DGB]2|
+w:Come, Shep-herds, deck your heads No more with bays but
+V:2
+z2|G2^F2G2A2|B6G2|C6G,2|
+V:1
+[EGc]4[DB]2G2|G2A2B2c2&D6[C=F]2|d6d2&F3FF2B2|e2d2c2B2&G4A2B2|
+w:wil-lows; For-sake your down-y beds, And make the downs your
+V:2
+(C,4G,2)z2|B2^F2G2A2|B6G2|C4F2G2|
+V:1
+([EAc]4[DB]2)||c2|d3cB2A2&[DA]4[D^F]4|G6[Bd]2&D3DD2D2|c2d2e2f2&F4[FA]4|[FAe]4[FBd]2[DA]2|
+w:pil-lows: And mourn with me, since cross'd As ne-ver yet was no man, For
+V:2
+(F4B2)||z2|^F,4D2C2|B,6G,2|A,4F,4|B,6^F,2|
+V:1
+[CGc]3[DGB][^FA]2[DG]2|^F6G2&C2E2D2B,2|A2B2c2B2&D4[D^F]4|[C^FA]4[B,G]2||
+w:shep-herd ne-ver lost So plain a deal-ing wo-man.
+V:2
+E3D C2B,2|A,2C2B,2E2|^F,4D4|G,6||
+
+X:136
+%%pagewidth 8.5in
+%%vocalfont Baskerville10Pro 13
+T:There was an old fellow at Waltham Cross
+M:6/8
+L:1/8
+K:Bb
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+[CGc]|A>GF F>GF&[CF]x2x3|[CFA]2B [Fc]2[DAd]|B>AG F>AG&[DG]x2x3|
+w:There was an old fel-low at Walth-am Cross, Who mer-ri-ly sung when he 
+V:2
+E|F6|F3A2F|G6|
+V:1
+[DB]2c [Gd]2[Gc]|c>dc (c>d)c&Ax2Fx2|c>de x2A&B3[Af]2x|
+w:liv'd~by the loss, He ne-ver was heard* to sigh with hey-ho!~But 
+V:2
+G3B2E|F3A3|G3F3|
+V:1
+(B>c)B B>AG&F3C3|[CA]A B [Fc]2[Fc]|(F>G)F [EA]2[EA]|
+w:sent* it out with a heigh trolly-*lo! He cheer'd up~his heart when his 
+V:2
+D3E3|F3A3|d3c3|
+V:1
+(G>A)G [EB]2[EB]&Dx2x3|(A>c)F [FB]2[EA]&Fx2x3|GF[CE][A,F]2&D2xx2||
+w:goods went to wrack, With~a hem,* boys, hem, And~a cup of old sack.
+V:2
+B3G3|F2E D2C|B,2CF2||
+
+X:137
+%%pagewidth 8.5in
+%%vocalfont Baskerville10Pro 13
+T:Old Sir Simon the King
+M:9/8
+L:1/8
+K:G
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+D|[B,G]2G G>AG[DG]2D&x3Ex2x3|[B,G]2G G>AG[DF]2D&x3^Cx2x3|
+w:In~a humour I was* of late, As many good fellows* may be, To
+w:That best might suit* my mind, So~I tra-vell'd up* and down, No
+V:2
+z|G,3C3B,3|E3A,3D3|
+V:1
+!<(![G,E]2E [CE]2E [CE]F!<)!G|"^sf"[CFA]2[EG] [DF]2[CE] [B,D]2 :||: D|
+w:think~of no matters of state, But to seek~for good com-pa-ny. My
+w:compa-ny I could find, Till I came~to the sight~of the Crown. Says
+V:2
+=C3B,3A,3|D,6G,2:||:z|
+V:1
+[DG]2G G>Bc[Fd]2D|[DG]2G G>AB[Ed]2E&x3=Fx2x3|
+w:hostess was sick of the mumps, The maid was ill at her ease, The
+w:old [Sir] Si-mon the king, [Says old Sir Si-mon the king, With~his
+V:2
+B,3G,3D,3|B,3G,3C,3|
+V:1
+!<(![G,E]2E [CE]2E [CE]^F!<)!G|"^sf"[CFA]2[EG][DF]2[CE][B,D]2:||
+w:tapster was drunk in~his dumps, They were all of one dis-ease.
+w:ale dropt hose, and~his Malm-sey nose, Sing hey ding~a ding, ding.]
+V:2
+C3B,3A,3|D,6G,2:||
+
+X:138
+%%pagewidth 8in
+%%vocalfont Baskerville10Pro 13
+T:Old Sir Simon the King (2nd tune)
+M:9/8
+L:1/8
+K:C
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+[B,D]|E>FG (G>A)G [B,G]2[B,D]&Cx2Cx2x3|(E>F)G G>AB [Ed]2[GB]&Cx2Dx2x3|
+w:I am a poor man,* God knows, And all* my neigh-bours can tell, I
+V:2
+G,|B,3E3G2G,|C3B,3A,2G,/F,/|
+V:1
+([Gc]C)C C2D (E>F)G&x6B,x2|[CA]2G[CF]2E[B,D]2||:
+w:want* both money and clothes,* And yet~I live wond'-rous well:
+V:2
+E,3A,3G,3|F,3D,3G,2||:
+V:1
+:[Ge]|[^Fd]2c B2A G2[Ge]|(d>e)c (B>c)A (G>A)[GB]&^Fx2x3x3|
+w:I have~a con-tent-ed mind, And~a heart* to bear* out all,* Though
+w:Then hang up sor-row and~care, It never* shall make* me rue;* What
+V:2
+:C|!>!(D6E)>DC|!>!D6G2=F|
+V:1
+(cC)CC2D (E>F)G&Gx2x3B,x2|[CA]2G [CF]2E [B,D]2 :||
+w:for-*tune being un-kind* Hath giv'n me sub-stance small.
+w:though* my back goes bare,* I'm ragged and torn and true.
+V:2
+E3A3G3|F3D3G2:||
+
+X:139
+%%pagewidth 9in
+%%vocalfont Baskerville10Pro 14
+T:The beggar boy
+M:6/8
+L:1/8
+K:D
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+FFF d>ed&D3D3|cA2 B2A&D3D3|[DF]D2[CE]2[CE]|[DF]2[EG] [FA][DF]2|
+w:Sweet mis-tress Money,* I here will declare Thy beauty which ev'-ry one adoreth.* The
+V:2
+D3B3|AF2G2F|D3A,3|D,6|
+V:1
+FFF d2d&D2x[E^G]3|cA2 [CEB]2[DA]&E3x3|[DF]D2 [DE]2[CE]|[DF]2[EG] [FA][DF]2||
+w:lof-ty gal-lant and beg-gar so~bare, Some help and comfort from thee im-plor-eth,~For
+V:2
+B3F3|A3=G2F|B3G2A|D6||
+V:1
+FFF d2d&D3D3|cA2 B2A&D3D3|FA2 (c>B)c&D3E3|[Fd][DF]2[CE]2E|
+w:thou art be-come the world's sweet-heart, While ev'-ry one* doth make thee~their honey, And
+V:2
+D3B3&D6|AF2 G2F&D6|D3A,3&D3x3|D,3A,3|
+V:1
+FA2 (c>B)A&D3G2x|Bd(e/d/) (cd)B&G3G3|[DA]FD E2E&x3C3|[DF]2[EG] [FA][DF]2||
+w:loth they are* from thee to de-*part,* So well they do love sweet Mis-tress Mo-ney.
+V:2
+{D,/}D3E2F|{G,/}GBc/B/ ^ABG|FDF E3&A,3A,3|[D,D]6||
+
+X:140
+%%pagewidth 8in
+%%vocalfont Baskerville10Pro 13
+T:The boatman
+M:6/8
+L:1/8
+K:C
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+G|GE2G3|GE2G2G|c2cB2A&E6|[Gd]3D3|
+w:Ye Church-ales and~ye Mor-ris-es, With hob-by-horse ad-van-cing,~Ye
+V:2
+z|c6|[Bc]6|[Ac]6|[Gc]3[FGB]3|
+V:1
+GE2G3|GE2G2G|c2d e2d&^F3=F3|(c3D2)&E3x2||
+w:round games with~fine Sim and Sis A-bout the May-pole dan-cing.
+V:2
+[EGc]6|[B_c]6|[Ac]3[G=B]3|[Cc]2zz2||
+V:1
+G|c2de2d&G6|c2BA2G&E6|[DF]2F E2D|d3D3|
+w:Ye nim-ble joints, that with red points and rib-bons deck the bri-dal,~Lock
+V:2
+z|[Ec]6|[Ac]6|[Dc]6|[Gc]3[FGB]3|
+V:1
+GE2G3|GE2G2G|c2de2d&^F3=F3|(c3D2)&E3x2||
+w:up your pumps,~and rest your stumps, For you are now down-cried all.
+V:2
+[EGc]6|[B_c]6|[Ac]3[G=B]3|[Cc]2zz2||
+
+X:141
+%%pagewidth 9in
+%%vocalfont Baskerville10Pro 15
+T:Sir Launcelot du Lake.
+M:2/4
+L:1/8
+K:G
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+[B,G]|G>GG>G&B,x B,x|Gc [DB]>[Ec]&C2x2|d>B G[^CA]&Gx3|D3[B,G]|
+w:When Ar-thur first in court be-gan, And was ap-prov-ed King, By
+V:2
+G|G2[FG]2|[EG]2 [DG]>[CG]|[B,G]2 [EG][A,G]|[DF][GB][FA][EG]|
+V:1
+G>GG>G&B,x B,x|G>G [DG][EA]&Cx3|[DB](A/G/) D[CF]|[B,G]3||
+w:force of arms, great vic-t'ries won, And con-quest* home did bring.
+V:2
+[EG]2[DF]2|[CE]2[B,G][CG]|[DG]2 [DB][DA]|[G,G]3||
+
+X:142
+%%pagewidth 8in
+%%vocalfont Baskerville10Pro 13
+T:The Spanish gipsy
+M:6/8
+L:1/8
+K:C
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+c|(c>d)e (c>d)e&E6-|c3-c2G&E6|(c>d)e (c>d)e&E6-|c3-c2c&E6|
+w:Come fol-*low, fol-*low me,* Ye fai-*ry elves* that be,* Which
+V:2
+z|C6-|C2CC2B,|A,6-|A,2A,A,2G,|
+V:1
+(d>e)d d2c&A6|[DB]3[FA]3|[EG]2G [B,G]2F|[CE]3-[CE]2C|
+w:cir-*cle on the greeen, Come fol-low Mab, your queen.**
+V:2
+F,6|G,3B,3|C3G,3|C,2C C3-|
+V:1
+E2FG2E&C6|A2G !fermata!c2G&C3C2C|(G>A)G (F>G)E&C3-C2C|[B,D]2CC2||
+w:Hand in hand let's dance a-round,* For* this place* is fai-ry ground.
+V:2
+C2D E2C|F2E !invertedfermata!A2E|E3D2C|[G,F]2[CE][CE]2||
+
+X:143
+%%pagewidth 7.5in
+%%vocalfont Baskerville10Pro 11
+T:The friar in the well
+M:6/8
+L:1/8
+K:G
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+"_p"D|[B,G]2[B,G] ([B,G][CA])[DB]|[CA]2[EG] [CE]3|"^Chorus."[B,B]2([DB] [Gc]d[Ge])|[GBd]2B G2"^Solo."D|
+w:As I lay mus-*ing all a-lone, Fa la,*** la la la, A
+V:2
+z|G,6-|G,6|G,3E2C|G3-G2z|
+V:1
+[B,DG]2[B,^DG] [B,E(G]A)B|[CEA]2[B,^DG] [G,E]3|"^Chorus."[B,GB]2[FB] [EG(c]de)|[GBd]2B G2||
+w:pret-ty jest,* I thought up-on, Fa* la,** la la la.
+V:2
+G,2F, E,3|A,2B, E3|E2D C3|G3-G2||
+V:1
+"^Solo."G|"_f"B2c (d>e)d&G6|[Gc]2B A2G|F2E F2[B,DG]&C3-C2x|[CEA][B,DG][A,CF] [CE]3|
+w:Then listen a-*while, And I will tell Of a Friar that lov'd a bonny lass well,
+V:2
+z|{G,/}G2A B>cA|{G/}e2d c2B|{G,/}A2G A2z|x3F3&G,6|
+V:1
+"^Chorus.""_pp"D3[DG]3|[C(F]>E)F E3|D2G [CG]AF|[B,G]3-[B,G]2||
+w:Fa la, la* la la, Fa la lang-tre down dilly.*
+V:2
+[G,GB]3B,3|A,3[CF]3|[B,G]3D3|G,3-G,2||
+
+X:144
+%%pagewidth 7.5in
+%%vocalfont Baskerville10Pro 12
+T:Sir Eglamore
+M:6/8
+L:1/8
+K:G
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+G|[B,G]2G (E>F)G&x3Cx2|[A,A]2F D3|"^Chorus."[DGB]3[CGc]3|[Gd]2B G2||
+w:Sir Eg-la-more,* that va-liant knight, Fa, la, lanky down dilly.
+V:2
+z|G,3C3|F,6|G,3E3|B,3-B,2||
+V:1
+"^Solo."G|[B,G]2G (E>F)G&x3Cx2|[A,A]2F D3|"^Chorus."[DGB]3[CGc]3|[Gd]2B G2||
+w:He took his sword,* and went to fight, Fa, la, lanky down dilly.
+V:2
+z|G,3C3|F,6|G,3E3|B,3-B,2||
+V:1
+"^Solo."G|[GB]2[Ac] [Bd]2[GB]|[ce]2[Bd] [Ac]2[GB]|[FA]2[EG] [DF]2[^CE]|[DA]2G (F2E)|
+w:And as he rode o'er hill and dale, All arm'd up-on his shirt of mail,*
+V:2
+z|[G,G]6-|[G,G]6|[DA]3-[DA]2[GA]|[FA]3[DA=c]3|
+V:1
+"^Chorus."D3[DG]3|[A,F]3 E>FE&x3Cx2|[B,D]2G G>A[CF]&x3Cx2|[B,G]3-[B,G]2||
+w:Fa la la, fa la la, Fa la, lan-ky down dilly.*
+V:2
+[GB]3B,3|D3F3|G3E2D|G,3-G,2||
+
+X:145
+%%pagewidth 8.5in
+%%vocalfont Baskerville10Pro 13
+T:The cobbler's jigg
+M:C
+L:1/8
+K:D
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+d2d2c2e2&F4G4|B2B2A3A&G4A2[DF]2|B2B2[EAc]2A2&[DG]2[EG]2x4|
+w:Cold's the wind, and wet's the rain, Saint Hugh be our good
+V:2
+[DA]4[EG]4|[GB]4[Fd]2D2|G2E2A3G|
+V:1
+d6A2&[DA]4x4|d2dd  cce2&F4G4|d2cB A2[DFA]2&[DG]4[DA]2x2|[DGB]2[EGB]2[EAc]2A2|[DFd]4||
+w:speed;* Ill is the weather* that bring-eth no gain, Nor helps good hearts in need.
+V:2
+F3E D2z2|[DA]4[EG]4|B2AG F2D2|G2E2A2A2|D4||
+V:1
+"^Chorus."!ff![EA]4|[DFd]2[DA]2[DGB]2(AG)&x6[CE]2|F3G A2GF&D4D4|[DE]2[DF]2[DG]2[A,EA]2|[A,DF]3E (D2[E)A,C]2|
+w:Hey down a down, hey* down a down, Hey* der-ry der-ry down a down.*
+V:2
+C4|B,2F,2G,2A,2|B,4F,4|G,2A,2B,2C2|D6A,2|
+V:1
+F3E D2E2&[A,D]4B,2B,2|F3E D2E2&[^A,C]4B,2C2|(FG)A2 E3D&D2D2D2C2|D8||
+w:Ho! well done, To me let come, Ring com-*pass, gen-tle joy.
+V:2
+D,4G,2G,2|F,4B,2=A,2|D2F2A2A,2|D8||
+
+X:146
+%%pagewidth 9in
+%%vocalfont Baskerville10Pro 15
+T:Down in the north country
+M:C
+L:1/8
+K:Eb
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+B,2|(CD)E2(GF)G2|B4e4|c2(BG) (AG)(FE)|
+w:Ah, cru-*el bloody** fate, What canst thou* now* do*
+V:2
+[EG]2|[EA]4[EB]4|x4c3c&[EG]4E4|[Ee]4[EB]4|
+V:1
+[DF]6B,2|(CD)E2 (GF)G2|B6(cd)|(ed)(cB)B3=A&E4E4|B6&D6||
+w:more? Ah me,* 'tis now* too late, Phi-*lan-*der* to res-tore,
+V:2
+B4B,2B,2|[EA]4[EB]4|G3AB4&E4D4|C4F4|(B,4B2)||
+V:1
+e2&G2|d3c def2&F4B4|B3B [GB]2(AG)|c3B (AG)(FE)&C4C4|D6AG|
+w:Why should the heav-en-ly pow'rs per-suade Poor* mor-tals to*be-*lieve That they
+V:2
+B2|B4_A4|G4E4|A4F4|B8&B4B,4|
+V:1
+A2d2c2BA|(GA)B2!fermata!B3B,&x4E4|C2AGF3E&C4D4|E6&E6||
+w:guard us here and re-ward* us there, Yet all our* joys de-ceive.
+V:2
+c2B2A2GF&E8|E4!invertedfermata!G,4&E4x4|A,4B,4|(E4E,2)||
+
+X:147
+%%pagewidth 8.5in
+%%vocalfont Baskerville10Pro 14
+T:Down in the north country (Halliwell)
+M:C
+L:1/8
+K:Eb
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+E2|B2G2(AB)(cB)|(B4e4)|B2AB (cB)(AG)|
+w:Down in the North* Coun-*try, As an-cient re-ports* do*
+V:2
+z2|[EGe]4[FAe]4|[GBe]8|[GBe]4[Ace]4|
+V:1
+F4B4|G2(FE)F2(ED)|(CD)E2A2B2&x6F2|G2e2AG(FE)&E4E2D2|E6E2&E6x2|
+w:tell, There lies a* fa-mous* count--ry town, Some call it merry* Wake--field, And  
+V:2
+[Bd]8|e2dc d2cB&E8-|A2G2c2x2&E2E2F2D2|E2C2F2B,2|E2B,2E,2z2|
+V:1
+B2G2(AB)(cB)|(B4e4)|B2(AB) (cB)(AG)|F4B4|
+w:in this coun-*try* town, A far-mer* there* did* dwell, Whose
+V:2
+[EGe]4[FAe]4|[GBe]8|[GBe]4[Ace]4|[Bd]8|
+V:1
+G2(FE)F2(ED)|(CD)E2A2B2&x6F2|G2(FE) (DE)(FD)&E2C2B,2A,2|[G,E]6||
+w:daugh-ter* would to* mar-*ket go, Her trea-sure* for* to* sell.
+V:2
+e2dcd2cB&E8-|A2G2c2x2&E2E2F2D2|E2A,2B,2B,,2|E,6||
+
+X:148
+%%pagewidth 9in
+T:The milkmaids' dance
+M:C
+L:1/8
+K:Eb
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+E2G2G2FE|B4e4|B2G2c2E2|D4B,4|C2A,2CDE2|
+V:2
+[EG]4[EB]4|[EG]4[Ec]4|[EG]4[A,A]4|[B,F]4[B,D]4|[A,E]4[A,A]4|
+V:1
+D2F2B2ed|cBAG AGFE|E3F[B,G]4||B2GA B2GA|BAGFE4|F2DEF2DE|
+V:2
+[B,F]4[G,E]4|[A,E]4[B,A]4|[EG]4E,4||[EGB]4[EGB]4|[EGB]8|[B,DB]4[B,DB]4|
+V:1
+FEDCB,4|B2cdc2de|d2cBe3B|cBAG AGFE|E3F[B,G]4||
+V:2
+[B,DF]8|E4F4&G,2A,4B,2|[A,B,F]4[G,B,E]4|[A,E]4[B,A]4|[EG]4E,4||
+V:1
+AGFE E2B2|G4E4|F2C2C2F2|D4B,4|C2A,2C2F2|DEF2B2ed|
+V:2
+[EB]4[EG]4|[EB]4[EG]4|[A,F]4[A,F]4|[B,F]4[B,D]4|[A,E]4[A,F]4|[A,B,F]4[G,B,E]4|
+V:1
+cBAGF3E|E3F[B,G]4||[EBe]2[EB]2[EBe]4|[EAc]2[EB]2[EAc]4|B2AG FGFE&E4C4|
+V:2
+[A,E]4[B,DA]4|[EG]4E,4||G,2G,2G,4|A,2G,2A,4|G,4A,4|
+V:1
+DEF2D2B,2&B,8|C2B,A,C2E2|DEF2B2ed|cBAGF3E|E3F[B,G]4||
+V:2
+B,8|[A,E]4[A,E]4|[A,B,F]4[G,B,E]4|[A,E]4[B,DA]4|[EG]4E,4||
+
+X:149
+T:Morris dance
+M:C
+L:1/8
+K:Bb
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+G3B AGg2&B,6x2|f2gab2d2&x6DE|[Fc]2[GB]2[FBd]2[EAc]2|[DB]6[^Fd]2|G3B AGg2|
+V:2
+[G,G]6[EB]2|A2e2[Bd]2B,C|D2E2F2F,2|B,2B,Cx2c2&x4D4|[GB]6[EB]2|
+V:1
+f2gab2d2&x6DE|[Fc]2[GB]2[FBd]2[EAc]2|[DB]6||[Bd]2|c3ed3g&G4G4|c3ed3g&G4G4|
+V:2
+A2e2[Bd]2B,C&F4x4|D2E2F2F,2|B,6||[GBd]2|[Gce]4[GBd]4|[Gce]4[GBd]4|
+V:1
+g2b2a2g^f&B4c4|[Bg]6"_ff"[ceg]a|[db]2B2[FBd]2[EAc]2|[DB]6"_p"[FBd]e|[FBf]2[GBd]2[Gce]2[Gd]c|
+V:2
+[DGBd]4[DAc]4|[GB]6[Fce]2|[Bd]2DEF2F,2|B,6B,C|D2G2C2E2|
+V:1
+[^FAd]6"^cres."de|[=FB=f]fed[GBg]2cd|[EAe]edc[FAf]2Bc|!f![DGd]2cBA2xG&x4[DG]2^F2|[B,G]8||
+V:2
+D6B,C|D2CB,E2A,B,|C2B,A,D2G,A,|B,2A,G,D2D,2|G,8||
+
+X:150
+T:Amarillis told her swain
+M:C
+L:1/8
+K:Eb
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+[GB]3[FA][EG]2([B,F][G,E])|[A,F]2[A,B,]2[G,E]4|([GB][Ac])([GB][FA]) ([EG][DF])([EG][G,E])[A,DF]2B,2[G,E]4||
+w:Phil-lis on the* new-made hay, On* a* plea--sant* sum-mer's day,
+V:2
+[E,B,]8-|[E,B,]6B,2|E6E,2|B,4E,4||
+V:1
+[DF]3[EG][FA]2[EG]2|[FA]2[GB]2c3d&x4A4|[Ge]2[Gd]2([Fce]f)[FBd]2|[E=Ac]4[DB]4|
+w:In `re-clin-ing' pos-ture lay, And thought no shep-*herd nigh her;
+V:2
+B,8-|B,6B,2|C2B,2=A,2B,2|F2F,2B,4|
+V:1
+e3d[E_Ac]2[EB]2&[EB]2x6|([EAc]B)[DA]2G3A&x4E2DC|[B,B]2[E(c]B) [E(A]G) [DF]2|[A,DF]4[G,E]4||
+w:Till A-min-tas came* that way, And threw him-*self* down by her.
+V:2
+G4_A2G2|F2B,2C2B,A,|G,2A,G,F,2B,2|E,2B,2E4||
+
+X:151
+%%pagewidth 8.5in
+%%vocalfont Baskerville10Pro 13
+T:Cherrily and merrily
+M:3/4
+L:1/8
+K:Eb
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+BA&[B,F]2|[B,(G]2E2)(FG)|[C(F]2C2)D2|E4E2|g4f2|
+w:Sweet* day,* so* cool,* so calm, so bright, The
+V:2
+D2|E6|A,4A2&x4B,2|G4G2&C4C2|[CE=A]4[CEA]2|
+V:1
+(f2d2)B2|[G(c]dc2)G2|(B2>d2) [E=A(c]d)|[DB]4[DFB]2|(B3c) (de)&E6|(c2B2)G2&E6|
+w:bri-*dal of** the earth* and* sky, The dews* shall* weep* thy
+V:2
+[DFB]4G2|E6|F4F2|B4B_A|G6|A2G2E2|
+V:1
+(F3G) ([FA]B)&C2x4|[DAc]4[DAB]2|[E(B]2G2)E2|[C(F]GF2)C2|(E3G) [D(F]G)|E4||
+w:fall* to-*night, For thou,* with all** thy sweets,* must* die.
+V:2
+A4A2|F,4F,2|G,4C2|A,6|G4A2&B,4B,2|G4&E4||
+
+X:152
+%%pagewidth 8.5in
+%%vocalfont Baskerville10Pro 13
+T:St. George for England
+M:C
+L:1/8
+K:A
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+A2AAA3B|A=GFEF4&C4D4|FBBB BBB2&^D8|
+w:Why should we boast of Ar-thur and his knights, Know-ing well how many* men
+V:2
+[A,EA]8|[A,EA]4[DA]4|[B,FB]8|
+V:1
+BAGFG2EE&^D4E4|A2A2A2AA&C8|[^DA]2A,A,E2EE|
+w:have en-du-red fights? For be-sides King Ar-thur and Lance-lot du Lake, Or Sir
+V:2
+[B,FB]4[EB]4|[A,EA]8|A2x6&F4[EGB]4|
+V:1
+[^DB]2BB BBBB|BAGFG4&^D4E4|A2cc eeee&E8|
+w:Tris-tram de Li-o-nel, that fought for La-dies' sake, Read in old his-to-ries and 
+V:2
+[B,FB]8|[F,FB]4[EGB]4|[CEA]8|
+V:1
+[Ee]2EE E2FG&x4E2E2|[EA]3E F3[A,C]|[A,D]D [G,B,E]E A,2||!f!zE|
+w:there you shall see, How St. George, St. George the Drag-on made to flee. Saint
+V:2
+[CEA]4[EGB]2[DEB]2|[CEA]3[CA][DA]3A,|F,2E,2A,2||z2|
+V:1
+[CA]3[DB][Ec]2[CA]2|[DFd]6cB&x6[DG]2|A4[^DA]2GF&C4B,3A,|[G,E]6[G,=DE]2|
+w:George he was for England, St.* Den-nis was for France, Sing
+V:2
+[A,,A,]7[A,,A,]|[B,,B,]3[C,C][D,D]2[E,E]2|[F,F]4[B,,B,]4|[E,E]3[=D,=D][C,C]2[B,,B,]2|
+V:1
+[A,CA]6[A,CA]2|[A,D]6[A,DF]2|E6E2&B,4[G,B,]4|A,8||
+w:Ho-ni soit qui mal y pense
+V:2
+[A,,A,]3[B,,B,][C,C]2[A,,A,]2|[B,,B,]3[C,C][D,D]2[B,,B,]2|[E,E]4[E,D]4&A2GFx4|[AC]8||
+
+X:153
+%%pagewidth 8in
+%%vocalfont Baskerville10Pro 13
+T:The healths
+M:C
+L:1/8
+K:G
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+"_mf"Bc|[GBd]4[FAd]2c2|[GB]2G4cd|"_cres."[Gce]4(B3c)&x4G2x2|[FAd]6"_p"(AB)|
+w:Come,* faith, since I'm part-ing, And that God knows* when The*
+V:2
+z2|[G,DG]4[D,D]4|[G,,G,]6z2|[C,C]4[E,E]4|[D,D]6z2|
+V:1
+[EAc]4B2A2|[EGB]4(A2G2)|[FA]2[GB]2[FA]3[EG]|"_cres."([FA]4[DGB]2)[CFAc]2&x2E2x4|
+w:walls of sweet Wick-ham* I shall see a-gain,* Let's
+V:2
+[A,EA]8|[E,E]8|[D,D]4[DA]4|[D,D]2[C,C]2[B,,B,]2[A,,A,]2|
+V:1
+!f![DGBd]4[FAd]2c2|[GB]2G4(cd)|[Gce]4B3c&x4G2x2|[FAd]6"_p"(AB)|
+w:e'en have a fro-lic, And* drink like tall men, Till*
+w:||**bold||
+V:2
+[G,,G,]4[D,D]4|[C,C]6z2|[C,C]4[G,DG]4|[D,D]6z2|
+V:1
+c3cB2A2&[EA]4x4|([EGB]4[A,DA]2)[B,DG]2|[FA]2[GB]2[FA]3G&D8|[B,G]6||
+w:heads with healths go round,* Till heads with healths go round.
+V:2
+[A,EA]8|[E,E]4[F,F]2[G,G]2|[E,D]4[Dc]4|[G,DG]6||
+
+X:154
+%%pagewidth 8in
+%%vocalfont Baskerville10Pro 13
+T:Mall Peatly
+M:6/8
+L:1/8
+K:C
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+!>![CA]3 !>![CEc]3|[CE]2F GFE|[CA]2B [Fc]dc|[F(B]A)[E^G] [EA]3|
+w:One ho-li-day, last summer, From four to seven,* by Croy-*don chimes,
+V:2
+[A,EA]3[A,EA]3|[CG]6|F3[FA]3|[Dd]2[EB] [Ac]3|
+V:1
+[CA]3[CEc]3|[CE]2F GFE|[CA]2B [F(c]d)c|[F(B]A)[E^G] [EG]2||
+w:Three lass-es to-ping rummers Were set a pra-*ting of* the times.
+V:2
+[A,EA]3[A,EA]3|[CG]6|F3[FA]3|[Dd]2[EB][Ac]2||
+V:1
+[FA]/B/|[E(c]d)c GEC|c3-c2B/c/|[G(d]e)d [G(d]B)G|[Gd]3-[Gd]2 [E(c]/B/)|
+w:A* wife* call'd Joan of the Mill,* And a maid* they call'd* brown Nell:* Take*
+V:2
+[FA]|[CG]3[CEG]3|[CEG]3-[CEG]2[CEG]|[B,DG]3[B,G]3|[B,G]3-[B,G]2[CG]|
+V:1
+[FA]2B [Ac]2d|[^Ge]2E G2E|ded [^GB]2A&E3x3|A6||
+w:off your glass, said Gillian of Croy-don,~A health to our Mas-ter Will.
+V:2
+[FA]3[FA]3|[EB]3[E,E]2E|BcBx3&E3[Ed]3|[Ac]6||
+
+X:155
+%%pagewidth 8in
+%%vocalfont Baskerville10Pro 13
+T:Bobbing Joe, or Bobbing Joan
+M:6/8
+L:1/8
+K:G
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+E|E2B B2A|(B>c)d (F>E)D|E2F G2A&x3E3|BF2 E2E&^D3E2x|
+w:I ne'er yet saw a love-*ly crea-*ture, Were she widow,* maid, or wife, But
+V:2
+[EG]|[EG]3-[EG]2[FA]|[Gd]2B d2z|C3C3|B,3E2[EG]|
+V:1
+E2B B2A|(B>c)d F>ED|E2F G2A&x3E3|BF2E2&^D3E2||
+w:straight with-in my breast* her feature* Was paint-ed, strangely* to the life:
+V:2
+[EG]3-[EG]2[FA]|[Gd]2B d2z|C3C3|B,3E2||
+V:1
+F|FA2 D2D|FA2 D2D|E2F G2A&x3E3|BF2E2:||
+w:If out of sight, Tho' ne'er so bright, I straight-way lost her pic-ture quite.
+V:2
+[DA]|(A3F2)F&D3-D2D|(A3F2)F&D3-D2D|[CG]3C3|B,3E2:||
+
+X:156
+%%pagewidth 8in
+%%vocalfont Baskerville10Pro 13
+T:When the stormy winds do blow
+M:C
+L:1/8
+K:G
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+"_f"[B,D]2|[B,G]2[CF]2[DG]2[DA]2|[DGB]4[DFA]2[DFB]2|G2F2E3F&B,4C4|[B,D]6"_p"[BD]2|
+w:You Gen-tle-men of Eng-land, That live at home at ease, How
+V:2
+[G,G]2|[G,G]2[A,A]2[B,B]2[F,F]2|[G,G]4[D,D]2[D,D]2|[E,E]4[C,C]4|[G,DG]3G,G,2G2|
+V:1
+[B,G]2[B,^DF]2[B,EG]2[A,DA]2|B3B [EA]2[DFB]2&[^DG]2E2x4|[EG]2[=DF]2E3F&x4^C4|D6&D6||D2|
+w:lit-tle do you think up-on The dan-gers of the seas, Give
+V:2
+E2B,2E,2F,2|G,4C2B,2|E4[A,G]4|[DF]6||DE&D2|
+V:1
+!<(!A3GA2[DB]2&D6x2|c3BA2[DB]2&D6x2|[Cc]2[DB]2[EA]2[CG]2|!<)![A,A]4"^ff"DE[DF]2|
+w:ear un-to the mar-i-ners, And they will plain-ly show, All* the
+V:2
+F3EF2G2&D6D2|A3GF2G2&D6G2|[EG]2[DF]2[CE]2[EG]2|[DF]4[FA]2A2&x4[D,D]2[C,C]2|
+V:1
+[DG]4[CE]F[DG]2|[CEA]4[DF]G[CDA]2|[B,DB]2[B,EG]2[CEA]2[CDF]2|[DG]6&B,4x2||
+w:cares and* the fears When* the storm-y winds do blow.
+V:2
+[B,,B,G]4[C,CG]2[B,,B,G]2|[A,,A,]4[D,D]2[F,F]2|[G,G]2[E,E]2[C,C]2[D,D]2|[G,,G,]6||
+
+X:157
+%%pagewidth 8.5in
+%%vocalfont Baskerville10Pro 14
+T:Red Bull
+M:6/8
+L:1/8
+K:F
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+F|F2F G2A|(FE)FE3|D3(C2F)&x3x2C|
+w:Sweet Nan-cy, I do love* thee dear, Be-lieve me
+V:2
+z|A3B2c&F,6-|A2cG3&F,2A,C3|B3A2A,&E3F2x|
+V:1
+F2EF2F|F2FG2[FA]|[D(F]E)F [^CE]3|D3(=C2[F)C]|[CF]2E[CF]3||
+w:if thou can, And shall, I firm-ly do* declare,* While thy name is Nan. I
+V:2
+G3A2z&C3F,2z|A3B2A&D6|A3A3&D,3A,3|F3F2x&B,3F,2A,|G3A3&C3F3||
+V:1
+!f!A2=B (cd)c&[DF]3[EA]3|(de)f [c(e]d)c&[FA]3A3|[DAd]3A=Bc|[DGc]2=B [Ec]2!p!G|
+w:can-not court* with el-*o-quence* As ma-*ny* cour-tiers do, But
+V:2
+[DFA]3[A,EA]3|[D,D]3[A,CE]3|[F,A,DF]6|[G,DG]3[CEG]3|
+V:1
+E2F (G>A)G&C6|(c>_B)A B3&C2CB,2C|[CA]3G2F&x3D3|F2E[CF]2&C3x2||
+w:I do love* en-tire-*ly thee. Then love me dear-ly, too.
+V:2
+C2D E>FE&C6-|_E>G^F G3&C2DG,2=E|A3B3&F3B,3|[CG]3[F,A]2||
+
+X:158
+%%pagewidth 8in
+%%vocalfont Baskerville10Pro 13
+T:The merry milkmaids in green
+M:6/8
+L:1/8
+K:F
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+F|F>GFC2c|A3-A2F|F>GF (CD)_E|
+w:I mar-ried a wife of late,* The more's my  un-hap-*py,
+V:2
+z|[FA]3[FA]3|[Fc]3-[Fc]2z|[FA]3[A,F]3|
+V:1
+D3-D2B,|(B,>C)D/=E/F2D|G>FE/D/C2[Cc]&C3x3|A>Bc[B,EG]2F&C2C2x2|
+w:fate;* I took* her for love, As fan-cy did me move, And not for her word-ly
+V:2
+[B,F]3-[B,F]3|G3[DA]3|E3-E2E,|F,2A,C3|
+V:1
+F3-F2||A|A>Bc (c>d)c|A>Bc (cB)A|B2cd2e|
+w:state.* For qual-*ities rare,* Few with her com-pare,* Let me do her no
+V:2
+A3-A2&F3F,2||z|[Fc]3[FA]3|[Fc]3[FA]3|[Fd]3[FB]3|
+V:1
+f3-f2c|f2c (AB)c&x3F3|d2B (GA)B&F3E3|c2A (FG)A&E3F3|
+w:wrong:* I must con-*fess, Her chief a-*miss is on-ly this,* As
+V:2
+[FA]2A,F2z|z2zF,3|B,3C3|A,3D,3|
+V:1
+[CG]2E (CD)E|[CF]2E (DE)F|[D(G]3ED)C|[C(F]G)[CA] [B,EG]2F|[A,F]3-[A,F]2||
+w:some wives' is,* She can-not rule* her tongue,** She can-*not rule her tongue.*
+V:2
+E,3-E,F,G,|A,3B,3|B,3C3|A,2F, C3|F3F,2||
+
+X:159
+T:The Queen's old courtier
+M:C
+L:1/8
+K:A
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+!fermata![CEA]8|[B,EGB]4A3B&x4E4|
+w:With~an~old~song,~made~by~an~old~ancient~pate,||
+w:Of~an~old~worshipful~gentleman,~who~had~a~great~estate,||
+w:Which~kept~an~old~house~at~a~bountiful~rate,||
+w:And~an~old~porter~to~relieve~the~poor~at~his gate. Like an
+V:2
+!fermata![A,EA]8|[E,E]4F,3G,|
+V:1
+[EAc]4[DGB]2[EA]2|[A,DG]2F2!fermata![DFd]2ed|[EAc]4[DGB]4|[CA]8||
+w:old Cour-tier of the Queen's, And the Queen's old Courtier.
+V:2
+[A,,A,]4[B,,B,]2[C,C]2|[D,D]4!fermata![D,B,]4|[E,A,E]4[E,B,E]4|[A,CEA]8||
+
+X:160
+%%pagewidth 9in
+%%vocalfont Baskerville10Pro 15
+T:Joan, to the maypole
+M:2/4
+L:1/8
+K:G
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+DD/D/|[DG]G/G/ [FA][EG]/[FA]/|B>B d>d&G2x2|[G(e]/d/)(c/B/) (c/B/)(A/G/)|
+w:Joan, to the May-pole a-way let us on, The time is swift,* and* will* be*
+V:2
+DC|B,G,DD,|G,2B>B|[Gc]/B/A/G/ e/d/c/B/|
+V:1
+[FA]2 DD/D/|[DG]G/G/ [FA][EG]/[FA]/|[GB]2 d>d|[G(e]/d/)(c/B/) (c/B/)(A/G/)|G2||
+w:gone, There go the lass-es a-way to the green, Where their beau-*ties* may* be* seen;
+V:2
+[Dd]2DC|B,G,DD,|G,2 B>B|[Gc]/B/A/G/ e/d/c/B/|[GB]2||
+V:1
+d<^c|d<D d<^c|d<D DD/E/|GG/A/ BA/G/|FE e<^d|
+w:Bess,* Moll,* Kate,* Doll,* All the brave lass-es have lads to at-tend 'em, Hodge,*
+V:2
+(G2&[(A,E]2|F)z(G2 &D)x ([A,E]2|F)z [D,D][D,D]&D)x3|[G,G][G,G]/[A,A]/ [B,B][A,A]/[G,G]/|[F,F][E,E] (A2&x2([B,F]2|
+V:1
+e<E [Fe]<^d|e<E =DD/D/|GG/A/ BA/G/|FE||DD/D/|
+w:Nick,* Tom,* Dick,* Jol-ly brave dancers,* and who can a-mend 'em. Joan to the 
+V:2
+[EG])z([B,FA]2|[EG])z [=D,=D][D,D]|[G,G][G,G]/[A,A]/ [B,B][A,A]/[G,G]/|[F,F][E,E]||[D,D][C,C]|
+V:1
+[DG]G/G/ [FA][EG]/[FA]/|B>B d>d&Gxx2|([Ge]/d/)(c/B/) (c/B/)(A/G/)|[FA]2 DD/D/|
+w:May-pole a-way let us on, The time is swift* and* must* be* gone, There go the
+V:2
+[B,,B,][G,,G,][D,D]D,|z2B>B&({G,,/}G,4)-|c/B/A/G/ e/d/c/B/&G,4|d2B,2&DCx2|
+V:1
+[B,G]G/G/ [EA]G/A/|[^DFB]2 [=DBd][GBd]|([Gce]/d/)(c/B/) [Ec]/B/A/G/|[B,G]2||
+w:Lass-es a-way to the Green, Where their beau-*ties* may* be* seen.
+V:2
+E2C2|B2G,G|C2C2|G2||
+
+X:161
+%%pagewidth 9in
+%%vocalfont Baskerville10Pro 14
+T:Love will find out the way
+M:3/4
+L:1/8
+K:A
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+c2A2(cd)|e2B2(ed)|c2B3A|A6|[Ec]2A2(cd)|
+w:O-ver the* moun-tains, And* o-ver the waves; Un-der the|
+V:2
+[Ae]4[Ae]2|[Ge]4[EG]2|[FA]2[DAB]2[EGd]2|[Ac]2C2E2|A,4[Ae]2|
+V:1
+e2B2(ed)|c2B3A|A4||GA|(B3c)BA&E6|G2E2(AB)|c2A2(Bc)&E4E2|
+w:foun-tains, And* un-der the graves; Under* floods* that are deep-est, Which* Nept-une o-*
+V:2
+[Ge]4[EG]2|[FA]2[DAB]2[EGd]2|[Ac]2A,2||z2|[^D(B]6|[B)E]4FG|A4G2|
+V:1
+[=DA=d]4cd|[Ae]2A2AB&x4F2|[B,G]FE2ed&x4[EB]2|c2B3A&[EA]2[FA]2[DG]2|[CA]6||
+w:bey: O-ver rocks that are* steep-*est Love will find out the way.
+V:2
+F6|C4D2|E4G,2|A,2D,2E,2|A,6||
+
+X:162
+%%pagewidth 9in
+%%vocalfont Baskerville10Pro 14
+T:Stingo or Oil of the Barley
+M:6/8
+L:1/8
+K:G
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+[B,E]2EB2G|[DA]F2D2D|E2E[^DB]2G|E3G3|
+w:There's a lus-ty li-quor which Good fel-lows use to take-a,~It
+V:2
+[EG]6|[DF]6|[CG]3[B,B]3|G3B3&E6|
+V:1
+[B,E]2EB2G|[DA]2FD2D|E2E[^DB]2G|E3G2||
+w:is distill-d with Nard most rich, And wa-ter of the lake-a; 
+V:2
+[EG]6|[DF]6|[CG]3[B,B]3|G3B2&E3-E2||
+V:1
+G|[B,EG]2[EG][EG]2(F/G/)|[DFA]2[FA][FA]2[DFA]|[DGB]2B[Ge]2[Fd]|[GB]3d2G|
+w:Of Hop a lit-tle* quan-ti-ty, And Barm to it they bring too; Being 
+V:2
+z|[E,E]2[EB][EB]2[E,E]|[D,D]2[DAd][DAd]2[D,D]|[G,G]3[Cc]2[DA]|G3B3|
+V:1
+[B,EG]2[EG] G>F[B,EG]&x3E2x|[DFA]2A A>Bc&x3[CE]2x|(B>[A)F][EG] [^DA]F2&[EG]2x4|E3G3||
+w:bar-rell'd up,* They call't a cup* Of dain-*ty good Old Stin-go.
+V:2
+[E,E]2[EB][EB]2[E,E]|[D,D]3[A,,A,]3|[B,,B,]3FA2&x3B,3|G3B3&E6||
+
+X:163
+%%pagewidth 9in
+%%vocalfont Baskerville10Pro 14
+T:Last new scotch song
+M:6/8
+L:1/8
+K:G
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+E2[B,^DF][B,EG]2[=DFA]|(B>c)[Dd]D2[B,D]&x3[DG]2x|[CE]2E (B>A)(G/F/)&x3^D2x|E3G3|
+w:Cold and raw the north* did blow Bleak in the morn-*ing* ear-ly
+V:2
+[E,G]2B,E2D|G2[B,G][DF]2[G,G]|[CG]2[CG][B,B]3|G3B3&E6|
+V:1
+E2[B,^DF][B,EG]2[=DFA]|(B>c)[Dd]D2[B,D]&[DG]2x4|[CE]2E (B>A)(G/F/)&x3^D2x|E3G2||G|
+w:All the trees were hid* with snow; Dag-gled in win-*ter's* year-ly: As
+V:2
+[E,G]2B,E2D|G2[B,G][DF]2[G,G]|[CG]2[CG][B,B]3|G3B2&E3-E2||z|
+V:1
+[EG]2G (G>A)G|[FA]2A (A>B)A|[GB]2B (e>d)[Fc]|[GB]3d2G|
+w:I came ri-*ding on the slough,* I met a far-*mer's daugh-ter, With
+V:2
+[EB]6|[Dd]6|[Gd]3 c>BA|G3B3|
+V:1
+[B,G]2G [EA]2A|[^DFB]2[DFB] (e>d)[EAc]&x3[EB]2x|(B>[A)F][EG] (F>E)D&[EG]2x^D2x|E3B3||
+w:ro-sy cheeks and bon-ny brow,* Good faith,* made my* mouth wa-ter.
+V:2
+E3C3|B,2A, G,2A,|B,3 A>GF&x3B,3|[EG]6||
+
+X:164
+%%pagewidth 9in
+%%vocalfont Baskerville10Pro 14
+T:What if a day, or a month or a year?
+M:C
+L:1/8
+K:G
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+"^p"E2^DE [DF]2EF|[EG]2FE[^DF]4|!<(![EG]2 FG [DFA]2GA|
+w:What if a day, or a month, or a year, Crown thy de-lights with a
+w:May not the change of a night or an hour, Cross thy de-lights with as
+V:2
+[GB]2x2B2x2&E4B,4|B2x2B4&E,4B,4|B2x6&E4D4|
+V:1
+[DGc]BAG [DFA]2!<)!"^p"A>A&x6E2|[^DA]2[EG]2[EF]2[DF]2|E4E4:||
+w:thou-sand sweet con-tent-ings, a thous-and sweet con-ten-tings,
+w:ma-ny sad tor-ment-ings, as ma-ny sad tor-men-tings,
+V:2
+G,4D2C2|B,4B,2B,2|E8:||
+V:1
+"^f"B3B A2F2&D4D4|G2(FE)[DF]4&B,4x4|B3c [Gd]2[Ge]2&D4x4|c4B4&G2F2G4|
+w:For-tune, ho-nour, beau-*ty, youth, Are but blos-soms dy-ing; 
+V:2
+G4F2D2|E4D4|G4B,2C2|A,2D2G,2F,2|
+V:1
+"^p"B3B [CA]2[^DF]2&G4x4|G2(FE)[^D4F6]|B3c d2e2&E8|[EAc]4[^DFB]4||
+w:Wan-ton plea-sures, do-*ting love, Are but sha-dows fly-ing. 
+V:2
+E,4A,2B,2|E4B,2A,2|^G,8|A,2F,2B,4||
+V:1
+"^pp"G3A B4&E4^D4|F3G A4&=D4^C4|E3F [B,G]2(FE)&=C4x2C2|(E2^D2)E4|
+w:All your joys are but toys, I-dle thoughts de-*ceiv-*ing; 
+V:2
+E4B,4|D4A,4|C4G,2A,2|F4A4&B,4C2B,A,|
+V:1
+"^ff"G3A [B,^DFB]4&[B,E]2x6|F3G [A,^CEA]4&[A,=D]2x6|E3F [B,DG]2[CF]E&=C2x6|(E2^D2)D4||
+w:None hath pow'r of an hour Of his life's be-*reav-*ing.
+V:2
+[E,E]4[B,,B,]4|[D,D]4[A,,A]4|G2x2[G,,G,]2[A,,A,]2&[C,C]4x4|[FB]2[FB]2[GB]4&[B,,B,]2[B,,B,]2E,4||
+
+X:165
+%%pagewidth 8in
+%%vocalfont Baskerville10Pro 13
+T:The hemp-dresser, or The London gentlewoman.
+M:6/8
+L:1/8
+K:G
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+G|G2d (d>e)d&x3B3|c2B (AB)c&E3F3|[Gd]2G G2A&x3E3|[DB]3d2G|
+w:The sun had loos'd* his wea-ry team,* And turn'd his steeds a graz-ing, Ten
+V:2
+z|[GB]3G,3|C3D3|B,3C3|G,3G,2z|
+V:1
+G2d (d>e)d&D6|c2B (AB)c&E3C3|d2G [B,G]2[FA]|[GB]3d2||d|
+w:fa-thom deep* in Nep-tune's stream* His The-tis was em-bra-cing; The
+V:2
+[GB]3[=FA]3|[E^G]3A3|[D^GB]3D3|G,3-G,2||z|
+V:1
+B2A (GA)B&D3D3|[FA]2F D2D|D2G G2A&x3E3|[DB]3D2D|
+w:stars tripp'd in* the fir-ma-ment, Like milk-maids on a May-day, Or
+V:2
+G,3B,3|D6|B,3C3|G,3-G,2z|
+V:1
+B2A GAB&[DF]3B,3|[DA]2F D2D|[B,D]2G [B,G]2[FA]|[GB]3d2||
+w:coun-try lass-es a mum-ming sent, Or school-boys on a play-day.
+V:2
+D3E3|G6|A3D3|G,3-G,2||
+
+X:166
+%%pagewidth 9in
+%%vocalfont Baskerville10Pro 14
+T:Since first I saw your face
+M:C
+L:1/8
+K:Eb
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+E2|E3F G2[EA]2|B2AG F2[Ec]2&[B,E]4[CE]2x2|B3B [CEA]2[B,EG]2&E4x4|
+w:Since first I saw your face I resolv'd* To ho-nour and re-
+V:2
+z2|E6C2|G,4A,2[A,F]2|[B,G]4B,2B,2-|
+V:1
+[DF]4E2E2|E3F [EG]2[EA]2|[EGB]2 ([FA][EG])[DF]2[DFd]2|B3B[DA]2[EG]2|
+w:nown you, If now I be dis-dain'd I* wish My heart had ne-ver
+V:2
+A4G2z2&B,2B,2E2x2|G6C2&C6x2|B,6A,2|G,4F,2E,2|
+V:1
+[DF]4E2||"^f"G2|c3c =A2F2&G2x6|B3B G2[FB]2& F2x6|e3e [Fce]2[FBd]2&[EG]2x6|
+w:known you. What! I that lov'd, and you that lik'd, Shall we be-gin to
+V:2
+A4G2&B,2B,,2E,2||z2|[Ec]4[Fc]4|[DB]4[EB]2D2|C4=A,2B,2|
+V:1
+[E=Ac]4[DB]4|"^pp"!<(!c3A B3G&D4E4|A3F [EG]2!<)! "^mf" [Ec]2&E2D2x4|B3B A2[B,EG]2&E4[CE]2x2|[DF]4E2||
+w:wran-gle? No, no, no, my heart is fast, And can-not dis-en-tan-gle.
+V:2
+F2F,2B,4|_A3F G3E|F2B,2E2[=A,F]2|[B,G]4B,2B,2-|A4G2&B,2B,2E2||
+
+X:167
+T:What care I how fair she be?
+M:C
+L:1/8
+K:F
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+c3d c2G2&C8|(AG)(FE)D4&C4D4|[CF]3F [FB]2[Fd]2|[EB]2[FA]2[EG]4|
+w:Shall I, wast-ing in* des-*pair, Die be-cause a wo-man's fair?
+V:2
+[FA]4[EG]4|F4[B,F]4&F2A,2x4|[A,F]4[DF]2[B,B]2|[GB]2[Fc]2c4|
+V:1
+[DG]3G [^CEA]2[DF]2|[DG]2[DGB]2[^CEA]3B|([Ac]B)(AG) [=B,F]2[CE]2&=C4x4|[=BD]3C C4|
+w:Or my cheeks make pale with care, Be-cause* an-*o-ther's ro-sy are?
+V:2
+B4A2D2|B2G2A4|F3E D2C2|G2G,2C4|
+V:1
+!f![CEG]2(EF) G2C2|[CF]2[B,EG]2[A,FA]4|[A,F]3[CEG] [CF(A]B)[CFc]2|[B,E]2[A,CF]2[CEG]4|
+w:Be she* fair-er than the day, Or the flow'-*ry meads in May;
+V:2
+C6C_B,|A,2G,2F,4|D3C F2A2|G2F2 C4|
+V:1
+!ff![DG]2(GA) [D(B]G)(Bc)|[DGd]2cB [FA]4|!pp![DFA]2F2 [CFc]3A|[CEG]3F [A,F]4||
+w:If she* be* not* so to* me, What care I how fair she be.
+V:2
+B,4 G,2G,A,|B,2A,G, D4|D4 A,4|C2C,2 F,4||
+
+X:168
+%%pagewidth 9in
+%%vocalfont Baskerville10Pro 14
+T:The new Royal Exchange
+M:C
+L:1/8
+K:Bb
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+[DB(d]c)BA B2F2|(GA)(Bc) A2(dc)&E4 C2D2|(BA)G2 G3^F & D4 D4|
+w:I'll* go no more to~the New* Ex-*change, There* is* no room at
+V:2
+G,6D2|E4 F2^F2|G4 [DA]4|
+V:1
+G6D2 & D6x2|G2A2 B3B & D4 D4|c2d2 e3e &G4 G4|(dc)B2 A3G & G4^F4|G8||
+w:all, It is so throng'd and crowded* by the gal-*lants of White-hall.
+V:2
+[GB]6z2|B4 G4|E4 C4|[DB]4[Dc]4|[GB]8||
+V:1
+F2(GA) B3D & D4x4|(EF)G2 F3F|(GA)B2 A3B & E4 =E4|c6d2 & F6F2|
+w:But I'll* go to~the Old* Ex-change, Where old* things are in fashion; For
+V:2
+B8|[EGB]4 [DB]4|[EB]4 G4|[FA]6[B,B]2|
+V:1
+e2d2 c3B & G4 G4|A3G F2F2 & C4 x4|(GA)B2 A3B & E4 E4|[DB]8||
+w:now the Kew's be-come the shop Of this bless-ed Re-for-mation.
+V:2
+[EB]4 [EG]4|F8 & E4 [DB]4|[EB]4F4|[B,F]8||
+V:1
+(dc)BA B2F2 &[DB]2x6|(GA)(Bc) A2(dc) &E4 C2D2|(BA)G2 G3^F &D4 D4|G6D2 &D6x2|
+w:Come,* my new Court-iers, what* d'ye* lack? Good* con-*scien-ces? if you~do, Here's
+V:2
+G,6D2|E4 F2^F2|G4[DA]4|[GB]6z2|
+V:1
+G2A2 B3B & D4 D4|c2d2 e3e & G4 G4|(dc)B2 A3G & G4 ^F4|G8||
+w:long and wide, the on-ly wear, The straight* will trou-ble you.
+V:2
+B4 G4|E4 [Cc]4|[DB]4[Dc]4|[GB]8||
+
+X:169
+%%pagewidth 9in
+%%vocalfont Baskerville10Pro 14
+T:The fairest nymph the valleys
+M:2/4
+L:1/8
+K:Bb
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+(G/A/)|(B>c) B(A/G/) & [DG]2 E2|[A,^F]D2D|[DG][C^FA][B,GB][Gc]|[^FAd]3[DFA]|
+w:The* fair-est nymph the* val-leys Or mount-ains e-ver bred, The
+w:On* whom they oft have* tend-ed And ca-rol'd in the plains, And
+V:2
+z|G,2C2|D3D/C/|B,A, G,=F,/E,/|D,3D|
+V:1
+[Dc]G [Ec]>[GB]|[DA]/G/^F/=E/ D B/c/ & x3[DG]|d(G/A/) B>A & [DG][B,G][DG][C^F]|[B,G]3:||G|
+w:shep-herd's joy, So beau-ti-ful and coy, Fair* Phi-li-*da is dead! But
+w:for her sake, Sweet Rounde-*lays did make, Ad-*mir'd by* youth-ful swains.||
+V:2
+G,EC2|^F,3G,/A,/|B,EDD|(G2G,):||z|
+V:1
+AA A(B/c/) & D4|d(A/G/) ^F=E/D/ & DEx2|G>G (A/B/)(c/d/) & D2 ^F2|[GB]3B & x3G/F/|[EAc][DBd] c>B & x2[FB]A|
+w:cruel* fate,* the beau-ties* en-*vying Of this bloom-*ing* rose, So ready* to dis-
+V:2
+^F3G/A/|Bcdz|BG cA & x2 D2|B3B & GF E>D|CB, FF,|
+V:1
+[DB]4|[Bd]/e/f/B/ [Bd][Ac]|[GB]/c/d/G/ [GB][^FA]|^F/G/[FA]/D/ [DGB][CFA]|[B,G]3||
+w:close, With a frost un-kind-ly Nipt the bud un-time-ly, So a-way her glo-ry goes.
+V:2
+B,F,B,,2|B,DF2|GBd2|zD,D2|G,DG||
+
+X:170
+%%pagewidth 9in
+%%vocalfont Baskerville10Pro 14
+T:The fetching home of May
+M:6/8
+L:1/8
+K:C
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+[Ec]2G EFG|edc dBG|c2G EFG|
+w:Pan leave pi-ping, The Gods have done feast-ing, There's never a God-dess a
+V:2
+C6|c3B3 & G6|[Ec]3[CG]3|
+V:1
+[FBe]d>c [Ec]3|[Ec]2G EFG|edc dBG & ^F3 =F3|[Ec]2G EFG|
+w:hunt-ing to-day; Mor-tals mar-vel at Co-ri-don's jest-ing, That gives them assis-tance to
+V:2
+[G,G]3[CG]3|CEG c3|A3 B3|cGE C3|
+V:1
+[FBe]d>c[Ec]3||edc dec|edc dBG|
+w:en-tertain May. The lads and the lass-es, With scarves on their fa-ces, So
+V:2
+G,3C3||gfe fge &c6|gfe [GBd]3 &c3x3|
+V:1
+c2G EFG|[FBe]d>c [Ec]3|edc dec|
+w:lively time pass-es, Trip o-ver the downs: Much mirth and sport they make,
+V:2
+[Ec]3 [CG]3|[G,G]3[CG]3|gfe fge &c6|
+V:1
+edc dBG &^F3=F3|[Ec]2G EFG|[FBe]d>c [Ec]3||
+w:Run-ning at Barley-break, Good lack, what pains they take, For a green gown.
+V:2
+A3B3|cGE C3|G,3C3||
+
+X:171
+%%pagewidth 9.5in
+%%vocalfont Baskerville10Pro 14
+T:Hunt the hare
+M:6/8
+L:1/8
+K:C
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+V:1
+"_fp"[Ec]2C EFG|Adc BAB &F6|"_fp"[Ec]2C EFG|AdB c3 &F3 E3|
+w:Songs of shep-herds and rus-ti-cal roun-de-lays, Form'd of fancies,* and whistl-ed on reeds,
+V:2
+({C,/}C6-)|F3 G3 &C6|({C,/}C6-)|F2G c3 &C6|
+V:1
+"_fp"[Ec]2C EFG|Adc BAB &F6|"_fp"[Ec]2C EFG|AdB c3 &F3 E3||
+w:Sung to sol-ace young mymphs up-on ho-li-days, Are too un-worthy for won-der-ful deeds.
+V:2
+({C,/}C6-)|F3 G3 &C6|({C,/}C6-)|F2G C3 &C6||
+V:1
+"_p" !<(! [ce]dc [Be]dc|[Ae]dc [Ge]dc|[Fd]Bc [Ed]Bc|[Dd]f[ce] [Bd]3| 
+w:Sot-tish Si-le-nus To Phoe-bus the geni-us Was sent by dame Ve-nus a song to pre-pare,
+V:2
+A3G3|F3E3|D3C3|B,2CG,3|
+V:1
+!<)! "_fp" [Ec]2C EFG|Adc BAB &F6|!mp![Ec]2C EFG|AdB c3 &F2F E3||
+w:In phrase nice-ly coin'd, And in verse quite re-fin'd, How the states di-vine hunt-ed the hare.
+V:2
+A,3G,3|F,3 G,3|A,3 G,3|F,2G, C,3||
+
+X:172
+%%pagewidth 9.5in
+%%vocalfont Baskerville10Pro 14
+T:The crossed couple
+M:6/8
+L:1/8
+K:Bb
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+[V:1]F|B>cB [GB]AG &D2x4|[CA]GF [B,B]2D|EFG F>GF &x3E3|
+w:One ev'-ning a lit-tle be-fore it was dark, Sing tan-ta-ra, ra-ra, tan-
+w:I call'd for my geld-ing, and rode to Hyde Par, Sing tan-ta-ra, ra-ra, tan-
+[V:2]z|B,3E3|F3G3|[B,B]3[FA]3|
+[V:1]FB2-B2 &D3-D2:||F|[DB]2c [B(d]c)d|[B(e]d)[Ac] [Bd]2c|[DB]2c [B(d]c)d|[Ge]d[Gc] [^FAd]2c|
+w:ti-*vee. It was in the merry* month* of May, When meadows and fields* were gaudy* and gay, And
+[V:2][B,B]3-[B,B]2:||z|B3G3|C2F B,2z|G3G,3|C2E D3|
+[V:1]Bdd Acc &G3E3|[CA]GF [B,B]2D|(EF)G F>GF &x3E3|FB2-B2 &D3-D2||
+w:flow-ers appar-*rell'd as bright as the day, I got* up-on my tan-ti-vee.*
+[V:2]G3C3|F3D2[GB]|[CB]3[FA]3|[B,B]3-[B,B]2||
+
+X:173
+%%pagewidth 9in
+%%vocalfont Baskerville10Pro 14
+T:New mad Tom of Bedlam, or Mad Tom (Part 1)
+M:C
+L:1/8
+K:A
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+[V:1][CA]2AB c2A2|[Ge]2E2 E4|E2EF G2E2|[CA]2A,2 A,3B,|
+w:Forth from my sad and dark-some cell. From the* deep a-byss of hell, Mad
+w:Fear and desp-air pur-sue my soul, Hark, how* the angry fu-ries howl, Plu-
+[V:2][A,EA]2AB c2A2|[EB]2E2 E4|[E,B,EG]2EF G2E2|[A,E]2A,2 A,4|
+
+X:174
+%%pagewidth 10.5in
+%%vocalfont Baskerville10Pro 15
+T:New mad Tom of Bedlam, or Mad Tom (Part 2)
+M:C
+L:1/8
+K:A
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+[V:1]C3C [A,D]3D|[G,E][A,F][B,G][A,F] [G,E]2[A,E]2|[A,F][DG][EA][FB] [EAc]2 B>A &x6[DG]2|[CA]2[CA]2[CA]4:||
+w:Tom is come to view the world a-gain, To see if he can ease his dis-temp-er'd brain.
+w:to doth laugh, and Pros-er-pine is glad To see poor nak-ed Tom of* Bed-lam mad.
+[V:2][A,A]4[F,F]4|[E,E]6[C,C]2|[D,D][B,,B,][C,C][D,D] [E,E]2[E,E]2|[A,A]2[A,EA]2[A,EA]4:||
+[V:1][CA]Bcd e2e2|d2c2 B2[E^Gc]2|[CA]2[CEA]2 [E^G]2[^D^F]2 &x4B,4|[1 [B,E^G]2[^G,E]2z4:||[2 [B,E^G]2[^GE]2z2zE||
+w:Through the woods I wand-er night and day, To find my stragg-ling sens-es,|**When
+w:In an an-gry mood I met old Time With~a whip for my of*|fences;**
+[V:2][A,,A,]2z2 [K:clef=treble] cde^f &x6c2|[B^g]2[Aa]2 [eg]2 [K:clef=bass] C2|A2A,2 B,4|E,4z4:||E,4z4||
+[V:1][B,^G]2E2 B3B &x4E2x2|[Ec]2A2 [Ae]3[Ae]|[Bd]2[ce]2d3c &x4c2Bc|[1 c2[Ec]2 z2zE &c2x6:||c2[Ec]2z4 &c2x6||:!>(![Cc]4 [EB]2!>)![CA]2|
+w:he me spies, a-way he flies, For Time will stay for no man; With||Cold* and
+w:hideous cries I rend the skies, How pi-ty is not ||common.|Help,* oh
+[V:2]E4^G4|A4c3d|g2c2g2G2|c2c2z4:||c4c4||:A,4G,2F,2|
+[V:1]^G6G2 &E8|!>(![Ee]4 ([^Gd]2[Ec]2)|[1 !>)![^GB]8:||[2 [^GB]6E2||[EAc]2c2 c2[CA]2|[EBe]2e2e2[EAc]2|([Ad]e)[Adf]2 e3d &x4[GB]2x2|
+w:com-fort-less I* lie,|*Now hark! I hear A-*pollo's team, The car-*man 'gins to
+w:help! or else I ||die.|Chaste Di-a-na bends her bow, The boar* be-gins to
+[V:2]E,8|(C4B,2A,2|E,8):||E,8||A,6A2|G6A2|F2D2E2E,2|
+[V:1][1 [Ac]2[EAc]2z4:||[2 [Ac]2[EAc]2z2A2||[M:6/4]A3Bc2 c3de2 &E2x4E2x4|E6E4E2|E3FG2 G3AB2|
+w:whistle;|**Come, Vul-can, with tools and with tac-kles, And knock off my trouble-*some
+[V:2]A,2A,2z4:||A,2A,2z4||[M:6/4][Ac]6A6|[GB]12|[EGB]6[EB]6|
+[V:1]D6D4D2|(D3E)F2 F3GA2 &x6D2x4|E6 [EBe]6|c3dc2 [DGB]4A2 &[EA]2x4x6|[CA]12||
+w:shack-les, Bid Charles* make rea-dy his wain, To fetch my five senses a-gain.
+[V:2][B,FB]12|[DFA]6 [DA]6|[CA]6 [G,E]6|[A,E]4C2 E6|A12||
+
+X:175
+%%pagewidth 8in
+%%vocalfont Baskerville10Pro 13
+T:Tom a Bedlam
+M:C
+L:1/8
+K:C
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+[V:1]"_p"AA|c3B A2[FA]2 &E2x6|[B,^G]2E2 z2E2|=G3F E2[B,D]2 &E2x6|[CE]2C2 z2"^cres."C2|
+w:Am I mad, O no-ble Fest-us, When zeal and god-ly know-ledge Have
+[V:2]z2|A,6D2|E6z2|C6G,2|C,6z2|
+[V:1]G2E2 A2[CG]2|[Ec]2[GBd]2 "^f"e3(d/c/) &x4[Gc]2x2|"^p"B2A2 A2^G2 &F4B,4|[CA]2[CEA]2 z4 :||
+w:put me~in hope To deal with~the Pope As* well as~the best in Col-lege?
+[V:2]z2C2 F2E2|A2G2 c4|D4 E4|A,2A,2 z4 :||
+[V:1]"^mf"[CEG]2GG G2AB|[CAc]2[FA]B [Gc]2C2|"^p"[EG]2(GF) E2[B,D]2|[CE]2C2 x4|
+w:Bold-ly I preach, hate a cross, hate a sur-plice, Mi-tres,* copes and roch-ets.
+[V:2]C8|F,2F2E4|C6G,2|C,4z4|
+[V:1][Ee]4 [^Gd]2[EB]2|[CA]2c2 [EB]AGF|E2A2 A2 ^G2 &x4 [B,E]4|[CEA]2[CEA]2z2||
+w:Come, hear me pray nine times a day, And fill your heads with crotch-ets.
+[V:2]C4B,2^G,2|A4 D4|C2A,2 E4|A,2A,2 z2||
+
+X:176
+%%pagewidth 9.5in
+%%vocalfont Baskerville10Pro 15
+T:Thomas, You cannot.
+M:6/8
+L:1/8
+K:D
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+[V:1]D|FGA B2A & D6|d2c B2A & D6|FGF [CE]2D & D3 x3|
+w:My scand-a-lous neighbours of Portu-gal Street, Come list-en a-while~to my
+w:I'll sing you a song though~my voice be~not sweet, And that you will say~is a
+[V:2]z|DEF G2F|B2A G2F|A3 [A,G]3|
+[V:1]D (d2d2) :||d|c2d edc &E6-|dec B2A & E3 ^G2A|c2d e2F & E3-E2D|
+w:dit-ty;* As merry a son-net as times can af-ford, Of Egling-ton, Walker, Jack
+w:pi-ty.*|||||
+[V:2][DF]3-[DF]2 :||z|A2B cBA|^G2A E2A,|A,2B, C2D|
+[V:1]=GAF E2[Fd] & C2D C2x|[GB]2[Ad] [Be][Ad][Gc]|[FB]c[EA] [Fd]2[DA]|
+w:Hall and my Lord; If~you doubt~what I say, to con-firm ev'-ry word, I'll
+[V:2]E2D A2D|E2F GFE|D2C B,2F,|
+[V:1][DF]GF [CE]2D|BdA BdA & D3 D2x|[DF]GF [CE]2D|D(d2d2)||
+w:call as a witness Will Thom-as, Will Thom-as, I'll call as a witness Will Thom-as.*
+[V:2]A,3 [A,G]2[B,F]|[G,G]2[DF] [G,G]2[DF]|[A,A]3[A,A]3|[DF]3-[DF]2||
+
+X:177
+%%pagewidth 7.5in
+%%vocalfont Baskerville10Pro 12
+T:Thomas, You cannot. (Hawkins version)
+M:6/8
+L:1/8
+K:D
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+[V:1]D|FGA B2A & D6|d2c B2E & D6|FGF [CE]2D & D3 x3|D(d2d2) :||d|c2d e2d & A6-|
+[V:2]z|DEF G2F|B2A G2F|A3 [A,G]3|[DF]3-[DF]2 :||z|A2B c2B|
+[V:1]c>dc [^GB]2A & A3 x3|c>de e>dc & A6|c>dc [^GB]2A & A3 x3|F>=GF E2D & D3 x3|DdD DdA|F>GF [CE]2D & D2x4|D(d2d2)||
+[V:2]A>BA E2A,|A>Bc c>BA|A>BA E2A,|B,3 [EG]2[B,B]|[B,B]3 [FA]3|[A,A]3[A,G]3|[DF]3-[DF]2||
+
+X:178
+%%pagewidth 8in
+%%vocalfont Baskerville10Pro 13
+T:When Daphne did from PhoeÃÂbus fly
+M:3/4
+L:1/8
+K:Eb
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+[V:1](CD)|E4F2 & C6-|G4[Ec]2 & C4x2|[D=B]3 [Ec][Fd]2|[Ec]4(GA)|B2G2E2 & B,6|
+w:When* Daph-ne from fair Phoeb-us did fly, The* west wind most
+w:Her* silk-en scarf scarce shadow'd* her eyes, The* God cried, O
+[V:2]z2|C4 D2|E4 C2|G,6|A,4E,F,|G,6|
+[V:1]F2D2B,2 & B,4x2|C3E [=B,D]2|C4:||cd|[Ge]4[Ge]2|[Gd]4[Dd]2|(c3d)c2 & E4F2|
+w:sweet-ly did blow in her face,|| Stay, Nymph, stay, Nymph, cries* A-
+w:pi-ty! and held her in chace.|| Lion nor ti-ger doth* thee
+[V:2]x4G2 & D,4E,2|A4x2 & A,3F,G,2|C,4:||z2|c4c2|B4B2|A4A2|
+[V:1][D=B]2[=B,G]4|G3AG2 &_B,6|(F3G)E2 &C4B,2|(E3F)D2|E4:||(GA)|B3ABc &E4E2|
+w:pol-lo, Tar-ry, and turn* thee, Sweet* Nymph, stay,|||
+w:fol-low, Turn thy fair eyes,* and look* this way. O* turn, O pretty*
+[V:2]G6|E6|A4G2|A4A2 &F4B,2|G4 &E4:||EF|G3F GA|
+[V:1][G2(B2]G2)E2|B3c [Ad][Ge] &E4x2|[F(f]2d2)B2|G3FE2|D4c2|(c3d)=B2 & F4F2|
+w:sweet,* And let our red lips meet:* O pi-ty me, Daph-ne! pi-*ty
+[V:2]E6|G4FE|D6|[EB]4[GB]2|[FA]4[EG]2|D4G,2|
+[V:1]c4 (GA) &E6|B2G2E2 & B,6|(F2D2)B,2 & B,4x2|(C3E)[=B,D]2|C4||
+w:me, O* pi-ty me, Daph-*ne, pi-*ty me!
+[V:2]A,4E,F,|G,6|D,4G2 &x4E,2|A4x2 &A,3F,G,2|C,4||
+
+X:179
+%%pagewidth 9in
+%%vocalfont Baskerville10Pro 14
+T:Come you not from Newcastle?
+M:C
+L:1/8
+K:D
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+[V:1][CE]2|[DF]2A2 D2[CE]2|(D3E) D2[CE]2|[DF]2A2 D2A2 &x4D4|(B2d4)(cB) &[DG]8|
+w:O come you from New-cas-*tle, Come you not there a-way?* O*
+[V:2]A2-&A,2|A6A2 &D,4F,2A,2|F6A2-&D6A,2|A4x4 &D,4F,4|G,4B,4|
+[V:1][DFA]2[DF]2[CE]2D2|B,2B4AG|[DA]2F2 E3D &x4C2x2|D6||[DG(B]c)|
+w:met you not my true love, Rid-ing on a bon-ny bay? Why*
+[V:2]D2[DF]2[EG]2[FA]2|G4[EG]4|F2D2x4&A,4[A,G]4|[DF]6||G2|
+[V:1][DA(d]c)(BA)[Dd]2F2|E2e4E2|D3E [^A,(F]E)(DC)|(B,2B4)[DGB]c|
+w:should* not* I love my love, Why should~not my love* love* me?* [Why*
+[V:2]F4B4|[GB]4[EG]4|[FB]4F,4|B,4B,,2G2|
+[V:1][DA(d]c)(BA)[Dd]2F2|E3F[B,G]2[=CFA]2|[B,GB]2[A,F]2E3D&x4=C2x2|D6||
+w:should* not* I speed af-ter him, Since love to all is free?]
+[V:2]F4B4|[GB]4E2D2|G,2D,2G4&x4A,4|F6&D6||
+
+X:180
+%%pagewidth 9in
+%%vocalfont Baskerville10Pro 14
+T:Cuckolds all a row
+M:6/8
+L:1/8
+K:C
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+[V:1]d|d2d d2c &F6|B2cD2G &D6|A2A (B>A)B &F2xF3|[Ec]3-[Ec]2d|
+w:Come ba-che-lors and mar-ried men, And lis-ten to* my song,* And
+[V:2]z|[DA]6|G2A B3 &G6|[Fc]3[Dd]3|C3c3|
+[V:1]d2d d2c &F6|B2cd2G&D6|A2A (B>A)B&F2xF3|[Ec]3-[Ec]2E|
+w:I will shew you plain-ly then, The in-ju-ry* and wrong* That
+[V:2][DA]6|G2A B3 &G6|[Fc]3[Dd]3|C3c3|
+[V:1](F>G)F (E>D)E|D2D (B>A)B&x3D2x|[Cc]2G [B,A]G2|([CE]3C2) (D/E/)|
+w:con-*stant-ly* I do sus-tain* Through my un-*happy life,* The*
+[V:2]c6&A3G3|F>EF G2F|E2z [G,D]2z|C3C3|
+[V:1](F>G)F (E>D)E|D2D (B>A)B&x3D2x|[Cc]2G [B,A]G2|[C(E]3C2)||
+w:which* does put* me to great pain,* By my un-qui-et wife.*
+[V:2]c6&A3G3|F>EF G2F|E2z [G,D]2z|C3C2||
+
+X:181
+T:The buff coat has no fellow
+M:6/8
+L:1/8
+K:Bb
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+[V:1]!f![B,DB]2z[B,D]2z|C2z[CFA]2[EG]/A/|[DB]2F D2C|DB,2 z3:||
+w:Drink, laugh, sing, boys, For the sol-dier has no fel-low.
+[V:2][B,,B,]2z[G,G]2z|G2z [F,F]2[F,F]&[E,E]2x4|[B,B]2[F,F] [D,D]2[C,C]|[B,,B,]6:||
+[V:1]B>cB GAB|c>Bc AGF|B2B cde|(d3f3)|
+[V:2][DFB]2z[EGB]2z|[EGc]2z[Fc]2z|[GB]2z[Acf]2z|f6&B3d3|
+[V:1]d>cd Bcd|c>Bc AGF|B2F D2C|DB,2z3||
+[V:2][B,FB]2z[GBd]2z|[EGc]2z[FAc]2[F,F]|[B,B]2[F,F][D,D]2[C,C]|[B,,B,]6||
+
+X:182
+T:Buff coat (Excerpt 1)
+M:6/8
+L:1/8
+K:C
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+[V:1]B|ccG E2C|D>ED B>AB|ccG E2D|EC2C2||
+
+X:183
+T:Buff coat (Excerpt 2)
+M:6/8
+L:1/8
+K:C
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+[V:1]e/d/|c2G E>DC|D>ED B2A/B/|c2G E2D|ECC C2||
+
+X:184
+%%pagewidth 8in
+%%vocalfont Baskerville10Pro 13
+T:A begging we will go
+M:C
+L:1/8
+K:C
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+[V:1]c|[Ec]GGF E2DE|CDEF G3G|
+w:I am a jol-ly hunts-man, My voice is shril and clear, Well
+[V:2]z|[CG]8|[CE]8|
+[V:1]Gccc c2cc &C4F4|defd[ce]2"Chorus"dc & B4x4|e2(dc)B2(AB)&G8|
+w:known to drive the stag, And the droop-ing dogs to cheer. And a hunt-ing* we will*
+[V:2]E,4A,4|G,4C4|c4G4|
+[V:1]cBAG (AG)FE & C8|F2A2 [EG]2[DB]2 & C4x4|[Ec]6z2||
+w:go, will go, will go,* And a hunt-ing we will go.
+[V:2]AGFE FEDC|A2F2G2G,2|C2G,E,C,2z2||
+
+X:185
+%%pagewidth 8in
+T:The noble shirve
+M:6/8
+L:1/8
+K:G
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+[V:1](B/c/)|d2e d2d &[GB]3[FA]3|[EG(c]3[B)D]3|[CFA]2[DB] [B,G]2[DB]|[CFA]2[DG][B,G]2B/c/|
+w:|||Down a-down, Hey down* a-down*
+w:There* was a maid came out~of Kent, Dain-ty love,* Dain-ty love, There*
+[V:2]z|G6|G6|(D3G2)G,|(D3G2)z|
+[V:1][DBd]2e [DAd]2d|[EA(c]3[B)^G]3|[CA]2B [C^FA]2G|[B,G]3-[B,G]2||
+w:||Down a-down, a down a
+w:was a maid came out~of Kent, Dan-*ger-ouse be.*
+[V:2]G3=F3|E6|A,3D3|G,3-G,2||
+[V:1]!f!A/B/|[Gc]2d c2G|[Gc]2d c2G|[Gc]2[ce] [Gd]2[Ec]|[F(d]3[B)G]3|
+w:There* was a maid came out of Kent, Fair pro-per, small and gent As
+[V:2]z|[Ec]3-[Ec]2[GB]|[Ec]3[Ec]2[GB]|[Ec]2[ce] [Gd]2[Ec]|[DA]3[GB]3|
+[V:1]c3E2F &C6|[B,(G]2A) [GB]2c|[B(d]2[BG]) [Fd]2[DB]|[CF(A]3[G)B,]2||
+w:||Down a-down a-down a.
+w:e\-ver on the ground* went For so* should it be...*
+[V:2]A6|E6|D3D3|D3G2||
+
+X:186
+%%pagewidth 9in
+%%vocalfont Baskerville10Pro 15
+T:Derry down
+M:6/8
+L:1/8
+K:G
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+[V:1]B|(Bc)B AGF & E3x3|GFE ^D2D|E>FE GFE|
+w:An an-*cient sto-ry I'll tell you a-non, Of~a no-ta-ble prince that was
+[V:2]z|G3[^DB]3|[EB]3[B,B]3|[CG]3G3&x3EDC|
+[V:1]DEFG2A/G/|FED D>ED|D>ED[Bd]2[A^d]|
+w:call-ed King John; And he rul'd o-ver Eng-land with main and with might, For
+[V:2]BcAB2z&D3G,2z|[DA]3[CF]3|[B,G]3G,2F,|
+[V:1][Gd]BB c>BA & x3E2x|B>AG A>G[^DF] & E2x E2x|E3[EB]3|A>G[^DF] E2 & C2xx2||
+w:he did great wrong, And main-tain'd lit-tle right,* Derry down, down, hey, der-ry down.
+[V:2]E,3A3|G3F2B,|C3G,3|A,2B,E2||
+
+X:187
+%%pagewidth 8.5in
+%%vocalfont Baskerville10Pro 14
+T:Derry down (Watt's version)
+M:6/8
+L:1/8
+K:G
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+[V:1]B|(BA)G AGF & E6-|GFG E2B & E2x4|BAG AGF & E6-|
+w:An an-*cient sto-ry I'll tell you a-non, Of~a no-ta-ble prince that was
+[V:2]z|G3 cBA &E6-|BAB G2z &E3-E2x|G2x cBA &E6-|
+[V:1]GFG E2D &E2x4|DED DED|DED [Fd]2[Ge]|
+w:cal-led King John. He rul'd o-ver Eng-land with main and with might, For
+[V:2]BAB G2[FA] &E3-E2x|[GB]3 [FA]3|[GB]3 [DA]2[Cc]|
+[V:1]BAG AGF & E6-|GFG E2 ^D/D/ & E2x4|E3 G3|B>A[DG] (F<E) & ^D2x D2||
+w:he did great wrong, and main-tain'd lit-tle right, Derry* down, down, hey derry* down.*
+[V:2]G3 cBA & E6-|BAB G2x &E3-E2[FA]|[GB]3[EB]3|[B,FB]2[B,B] A<G &x3E2||
+
+X:188
+%%pagewidth 8in
+%%vocalfont Baskerville10Pro 13
+T:Tom Tinker's my true-love
+M:3/4
+L:1/8
+K:G
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+[V:1]G2|G2B2G2 & D6|A2c2(EF) & E4x2|G2F2E2 & D2C4|[B,D]4[Cc]2|B3 A(Bc) & D4D2|
+w:Tom Tin-ker's my true love, And* I am his dear, And I will go*
+w:For~of all the young men* he* has the best way; All~the day he will*
+[V:2]z2|[GB]6|[Cc]4[DA]2|[B,G]2[CG]4|[G,G]4[EG]2|[DG]4[CF]2|
+[V:1]d2B2G2 & D4B,2|[EA]2F2D2 & C6|[B,G]4:||G2|B4G2 & D6|c4(EF) & E4x2|G2F2E2 & D2C4|
+w:with him, his bud-get to bear, This way, that way, which-*e-ver you
+w:fid-dle, at night he will play.|||||
+[V:2][B,G]4E2|C2D4|G,4:||z2|[GB]6|[Cc]4[DA]2|[B,G]2[CG]4|
+[V:1][B,D]4[Cc]2|B3 A(Bc) & D4D2|d2B2G2 & D4B,2|[EA]2F2D2 & C6|[B,G]4||
+w:will, I'm sure I say* no-thing that you can take ill.
+[V:2][G,G]4[EG]2|[DG]4[CF]2|[B,G]4E2|C2D4|G,4||
+
+X:189
+T:Tom Tinker (Beggars' Opera version)
+M:3/4
+L:1/8
+K:F
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+[V:1]c2|[Ec]2 cd[Gd]c|[f(F]2c2)[Ec]2|[E(G]2E2)E2|E4C2|[CF]EFG[FA]B|[c(C]2G2)[=B,G]2|[C(E]2C2)C2|
+[V:2]z2|c4B2|A4c2|x2A2A2 & F4F2|A4z2 & F4x2|A4F2|D4G2|x2E2E2 & C4C2|
+[V:1]C6:||G3 AGF & D2x4|(E2C2)C2|A3 BAG & E2x4|(F2D2)D2|B3 cBA & F2x4|(G2[c)E]2[GB]2|[A(F]2F2)F2|F4||
+[V:2]E6 & C6:||[=B,G]6-|[B,G]4z2|[C(A]6[A)D]4z2|[DB]6|[Ec]2[Cc]4|c2A2A2 & F4F2|A4 & F4||
+
+X:190
+%%pagewidth 8in
+%%vocalfont Baskerville10Pro 13
+T:Northern Nancy
+M:6/8
+L:1/8
+K:Bb
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+[V:1]D|G>AG [A,C^F]2[B,DG] & [B,D]2x4|[CEA]2[DB] [Fc]BA|(B>c)d D2[D^FB] & [DG]2x4|[C^FA]3[B,G]2D|
+w:In an-*cient times when as plain deal-ing Was most* of all in fashion,* There
+[V:2]z|G,6-|G,6-|G,2B, D3|D2D G2z|
+[V:1]G>AG [C^F]2[DG] & B,2x4|[EGA]2[DGB] [CGc]B[EGA]|(B>c)d D2[D^FB] & [DG]2x4|[C^FA]3[B,G]2||"^f"[GBd]|
+w:was* not then half so much steal-ing, Nor men* so giv'n to pas-sion: But
+[V:2]G,3A,2B,|C2D E2C|D3-D2D,|G,2D G2||G|
+[V:1]e>d[FBd] (c>B)[FA] & [Fc]2x G2x|[DB]2[Gc] [^Fd]2A|"^p"(B>c)d D2[D^FB] & G2x4|[C^FA]3[B,G]2"^f"[GBd]|
+w:now* a days,* truth so de-cays, And false* knaves there are plen-ty, So
+[V:2]A2B E2F|G2E D3|G,2B, D2D,|G,3-G,2G|
+[V:1](f>e)[FBd] (c>B)[FA] & [Fc]2x G2x|[DB]2[Gc] [^Fd]2A|"^p"B>cd D2[D^FB] & G2x4|[C^FA]3[B,G]2||
+w:pride* ex-ceeds* all o-ther deeds, And Mock-beg-gar Hall stands emp-ty.
+[V:2]A2B E2F|G2E D3|G,2B, D2D,|G,3-G,2||
+
+X:191
+%%pagewidth 8in
+%%vocalfont Baskerville10Pro 14
+%%pos vol above
+T:I have but a mark a year
+M:C
+L:1/8
+K:G
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+[V:1]G2|(Bc)d2 d2(cB) & D4D4|([FA]B)(AG) G3F &x4B,2x2|E2C2 (FG)A2 &x4C2x2|
+w:Now all* my friends are* dead* and* gone, A-las! what will* be-
+[V:2]z2|G,4B,4|D4E4|C4A,4|
+[V:1][A,F]2D2 z2(ED)|(EF)G2G2(FE) &C4C4|(FG)A2 A2d2 &A,4D4|B3G E2[Fd]2 &D4x4|[DB]2G2z2||
+w:tide me, For* I,* poor maid, am* left* a-lone, With-out a house to hide me.
+[V:2]D4D,4|C4A,4|D4F4|G4c2D2|G4z2||
+[V:1](Bc)|d2 (ed) dedc & G4G4|(d4B2) (dc) & G6x2|cBAG E2A2 &E4x4|(F2A2)z2(Bc)|
+w:Yet* still I'll* be of merry* cheer,* And* have kind wel-come ev'ry-*where,* Though*
+[V:2]GA|B2cB BcBA|(B4G2)z2|x4c4 & C8|[DA]4[CDF]4|
+[V:1]d3d B2G2|E2A2 F2d2|(ed)(cB) A2D2 &x6D2|[CE]2[B,G]2z2||
+w:I have but a mark a year, And that* my* mo-ther gave me.
+[V:2][B,DG]4[EG]4|[Cc]4[DA]2[B,G]2|[CG]4F2x2 &x4D4|G,4z2||
+
+X:192
+%%pagewidth 9in
+%%vocalfont Baskerville10Pro 14
+%%pos vol above
+T:I tell thee, Dick, where I have been
+M:3/4
+L:1/8
+K:F
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+[V:1]"_f"F [CA]F|[CGc]3 d[Ge]c|[Fcf]3 [FA][FB][FAc]|[FBd]3 [Ac][GB][FA]|
+w:I'll tell thee, Dick, where I have been, Where I the ra-rest things have
+[V:2]z[F,F]2|[E,E]4[B,B]2|[A,A]3 [Dd][Dd][Cc]|[B,B]4[B,B]2|
+[V:1][EG]4"^p"[Gc]2|[D=B]3 [Ec][Fd][DB]|[Ec]3 "^f"c[EG]A|[D_B]3 [CA][B,G][DF]|[^CE]3 E[A,F]D|
+w:seen, Oh! things be-yond com-pare. Such sights a-gain can-not be found In a-ny
+[V:2][Cc]4E2|G2G,2G2|C2c2[C,C]2|[G,G]4[G,G]2|[A,A]2[A,,A,]2[D,D]2|
+[V:1][G,DG]3 F[B,E]D|C4"^p"[CFc]2|[DGB]3 [CA][B,EG][CA]|[A,F]3||
+w:place on En-glish ground, Be it at Wake or Fair.
+[V:2][B,,B,]4[G,,G,]2|[A,,A,]2[F,,F,]2A,2|B,4C2|F3||
+
+X:193
+%%pagewidth 9in
+%%vocalfont Baskerville10Pro 14
+%%pos vol above
+T:The court lady
+M:6/8
+L:1/8
+K:F
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+[V:1]D|D2E [A,DF]2G|[A,DA]2A [DFA]3|[DGB]3 [DA]2A|[DGd]2d [EA^c]2D|
+w:Sweet, youth-ful, charm-ing la-dies fair, Fram'd of the pu-rest mould, With
+[V:2][D,D]|[D,D]2z D3|F3D3|G3F3|B3A2[D,D]|
+[V:1]D2E [A,DF]2G|[A,DA]2A [DFA]3|[DGB]3 [DA]2A|[DGd]2d [EA^c]2A|
+w:ro-sy cheeks and silk-en hair, Which shine like threads of gold; Soft
+[V:2][D,D]2z D3|F3D3|G3F3|B3A3|
+[V:1][EA=ce]2c [FAf]2d|[EAe]c2 (A2[E=B])|(cA2) [=B,D^G]2[A,EA] & [CE]2x4|A^G2 [CEA]2A &[=B,E]3x3|
+w:tears of pi-ty here be-stow,* On* the un-hap-py fate of 
+[V:2]A,3D3|C3-C2^G,|A,3=B,2C|E,3A,3|
+[V:1][DF]2G (A>B)A & x3D2x|[DB]A2 [DG]3|[DA]2d [G^c]2[FAd]|e^c2 [FAd]2 &[EA]3x2||
+w:Ro-sa-mond,* who long a-go, Prov-ed most un-for-tu-nate.
+[V:2]_B3F3|G3E3|F3E2D|A,3D2||
+
+X:194
+%%pagewidth 9in
+%%vocalfont Baskerville10Pro 14
+%%pos vol above
+T:Gather your rosebuds while you may
+M:C
+L:1/8
+K:G
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+[V:1]d2dd d3c & D8-|B2 (A>G) [B,G]3B & D2C2x4|B3A ([EG]A)([GB]c) & D4x4|[FAd]2[FAd]6|
+w:Gath-er ye rose-buds while ye* may, Old Time is still* a* fly-ing;
+[V:2][GB]4[FA]4|G2[DF]2[G,G]4|G4E4|D2D6|
+[V:1]A2 AB c3d & =F4E4-|e2dc B3[Fc] &E^FGA B2x2|[Gd]2[E(c]B)[FA]3G|G2G6||
+w:And this same flow'r that smiles to-*day, To-mor-row* will be dy-ing.
+[V:2]D4A,3B,|CDEF G3A|B2c2d2[Dc]2|[GB]2[GB]6||
+
+X:195
+%%pagewidth 9in
+%%vocalfont Baskerville10Pro 14
+%%pos vol above
+T:Three merry boys are we
+M:6/8
+L:1/8
+K:Bb
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+[V:1]B,|B,2B, B,2B,|F3-F2F & B,2x4|[B,G]2G [EA]2F|[DB]3-[DB]2B|
+w:The wise men were but seven,* Nor more shall be for me;* The
+[V:2]z|[B,,B,]2zz3|[D,D]2zz3|[E,E]2z[C,C]2z|[B,,B,]3-[B,,B,]2z|
+[V:1][B,B]2B [DF]2G|A3-A2A & C2x4|[B,B]2B [FAc]2c|[FBd]3-[FBd]2!p!f|
+w:mu-ses were but nine,* The wor-thies three times three;* And
+[V:2][D,D]2z[B,,B,]2z|[F,,F,]2zz3|[G,G]2z [F,F]2z|[B,,B,]3-[B,,B,]2z|
+[V:1][Fd]cd B2d|[Ac]Bc F2f|[Fd]cB [EAc]2c|[DB]3-[DB]2||
+w:three mer-ry boys, And three mer-ry boys, And three mer-ry boys are we.*
+[V:2]B,3D3|F3A3|B2D F2F,|B,3B,2||
+
+X:196
+%%pagewidth 9in
+%%vocalfont Baskerville10Pro 14
+T:Cupid's Courtesy
+M:3/4
+L:1/8
+K:Bb
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+%%pos vol below
+[V:1]!p![DBd]2G2[^FA]2|[GB]2c2[Gd]2|[Ec]2d2[E(c][B)G]|[^FA]4G2|[DBd]2G2[^FA]2|
+w:Through the cool sha-dy woods As I was* ran-ging, I heard the 
+[V:2]G,4D2|G4B,2|C6|(D2D,2G,2)|G,4D2|
+%%pos vol above
+[V:1][GB]2c2[Gd]2|[Ec]2d2[E(c][B)G]|[^FA]4G2||!f![=FAf]2[FBf]2[Fcf]2|[Fdf]2 [ce][Bd][Fc][DB]|
+w:pret-ty birds Notes sweet-ly* chan-ging. Down by the mea-dow's* side*
+[V:2]G4B,2|C6|(D2D,2G,2)||F,2G,2A,2|B,2B,,4|
+[V:1][Fcf]2[Bdf]2[GBg]2|[Ad^f]2[^FAd]4|!pp![Bd]2G2[^FA]2|[GB]2c2[Dd]2 &x2=FEx2|[Ac]2[Bd]2[Ec][GB] & FED2x2|[C^FA]4[B,G]2||
+w:There runs a ri-ver; A lit-tle boy I spied With bow and* qui-ver.
+[V:2]A,2B,2E,2|D,2D4|(G,2B,2D2|G2A2B2)|(F2B,2)C2|D2D,2G,2||
+
+X:197
+%%pagewidth 9in
+%%vocalfont Baskerville10Pro 14
+T:Have at thy coat, old woman
+M:C
+L:1/8
+K:F
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+%%%%pos vol below
+[V:1]AB|c3d c3A & F8|BG3 d2(AB) & D8|c3d [Ec]2G2 & F8|
+w:My* name is ho-nest Har-ry,* And* I love lit-tle
+[V:2]FG|A3B A3F|G8|[CA]4[CG]4|
+[V:1]AF3-F2 (de)|(f>e) d2 (c>B) A2 & F4 F4|(G>A)G2 d2(AB) & D8|c3d [Ec]2G2 & F4x4|AF3-F2||
+w:Ma-ry;* In* spite* of Cis,* or jeal-*ous Bess, I'll* have my own va-ga-ry.*
+[V:2]F6 Bc|d>c B2 A>G F2|B8|[CA]4[CG]4|[F,F]6||
+
+X:198
+%%pagewidth 9in
+%%vocalfont Baskerville10Pro 14
+T:A health to Betty
+M:6/8
+L:1/8
+K:Bb
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+%%%%pos vol below
+[V:1]G|(G>A)G ^F2D|[GB]3 [^FA]2d|(d>e)d [Ac]2[FA] & =F2x4|([Bf]3[Bd]2)[Ae]|
+w:One morn-*ing bright, for my delight, In-to* the fields I walked,* There
+w:It seem'd* to me they could~not agree A-bout* some pret-ty bargain,* He
+[V:2]z|B3 A3 & G3 D3|G,3 D,2z|B3 F2E|D3 B,2C|
+[V:1][Bf]d2 (B>c)d & x3D2x|[Ec]2A [D^F]2F|G>A[CG] [D^F]2D|[GB]3 [^FA]2 :||
+w:did I see* a lad, and he* With a fair maid-en talk-ed.
+w:offer'd a groat,* but still her note Was four-*pence-half-penny-far-thing.
+[V:2]D3G3|C3D3|B2x4 &E3D3|G,3D,2:||
+
+X:199
+%%pagewidth 9in
+%%vocalfont Baskerville10Pro 14
+T:Shackley-hay
+M:6/8
+L:1/8
+K:Bb
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+%%%%pos vol above
+[V:1][DFB]|[DFB]2G [EA]2[FB]|[Gc]2B [C(A]GF)|[FB]3 [B,G]2E|[B,(F]G)[EA] [DB]2[DFB]|
+w:Young Pal-mus was a Fer-ry-man,** Whom Shel-dra fair* did love, At
+[V:2]B,|B,3 C2D|E3 F3|D3 E2C|D2F, B,2B,|
+[V:1][DFB]2G [EA]2[FB]|[Gc]2B [C(A]GF)|[FB]3 [B,G]2E|[B,(F]G)[EA] [DB]2||[Ff]|
+w:Shack-ley, where her sheep did graze,** She there his thoughts* did prove: But
+[V:2]B,3 C2D|E3 F3|D3 E2C|D2F, B,2||D|
+[V:1]e2c d2B & F6|[Fc]2A F2[DB]|[B,G]2E [B,F]2[_A,B,D]|[G,B,E]2F [EG]2=A|
+w:he un-kind-ly stole a-way, And left his love at Shackley-*hay, So
+[V:2]C2A, B,2G,|A,2z z2D|E2C D2B,|E3 [CE]3|
+[V:1][D(B]A)G F2[Fd]|[E(c]B)c [DB]2!pp!B|[D(B]A)G F2[FBd]|[EA(c]B)c [DB]2||
+w:loud* at Shack-ley did* she cry, The words* re-sound at Shack-*ley-hay.
+[V:2][G,G]3[DB]2[B,B]|[FA]3 [B,B]2z|(G3 D2)B,|(F3 B,2)||
+
+X:200
+%%pagewidth 9in
+%%vocalfont Baskerville10Pro 14
+T:Franklin is fled away
+M:3/4
+L:1/8
+K:G
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+%%pos vol above
+[V:1][B,DG]2[B,EG]2[EA]2|F3ED2 & D2x4|G2[EG]2[CFA]2|[B,GB]6|[DGB]2[EGB]2[EGc]2|
+w:Frank-lin, my loy-al friend, O hone, O hone! In whom my
+[V:2]G2E2A2 & x4C2|A3GF2 &D6|[GB]2G2A,2 & E2C2x2|G,6|G2E2C2|
+[V:1][GB]3[FA][GB]2 & D6|[DFA]2[D=FA]2[B,E^G]2|[CEA]6||[DAd]2[FAd]2[DAc]2|[DGB]3[CA][B,G]2|A2A2G2 & E3CDE|
+w:joys do end, O hone! O hone! Frank-lin, my heart's de-light, Since last he
+[V:2]G,6|D2D2E2|A,6||^F2D2F2|G6|G6 & C3A,B,C|
+[V:1]F3ED2|G2[FG]2[EG]2|d3cB2 & DEF2G2|[EGA]2[CFA]3[B,G]|[B,G]6||
+w:took his flight, Bids now the world good night. O hone, O hone!
+[V:2]A3GF2 & D6|G2G2G2 & E2D2C2|B,3A,G,2|C2D4|G6||
+
+X:201
+%%pagewidth 9in
+%%vocalfont Baskerville10Pro 14
+T:Queen Dido, or Troy town
+M:C
+L:1/8
+K:G
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+%%%%pos vol above
+[V:1][B,DG]2[B,DG]2 G3G & x4B,2x2|[EGA]2[DFc]2 [DGB]2d2 &x6DE|[Fc]2[GB]2 A2[FAd]2|d2^c2 [FAd]4 &[EA]4x4|
+w:When Troy town for ten years' wars With-stood the Greeks in man-ful wise;
+[V:2]G2F2E4|C2D2G,2B2|[Ac]2[Gd]2 [Fd]2D2|A4D4|
+[V:1][FAd]2[FAd]d [Gd]2[GB]2|[Gce]2[FAd]c [GB]2d2 & x6DE|[Fc]2[GB]2 A2[FAd]2|d2^c2 [FAd]4 & [EA]4x4||
+w:Yet did their foes in-crease so* fast, That to re-sist none could suf-fice.
+[V:2]d2=c2B2e2|c2d2 G2B2|A2G2 F2D2|A4 D4|
+[V:1][=FAd]2[E^GB]c [CA]2[C^Fc]2|[D=GB]2[EA]G [A,F]2[DA]2|[CE]2[CE]2[B,D]2[DG]A|[DGB]2[CFA]2[B,G]4||
+w:Waste lie those walls that were so* good, And corn now grows where* Troy town stood.
+[V:2]D2E2 A2A,2|B,2C2 D2FG|A2EF G2B,C|D2D,2 G,4||
+
+X:202
+%%pagewidth 9in
+%%vocalfont Baskerville10Pro 14
+T:Remember, O thou man
+M:3/4
+L:1/8
+K:Bb
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+%%pos vol above
+[V:1][B,G]2[DG]2[B,G]2|[DB]3[C^FA][B,G]2|^F3F[DG]2 & C2x4|A3^FD2 &D2x4|[DG]2[B,G]2[EG]2|
+w:Re-mem-ber, O thou man, O thou ma, O thou man, Re-mem-ber,
+[V:2]G,2B,2G,2|G3DE2|A,4B,2|^F,A,D3C|B,2E2C2|
+[V:1][DGB]3[D^FA][DG]2|[C^F]2F2[B,DG]2|[A,^FA]6||[D=FB]2[DFd]2[DFd]2|[Fd]3[Fc][DB]2 &D2x4|
+w:O thou man, thy time is spent. Re-mem-ber, O thou man,
+[V:2]D3CB,2|A,4G,2|D,2D2C2||B,2B2B2|B3AG2|
+[V:1][FA]2[Fc]2[Fc]2|[Ec]3[GB][^FA]2|[DGB]2[D^FA]2[B,G]2|^F3GA2 & C2D2D2|B3A[D^FB]2 & D2E2x2|[B,G]6||
+w:how thou art dead and gone, And I did what I can, there-fore re-pent.
+[V:2]F2A2A2|c3Gd2|G2D2E2|A,2B,2^F,2|G,2C2D2|G6||
+
+X:203
+%%pagewidth 9in
+%%vocalfont Baskerville10Pro 14
+T:The country lass
+M:3/4
+L:1/8
+K:C
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+%%pos vol above
+[V:1]G|Gc[D3B3][Ec] & E2x4|d(e/d/)c3B &F2E2x2|AGF3E & C2C2B,2|Ec3zG &C6|
+w:Al-though, I am a count-ry* lass, A lof-ty mind I bear-a, I
+w:*Down,* down, derry, der-ry* down, Hey down a down, a down-a, a
+[V:2]z|C2G2G,2|B,2C2C,2|FED2G,2|C2C,2z2|
+[V:1]GcB3c &E2D3E|d(e/d/)c3B & F2E2x2|AGF3E & C2C2B,2|Ec3!fine!z & C4x||G|
+w:think my-self as good as* those That gay ap-pa-rel wear-a; My
+w:der-ry, der-ry derry, derry* down, Hey down-a, down-a der-ry.*
+[V:2]C2G2G,2|B,2C2C,2|FED2G,2|C2C,2z||z|
+[V:1]GEG3A & C4^C2|AFA3e &D4E2|fed3c & A4A2|Bd3zG & G4x2|
+w:coat is made of come-ly gray, Yet is my skin as soft-a, As
+[V:2][CE]4[A,E]2|[DF]4[^CA]2|A4d2 & D3EF2|[Gd]2G,2z2|
+[V:1]FED2C2 & C2x4|fe[Bd]3c & [FA]2F2G2|dcB3A & [DA]2[DG]2[B,F]2|Gc3!dacapo!z & [CE]2-[CE]2z||
+w:those that with the choic-est wines Do bathe their bo-dies oft-a.
+[V:2]x2G2E2&A,2B,2C2|D2D2E2|F2G2G,2|C2C,2z||
+
+X:204
+%%pagewidth 9in
+%%vocalfont Baskerville10Pro 14
+T:Maying-time
+M:C
+L:1/8
+K:G
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+%%pos vol above
+[V:1]"^WILLY."\
+d2G2[CF]2[B,G]2 & D4x4|A3G[B,G]4 & [CF]2x6|A3A [D^G]2[CA]2 & E2x6|B3A [CA]4 & [D^G]2x6|
+w:How now, Shep-herd, what means that? Why that wil-low in thy hat?
+[V:2]B4 A2G2|D4G4|c4 B2A2|E4 A4|
+[V:1]B3d c2G2 & (=F4 E2)x2|^F2A2 G2[GB]2 & (C4 B,2)x2|[DA]2[Fc]2 [GB]2[Gd]2|^c2e2 d2d2 & G4 F2x2||
+w:Why thy scarfs of red and yel-low Turn'd to branch-es of green wil-low?
+[V:2](G4 c2)z2|(D4 E2)E2|F2A2G2B2|A4 d2D2||
+[V:1]"^CUDDY."\
+B2B2d2d2 & G4 F4|A3B [Ec]4 & F4x4|G3A B2G2 & E4 D4|F3G [DA]4 & D4x4|
+w:They are chang'd, and so am I; Sor-rows live, but plea-sures die:
+[V:2]E4 B,4|D4 A,4|C4 G,4|B,4 F,4|
+[V:1]E3F [B,G]2[GB]2 & C4x4|[DA]2[Fc]2 [GB]2[FB]2|[EA]2[DG]2[CF]2[B,G]2|A3G [B,G]4 & [CF]2x6||
+w:Phil-lis hath for sa-ken me, Which makes me wear the wil-low tree.
+[V:2]A,4 E,2E,2|F,2D,2G,2d2|c2B2 A2G2|D4 G4||
+
+X:205
+%%pagewidth 9in
+%%vocalfont Baskerville10Pro 14
+T:Never love thee more
+M:6/8
+L:1/8
+K:G
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+%%pos vol above
+[V:1]D|D2D G2A & B,6|B2B D2D & B,6|[B,B]2B [CA]2[DG]|E3-E2[B,D]|
+w:My dear and on-ly love, take heed How thou thy-self ex-pose,* By
+[V:2]z|[G,DG]6|[G,DG]6|[G,DG]3[A,F]2[B,G]|[CG]3-[CG]2[G,G]|
+[V:1]D2DG2A & B,6|[B,B]2B D2D|B2B A2G & D3 ^C3|[DFd]3-[DFd]2||d|
+w:let-ting long-ing lov-ers feed Up-on such looks as those.* I'll
+[V:2][G,DG]6|G3[FA]3|[EG]3[EG]3|[DA]3-[DA]2||z|
+[V:1][DB]2B A2G|[Gc]2[Bd] [ce]2[Gd]|[Gd]2B [CA]2[DG]|E3-E2D & x3[A,C]3|
+w:mar-ble-wall thee round a-bout, And build with-out a door;* But
+[V:2][G,DG]6|G3-G2G & E2D C2B,|G3x3 & B,2G, [A,F]2[B,G]|[CG]3 F,3|
+[V:1]D2D [B,G]2[CA] & B,3x3|[D(B][c)E][Fd] [Ge]2[Gd]|[Gd]2B [FA]2G|G3-G2||
+w:if thy heart do once* break out, I'll ne-ver love thee more.*
+[V:2]G,3 [EG]3|[DG]3 [CG]2[DB]|BG2 x3 &D3 [Dc]2[GB]|[GB]3-[GB]2||
+
+X:206
+%%pagewidth 9in
+%%vocalfont Baskerville10Pro 14
+T:The merchantman
+M:6/8
+L:1/8
+K:C
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+%%pos vol above
+[V:1][DGB]|c>de [FBe]2[Fd] & [EG]2x4|[Ec]3-[Ec]2e|(d>c)B (c>B)A & E2x E2x|^G3-G2[Ec]|
+w:There was a rich merc-hant-man,* That was* both grave* and wise,* He
+[V:2]G|c3 G3|C2G c3|^G3 A3|E2B e2A,|
+[V:1](=G>F)E (E>D)C & D2x B,2x|(E>F)E A2A|G>F[CE] [CA]2[B,G] & C2x4|[CE]3-[CE]2||
+w:kill'd* a man* in Ath-ens* town, Great quar-rels there did a-rise.*
+[V:2]B,2C ^G,2A,|^G3 A2B & E,3 F,2F|E2C F2G|C3-C2||
+
+X:207
+%%pagewidth 9in
+%%vocalfont Baskerville10Pro 14
+T:Fair Margaret and sweet William
+M:3/4
+L:1/8
+K:F
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+%%pos vol above
+[V:1](d>e)f2[G^ce]2 & F2x4|[Fd]2A2B2 & x2D4|[FA]2D2E2|F4[Fd]2|
+w:As* it fell out on a long sum-mer's day, Two
+[V:2]d4A2|B2F2G2|D4G2 &x4C2|A4B,2 & F,4x2|
+[V:1]c2d2B2 &F4F2|G2(BA)(GF) &D4 D2|[CE]4[CA]2|(G2A2)[B,E]2 & C4B,2|[CF]2d2c2 & x2F4|
+w:lo-vers they sat on* a* hill; They sat* to-ge-ther that
+[V:2]A,2B,2D2|B,2G,2B,2|C4F2|E2F2G2|A2B2A2|
+[V:1]B2A2[FG]2 & F4x2|(G3A)[D_B]2 &E2x4|(A2d2)[DF]2 &[DF]4x2|(E2GF)([^CE]D) & D4x2|D6||
+w:long sum-mer's day,* And could* not talk** their* fill.
+[V:2]d2c2=B2|c4G2|A4B2|G2E2[G,G]2|[DF]6||
+
+X:208
+T:Chanson Roland
+M:3/2
+L:1/8
+K:G
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+%%pos vol above
+[V:1]d4A4G4 & [DB]4F4^C4|F3GA4z4 & D3EF4z4|c4A8 & A4F8|B4G8 & G4B,8|d4A4G4 & F4D4^C4|
+[V:2]G,4C4E4|D8D4|D,8D4|G,8D4|D,4F4E4|
+[V:1]F3GA4z4 &D3EF4z4|c4B4A4 & [EG]4[DG]4[DF]4|[B,G]12|A4A4G4 & [DF]4E4^C4|F4E4D4 & D12|
+[V:2]D8z4|C4D8|G,12|A12 & D4^C4A,4|A4G4F4 & D12|
+[V:1][FA]4[GB]4[Ac]4 & D12|[DGB]12|d4A4G4 & F4D4^C4|F3GA4c4 & D8[EG]4|[GB]8A4 & D8[DF]4|G12 & B,8x4||
+[V:2]D,8D4|G,4B,4G,4|D4F4E4|D8C4|D8D,4|G,12||
