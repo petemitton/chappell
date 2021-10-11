@@ -17,14 +17,19 @@
 \usepackage{marginnote}
 \usepackage{fancyhdr}
 
+% the fonts may need changing on your computer to render this document
+% this is also likely to change page layouts
 \setmainfont{Baskerville10Pro}
+\newfontface\display{Baskerville120Pro}
+\newfontface\blackletter{Plagwitz}
+\newfontface\saxon{Doulos SIL}
 
 \newlength{\defaultfontsize}
 \defaultfontsize=10.5pt
 \usepackage[fontsize=10.5pt]{fontsize}
 
 %\setstocksize{29.7cm}{21cm}
-\setstocksize{10in}{7in}
+%\setstocksize{10in}{7in}
 \setpagecc{10in}{7in}{*}
 \setlrmarginsandblock{35pt}{72pt}{*}
 \setulmarginsandblock{60pt}{48pt}{*}
@@ -63,9 +68,6 @@
 %\DFNsingle=\textwidth
 %\DFNstandard=\textwidth
 
-\newfontface\display{Baskerville120Pro}
-\newfontface\blackletter{Plagwitz}
-\newfontface\saxon{Doulos SIL}
 
 \newcommand{\backskip}[1]{\vspace{-#1\baselineskip}}
 \newcommand{\titlespace}{\vspace{\baselineskip}}
