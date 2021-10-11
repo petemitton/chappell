@@ -21,6 +21,8 @@ Of particular note is that he showed an early interest in musical forms that wou
 ## Resources
 Digitisation of historical texts has made these volumes (and others by Chappell) available online and there are currently a number of scans available in pdf form from [archive.org](https://archive.org/search.php?query=William%20Chappell&and[]=creator%3A%22chappell%2C+w.+%28william%29%2C+1809-1888%22) and other sources.
 
+Good online access to these volumes is provided by the [National Museum of Scotland.](https://digital.nls.uk/special-collections-of-printed-music/archive/91519832)
+
 These are very useful resources and we should be thankful that they are available to a wider readership than those people who have access to a library with a physical copy.
 
 However, the broad nature of these digitisation projects results in damaged and incomplete pages as the resources are not available to check the quality of each scan. Examples of 'damaged and incomplete' pages are library marks, reader annotations, water and ink damage, pages missing or assembled in the wrong order.
