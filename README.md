@@ -4,6 +4,8 @@ The pdf version of Volume 1 of the 'new edition' is linked below:
 
 [Popular Music of the Olden Time](https://github.com/petemitton/chappell/blob/main/volume1/volume1.pdf) 
 
+I'm classifying this as a late Beta version. There are still improvements to be made.
+
 Work on Volume 2 is underway and will be added to this repository soon(ish).
 
 ## History and background.
