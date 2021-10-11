@@ -1,8 +1,10 @@
 # Source material for William Chappell's Popular Music of the Olden Time.
 
-The pdf version of the 'new edition' is linked below:
+The pdf version of Volume 1 of the 'new edition' is linked below:
 
 [Popular Music of the Olden Time](https://github.com/petemitton/chappell/blob/main/volume1/volume1.pdf) 
+
+Work on Volume 2 is underway and will be added to this repository soon(ish).
 
 ## History and background.
 
