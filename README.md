@@ -10,7 +10,9 @@ An ABC file of the musical content is
 
 I'm classifying this as a late Beta version. There are still improvements to be made.
 
-If you do notice any errors then click on the 'Issues' text on the navigation bar above and then on the big green 'New Issue' button on the page it takes you to. Enter a title and your comment and if you return to the page at a later date you will be able to see progress on the issue/request etc.
+## Reporting errors or general comments.
+
+If you do notice any errors or have any general comments then click on the 'Issues' text on the navigation bar above and then on the big green 'New Issue' button on the page it takes you to. Enter a title and your comment and if you return to the page at a later date you will be able to see progress on the issue/request etc.
 
 Work on Volume 2 is underway and will be added to this repository soon(ish).
 
