@@ -1,0 +1,67 @@
+%%writefields TCOPQ false
+%%pageheight 10in
+%%pagewidth 9in
+%%leftmargin 36pt
+%%rightmargin 71pt
+%%textfont Baskerville10Pro 15
+%%vocalfont Baskerville10Pro 15
+%%annotationfont Baskerville10Pro-Italic 15
+%%pagescale 1
+%%staffscale 1
+%%score 1 2
+%%topspace 0.0cm
+%%pos orn above
+%%pos vol below
+
+X:1
+T:Robin Hood and Arthur-a-Bland
+M:6/8
+L:1/8
+K:G
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+[V:1]B,|G>FG A>GF & B,2xB,2x|G>AB [B,^D]2 D/D/ & B,2x4|[G,E]3 [B,F]3|
+w:In Nott-ing-ham there lives a jol-ly tan-ner, With a hey down,
+[V:2]z|E3 F>E^D|E3 B,3|C3 G,3|
+[V:1][CE]>[B,D][A,C] B,2 B,|G>FG A>GA & B,2x F2x|[GB]3-[GB]2B|e>de [GB]2B & E2x4|
+w:down-a-down down, His name it is Arth-ur-a-Bland;* There's ne-ver a squire in
+[V:2]A,2C [EG]2z|E3 D3|G>DB, G,2z|C3 E3|
+[V:1]d>^cd B>A[EG] & D2x D2x|(F>G)E (^D>^C)D & C2x A,2x|E3-E2||
+w:Nott-ing-ham-shire* Dare bid* bold Ar-*thur stand.*
+[V:2]F3 G2E|A,3B,3|[E,G]3-[E,G]2||
+
+X:2
+T:Robin Hood and the Curtal Friar
+M:C
+L:1/8
+K:A
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+[V:1]E2|[CA]2A2 A3A & x4E2x2|(Ad)(cB) A2[EA]2 & F6x2|[^DA]2[EG]2 [EF]2[DB]2|
+w:In sum-mer time, when leaves* grow* green, And flow'rs are fresh and
+[V:2]z2|[A,A]4 [CA]4|[DA]6 [CA]2|[B,B]6 [B,B]2|
+[V:1]E6 E2|[EA]2 (AG) F2 FF|[B,(E]F)(ED) C2[A,E]2|[A,D]2[DF]2 [CE]2[B,G]2|[CA]6||
+w:gay, Bold Ro-bin* Hood and his mer-*ry* men Were well dis-pos'd to play.
+[V:2][EG]2B,2 E,2z2|[CA]4 [DA]4|G,4 A,2C2|F2B,2 E2E2|A,6||
+
+X:3
+%%pagewidth 9.2in
+T:Robin Hood and the Pinder of Wakefield
+M:6/8
+L:1/8
+K:F
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+[V:1]A|[Fd]2d d2d|[Gc]dB A2[Fd]|[Fd]2d [Bd]>[Ac][GB]|
+w:In Wakefield there lives a jol-ly Pin-der, In Wake-field all on a
+w:There's neither Knight nor Squire, says the Pin-der, Nor Baron that is* so
+[V:2]z|[DA]6|[Ec]3 [Fc]2B,|B,3 G,3|
+[V:1][FA]3-[FA]2 "^Chorus."d|d2d d>cB|A3-A2:||"^Solo."A|[EA]2A A2A|
+w:green,* In Wake-field all on a green;* Dare make~a tres-pass to~the 
+w:bold,* Nor Baron that is* so bold,|||
+[V:2]DA,F, D,2[Dd]|[Dd]2[Dd] [Dd]>[Cc][B,B]|[A,A]3-[A,A]2:||z|^C6|
+[V:1][FA]2B [Ed]2[DG]|[FA]2A [EG]>[DF][^CE]|D3-D2"^Chorus."G|A2A G>FE|D3-D2||
+w:town of Wakefield, But~his pledge goes to the Pin-fold,* His pledge goes to the Pin-fold.*

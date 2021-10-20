@@ -1,0 +1,162 @@
+\documentclass[11pt,  twoside, extrafontsizes]{memoir}
+
+\usepackage[showframe]{geometry}
+\usepackage{fontspec}
+\usepackage[T1]{fontenc}
+\usepackage{microtype}
+\usepackage{epic}\setlength{\unitlength}{1pt}
+
+\usepackage{relsize}
+\renewcommand\RSpercentTolerance{0}
+\usepackage{graphicx}
+
+\usepackage{dblfnote}
+\usepackage{pfnote}
+\usepackage{mparhack}
+\usepackage{multicol}
+\usepackage{marginnote}
+\usepackage{fancyhdr}
+
+% the fonts may need changing on your computer to render this document
+% this is also likely to change page layouts
+\setmainfont{Baskerville10Pro}
+\newfontface\display{Baskerville120Pro}
+\newfontface\blackletter{Plagwitz}
+\newfontface\saxon{Doulos SIL}
+
+\newlength{\defaultfontsize}
+\defaultfontsize=10.5pt
+\usepackage[fontsize=10.5pt]{fontsize}
+
+%\setstocksize{29.7cm}{21cm}
+%\setstocksize{10in}{7in}
+\setpagecc{10in}{7in}{*}
+\setlrmarginsandblock{35pt}{72pt}{*}
+\setulmarginsandblock{60pt}{48pt}{*}
+\checkandfixthelayout
+
+\fancyhead{} %clear all header fields
+\setlength{\headheight}{15pt}
+\setlength{\footskip}{15pt}
+\setlength{\headwidth}{\textwidth}
+\fancyhead[LE, RO]{\thepage}
+\fancyhead[EC]{\textsc{\leftmark}}
+\fancyhead[OC]{\textsc{\rightmark}}
+\fancyfoot[LCR]{}
+%\semiisopage
+
+
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footnoterule}{% Kerns avoid vertical space
+  \kern -2pt                         % This -3 is negative
+  \hrule width \textwidth height 0pt % of the sum of this 1
+  \kern 2pt}                         % and this 2
+
+\sloppybottom
+
+\setkeys{Gin}{width=\linewidth,totalheight=\textheight,keepaspectratio}
+\graphicspath{{music/}}
+
+\setlength{\columnsep}{0.75em}
+\DFNruleboth
+\DFNalwaysdouble
+%\newlength{\DFNstandard}
+%\newlength{\DFNsingle}
+\newcommand\DFNdouble{\setlength{\DFNcolumnwidth}{0.5\textwidth}
+\addtolength{\DFNcolumnwidth}{-0.5\columnsep}}
+\newcommand\DFNsingle{\setlength{\DFNcolumnwidth}{\textwidth}}
+%\DFNsingle=\textwidth
+%\DFNstandard=\textwidth
+
+
+\newcommand{\backskip}[1]{\vspace{-#1\baselineskip}}
+\newcommand{\titlespace}{\vspace{\baselineskip}}
+
+\renewcommand*{\thefootnote}{\alph{footnote}}
+
+\newcommand{\TODO}{\textcolor{red}{\textbf{TODO:\hspace{1em}}}}
+\newcommand{\ie}{\textit{i.e.}}
+\newcommand{\ad}{\textsc{a.d.~}}
+\newcommand{\tie}{\raisebox{8pt}{\rotatebox{-90}{(}}}
+\newcommand{\subscriber}[1]{\hangpara{2em}{1}\textsc{#1}}
+\newcommand{\dent}{\hspace{2em}}
+\newcommand{\timesig}[2]{\scriptsize\parbox{1em}{\raggedright #1 \linebreak #2}\normalsize}
+
+\newcommand{\dcfootnote}[1]{\footnote{\scriptsize #1}}
+\newcommand{\scfootnote}[1]{\DFNsingle \dcfootnote{#1} \DFNdouble}
+%\newcommand{\scfootnote}[1]{\footnote{\scriptsize #1}}
+\newcommand{\facsimile}[1]{\smallrrr #1}
+
+\newcommand{\centerrule}{\vfill\begin{center}{\makebox[1in]{\hrulefill}}\end{center}\vfill}
+\newcommand{\attribution}{\vin\vin\vin\vin }
+
+\newcommand{\musictitle}[1]{\medskip\begin{center}\textsc{#1}\end{center}}
+\newcommand{\musicsubtitle}[1]{\begin{center}\small\textsc{#1}\end{center}\vspace{-\baselineskip}}
+\newcommand{\includemusic}[1]{\noindent\includegraphics[width=\textwidth]{#1}}
+\newcommand{\musicinfo}[2]{\vspace{0.5\baselineskip}\footnotesize\hspace{2em}\textit{#1}\hfill \textsc{#2}\vspace{-1.5\baselineskip} \normalsize}
+
+\newcommand{\tocstyle}[2]{\small\noindent #1 \dotfill #2 \bigskip\normalsize}
+\newcommand\intentionalemptypage{
+	\newpage
+	\mbox{}
+	\thispagestyle{empty}
+	\newpage
+}
+
+\newcommand{\origpage}[1]{\marginnote[\raggedleft\small \textit{#1}]{\raggedright\small \textit{#1}}}
+\newcommand{\headingthree}[1]{\begin{center}\large 
+\vspace*{\baselineskip}
+\vfill
+#1
+\vfill
+\begin{center}\rule{4em}{0.4pt}\end{center}
+\vspace{\baselineskip}
+\vfill
+\end{center}}% end heading three
+
+\newcommand{\headingfour}[1]{\begin{center}\normalsizerr #1 \end{center}}
+\newcommand{\headingfive}[1]{\begin{center} \textsc{#1} \end{center} \medskip}
+    
+\newenvironment{scverse}{
+%\vspace{-0.25\baselineskip}
+  \begin{verse}[\versewidth]
+  \small
+}{%
+  \end{verse}
+  \normalsize
+}
+
+\newenvironment{dcverse}{
+    \setlength{\vgap}{1em}
+  \begin{multicols}{2}
+    \begin{scverse}\small
+}{%
+    \end{scverse}
+  \end{multicols}
+  \normalsize
+}
+
+\newenvironment{fnverse}{
+  \setlength{\vleftmargin}{2em}
+  \setlength{\vgap}{1em}
+  \addtolength{\versewidth}{0.5\textwidth}
+  \setlength\stanzaskip{0.25\baselineskip plus 0.75\baselineskip}
+  \begin{verse}[\versewidth]  \scriptsize
+}{%
+  \end{verse}
+  \scriptsize
+}
+
+\setlength{\stanzaskip}{0.33\baselineskip}
+
+\pagestyle{fancy}
+
+\hyphenation{manu-script}
+
+%\includeonly{english-minstrelsy-1270-1480, henryvii-to-mary-1}
+
+\begin{document}
+
+\frontmatter
+\include{chappellV2}
+\end{document}
