@@ -65,3 +65,107 @@ w:bold,* Nor Baron that is* so bold,|||
 [V:2]DA,F, D,2[Dd]|[Dd]2[Dd] [Dd]>[Cc][B,B]|[A,A]3-[A,A]2:||z|^C6|
 [V:1][FA]2B [Ed]2[DG]|[FA]2A [EG]>[DF][^CE]|D3-D2"^Chorus."G|A2A G>FE|D3-D2||
 w:town of Wakefield, But~his pledge goes to the Pin-fold,* His pledge goes to the Pin-fold.*
+
+X:4
+%%pagewidth 9.2in
+T:Robin Hood and the Bishop of Hereford
+M:C
+L:1/8
+K:C
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+[V:1]G2|[Ec]2 cc c2 [CG]2|[CA]2 GF E2 [CG]2|[CA]2A2 [B,D]2EF|
+w:O some they will talk of brave Ro-bin Hood, And some of ba-rons*
+[V:2]G2|[Cc]6E2|F2ED C2E2|F4 G4|
+[V:1][EG]6G2|[CE]2DC [CG]GG>G|[CA]2[Fd]c [DB]2AG|[Cc]2[Ad]2[Gce]2[FBd]2|[Ec]6||
+w:bold; But I'll tell you how he serv'd the Bish-op of Hereford,* And robb'd him of his gold.
+[V:2]C2EG c2z2|C4 E4|F4 G4|A2F2 G2G,2|C6||
+
+X:5
+T:Robin Hood and Guy of Gisborne.
+M:C
+L:1/8
+K:Eb
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+[V:1][EGc]2|e3e (de)(fd) & [EB]2x2 A4|[Ge]2B2 B2c2 & x6E2-|B2A2 G2[DF]2 &E2 E4x2|
+w:When shaws are sheen,* and* shrubs full fair, And leaves both large and
+w:|[woods are bright,]|||
+[V:2]c2|G4F4|E6A2|G2c2 B2[B,A]2|
+[V:1]E6[EAc]2|e3e defd &[EB]2x2A4|[Ge]2B2 B2c2 &x6E2-|B2A2 G2[DB]2 & E2 E4x2|
+w:long, It's mer-ry walk-ing in the fair fo-rest To hear the small birds'
+[V:2][EG]2c2 B2A2|G4F4|E6A2|G2c2 B2[B,A]2|
+[V:1]E6||[EGc]2|e3e [Ad]2[G=B]2|(ce)(dc) [G=B]2[=B,G]2 & G2F2x4|[CA]2[Gc]2 c2=B2 & x4F4|
+w:song. The wood-weele sang, and would* not* cease, Sit-ting up-on the
+[V:2][EG]6||[CG]2|[CGc]4 F2G2|A4 G2G2|F2E2 D2G2|
+[V:1][Ec]6[EAc]2|e3e (de)(fd) & [EB]2x2 A4|[Ge]2B2 [EB]2c2 & x6E2-|B2A2 G2[DF]2 & E2E4x2|E6||
+w:spray, So loud he wa-*ken'd* Ro-bin Hood In~the Green wood where he lay.
+[V:2]C2c2B2A2|A2G2F2B,2|C2G,2G,2A2|G2c2 B2[B,A]2|[EG]6||
+
+X:6
+T:Robin Hood, Robin Hood, said Little John.
+M:6/8
+L:1/8
+K:Bb
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+[V:1]G>AB A>Bc & B,2x D2x|B>AG [DF]2F & D2x4|B2B c2c &E2x [EA]3|[DBd]6|
+w:Ro-bin Hood, Ro-bin Hood, said lit-tle John, Come dance* before the Queen,
+[V:2]G3^F3|G3B3|G3F3|B,DF B2A|
+[V:1]d>ed c>BA & B2x ^F2x|B>AG F>G[EA] & G2x D2x|B2G (^F=E)F &D3C3|[B,G]6||
+w:In a red pet-ti-coat And a green jack-et, A white hose and* a green.
+[V:2]G3 D3|G,3B,2C|D3D3|G,6||
+
+X:7
+T:The Lady Frances Nevill's Delight - Part 1
+M:C
+L:1/8
+K:Bb
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+[V:1]F GA|[DFB]2 [EGB]2 [DFB]2 AB|[Fc]B(AG) F2 [EG]A|[DB]2 D2 E2 F2|
+w:Come, here's to Ro-bin Hood, Of the mer-ry green-*wood, And a bless-ing on his
+[V:2]z1z2|[B,B]2 [EB]2 B2 z2|[FA]4 [DB]2C2|G,2 D2 E2 F2|
+
+X:8
+%%pagewidth 9.2in
+T:The Lady Frances Nevill's Delight - Part 2
+M:C
+L:1/8
+K:Bb
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+[V:1]B,6 Bc|[GBd]2 [^FAd]2 [Gd]2 cd|[Ge]dcB [Fc]2[DF]2|[EG]ABc [DBd]2[EAc]2|
+w:name, Tho' with shaft and bow, He de-parted* long a-go, Un-per-ish-ing shall be his
+[V:2]B,6z2|[G,G]2 [DA]2 [GB]2 z2|[EB]4 [A,F]2 B,2|E2 DC F2 F,2|
+[V:1][DB]6||AB|[FAc]2 c2 c2 [FBd]2|[FAc][GB][FA][GB] [Ac]2 AB|[Fc]dc[GB] [FA]2 [B,=EG]2|
+w:fame. Like a no-ble soul He doat-ed on the bowl, And a gob-let of the best love
+[V:2]B,6||z2|F6B,2|F,6 FG|A3 B c2C2|
+[V:1][A,F]6 [EG]A|[DB]2 AB D2 EF|G2 G2 C2 DE|
+w:we; So, though bold Ro-bin's gone, Still his heart lives on, And we
+[V:2]FGF_E D2 C2|B,2z2 [GB]2z2|[EB]2z2 [FA]2 B,C|
+[V:1][B,F]GF[CE] [B,D]2 [A,C]2|B,6 "^Chorus"[EG]A|[DB]2 AB [B,D]2 EF|
+w:drink to him with three times three. So, though bold Ro-bin's gone, Still his
+[V:2]D3E F2F,2|G,GFE D2"^f"[C,C]2|[B,,B,]2z2 [G,G]2z2|
+[V:1][B,EG]2G2 [A,C]2DE|[B,F]GF[CE] [B,D]2[A,C]2|B,6||
+w:heart lives on, And we drink to him with three times three.
+[V:2][E,E]2z2 [F,F]2[B,,B,][C,C]|[D,D]3[E,E] [F,F]2[F,E]2|[B,D]6||
+
+X:9
+T:The Lady Frances Nevill's Delight - Alternative Part 2
+M:C
+L:1/8
+K:Bb
+%%score 1 2
+V:1 clef-treble
+V:2 clef-bass octave=-1
+[V:1]AB|[FAc]2c2 c2[FBd]2|[FAc][GB][FA][GB] [Ac]2F2|[EG]ABc A3G & x4[C^F]2x2|
+w:Like a no-ble soul, &c.|||
+[V:2]z2|F6B,2|F,6F2|C4D4|
+[V:1][B,G]6GA|[GB]2[^Fc]2 [Gd]2[Ec]d|[DGB]2[C^FA]B [B,G]2DE|[B,F]2[B,G]2 [A,C]3B,|B,6||
+[V:2]G6z2|G,2A,2 B,2C2|D2D2 E2B,C|D2E2 [F,E]4|[B,D]6||
