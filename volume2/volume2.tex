@@ -1,4 +1,4 @@
-\documentclass[11pt,  twoside, extrafontsizes]{memoir}
+\documentclass[12pt,  twoside, extrafontsizes]{memoir}
 
 \usepackage[showframe]{geometry}
 \usepackage{fontspec}
@@ -10,33 +10,38 @@
 \renewcommand\RSpercentTolerance{0}
 \usepackage{graphicx}
 
-\usepackage{dblfnote}
-\usepackage{pfnote}
+%\usepackage{dblfnote}
+%\usepackage{pfnote}
+%\usepackage{endnotes}
 \usepackage{mparhack}
 \usepackage{multicol}
-\usepackage{marginnote}
+%\usepackage{marginnote}
 \usepackage{fancyhdr}
 
 % the fonts may need changing on your computer to render this document
 % this is also likely to change page layouts
 \setmainfont{Baskerville10Pro}
+\newfontface\baskerville{Baskerville10Pro}
 \newfontface\display{Baskerville120Pro}
 \newfontface\blackletter{Plagwitz}
 \newfontface\saxon{Doulos SIL}
 
 \newlength{\defaultfontsize}
-\defaultfontsize=10.5pt
-\usepackage[fontsize=10.5pt]{fontsize}
+%\defaultfontsize=10.5pt
+\usepackage{fontsize}
 
-%\setstocksize{29.7cm}{21cm}
-%\setstocksize{10in}{7in}
-\setpagecc{10in}{7in}{*}
-\setlrmarginsandblock{35pt}{72pt}{*}
-\setulmarginsandblock{60pt}{48pt}{*}
+\setlength{\marginparsep}{0.1pt}
+\setlength{\marginparwidth}{0.1pt}
+
+\setstocksize{29.7cm}{21cm}
+%\setstocksize{9in}{6in}
+\setpagecc{29.7cm}{21cm}{*}
+\setlrmarginsandblock{1.5cm}{1.5cm}{*}
+\setulmarginsandblock{4cm}{2cm}{*}
 \checkandfixthelayout
 
 \fancyhead{} %clear all header fields
-\setlength{\headheight}{15pt}
+\setlength{\headheight}{20pt}
 \setlength{\footskip}{15pt}
 \setlength{\headwidth}{\textwidth}
 \fancyhead[LE, RO]{\thepage}
@@ -45,6 +50,7 @@
 \fancyfoot[LCR]{}
 %\semiisopage
 
+%\let\footnote=\endnote
 
 \renewcommand{\headrulewidth}{0pt}
 \renewcommand{\footnoterule}{% Kerns avoid vertical space
@@ -52,21 +58,56 @@
   \hrule width \textwidth height 0pt % of the sum of this 1
   \kern 2pt}                         % and this 2
 
+\newlength{\zeroskip}
+\newlength{\flushglue}
+\zeroskip = 0pt plus 0pt minus 0pt
+\flushglue = 0pt plus 1fil
 \sloppybottom
 
 \setkeys{Gin}{width=\linewidth,totalheight=\textheight,keepaspectratio}
 \graphicspath{{music/}}
 
-\setlength{\columnsep}{0.75em}
-\DFNruleboth
-\DFNalwaysdouble
+\setlength{\columnsep}{12pt}
+%\DFNruleboth
+%\DFNalwaysdouble
 %\newlength{\DFNstandard}
 %\newlength{\DFNsingle}
-\newcommand\DFNdouble{\setlength{\DFNcolumnwidth}{0.5\textwidth}
-\addtolength{\DFNcolumnwidth}{-0.5\columnsep}}
-\newcommand\DFNsingle{\setlength{\DFNcolumnwidth}{\textwidth}}
+%\newcommand\DFNdouble{\setlength{\DFNcolumnwidth}{0.5\textwidth}
+%\addtolength{\DFNcolumnwidth}{-0.5\columnsep}}
+%%\newcommand\DFNsingle{\setlength{\DFNcolumnwidth}{\textwidth}}
 %\DFNsingle=\textwidth
 %\DFNstandard=\textwidth
+
+%\newcommand{\lastpar}[1]{%
+%  \parfillskip=\zeroskip #1\eject\parfillskip=\flushglue
+%}
+
+\newenvironment{lastpar}
+{}{}
+%	{\parfillskip=\zeroskip}
+%	{\par\parfillskip=\flushglue}
+
+\newlength{\fixedpagewidth}
+\setlength{\fixedpagewidth}{\textwidth}
+\newenvironment{fixedpage}
+	{\begin{center}
+		\begin{minipage}
+			\fixedpagewidth
+			\setlength{\parindent}{1em}
+	}
+	{
+		\end{minipage}
+	\end{center}
+}
+%\newcommand{\fixedpage}[2]{%
+%  \begin{center}
+%  \begin{minipage}{#1}
+%    \setlength{\parindent}{1em}
+%    #2
+%  \end{minipage}
+%  \end{center}
+%}
+
 
 
 \newcommand{\backskip}[1]{\vspace{-#1\baselineskip}}
@@ -82,12 +123,17 @@
 \newcommand{\dent}{\hspace{2em}}
 \newcommand{\timesig}[2]{\scriptsize\parbox{1em}{\raggedright #1 \linebreak #2}\normalsize}
 
-\newcommand{\dcfootnote}[1]{\footnote{\scriptsize #1}}
-\newcommand{\scfootnote}[1]{\DFNsingle \dcfootnote{#1} \DFNdouble}
-%\newcommand{\scfootnote}[1]{\footnote{\scriptsize #1}}
+%\newcommand{\dcfootnote}[1]{\footnote{\scriptsize #1}}
+%\newcommand{\scfootnote}[1]{\DFNsingle \dcfootnote{#1} \DFNdouble}
+\newcommand{\scfootnote}[1]{\footnote{\scriptsize #1}}
 \newcommand{\facsimile}[1]{\smallrrr #1}
 
-\newcommand{\centerrule}{\vfill\begin{center}{\makebox[1in]{\hrulefill}}\end{center}\vfill}
+%\newcommand{\dcfootnote}[1]{\footnotesize\begin{multicols}{2} #1 \end{multicols}}
+\newenvironment{dcfootnote}
+	{\footnotesize \begin{multicols}{2}}
+	{\end{multicols}}
+
+\newcommand{\centerrule}{\begin{center}{\makebox[1in]{\hrulefill}}\end{center}}
 \newcommand{\attribution}{\vin\vin\vin\vin }
 
 \newcommand{\musictitle}[1]{\medskip\begin{center}\textsc{#1}\end{center}}
@@ -103,24 +149,23 @@
 	\newpage
 }
 
-\newcommand{\origpage}[1]{\marginnote[\raggedleft\small \textit{#1}]{\raggedright\small \textit{#1}}}
-\newcommand{\headingthree}[1]{\begin{center}\large 
-\vspace*{\baselineskip}
-\vfill
-#1
-\vfill
-\begin{center}\rule{4em}{0.4pt}\end{center}
-\vspace{\baselineskip}
-\vfill
-\end{center}}% end heading three
+%\newcommand{\origpage}[1]{\marginnote[\raggedleft\small \textit{#1}]{\raggedright\small \textit{#1}}}
+%\newcommand{\headingthree}[1]{\begin{center}\large 
+%\vspace*{\baselineskip}
+%\vfill
+%#1
+%\vfill
+%\begin{center}\rule{4em}{0.4pt}\end{center}
+%\vspace{\baselineskip}
+%\vfill
+%\end{center}}% end heading three
 
+\newcommand{\headingthree}[1]{\begin{center}\Large #1 \end{center}}
 \newcommand{\headingfour}[1]{\begin{center}\normalsizerr #1 \end{center}}
 \newcommand{\headingfive}[1]{\begin{center} \textsc{#1} \end{center} \medskip}
     
 \newenvironment{scverse}{
-%\vspace{-0.25\baselineskip}
   \begin{verse}[\versewidth]
-  \small
 }{%
   \end{verse}
   \normalsize
@@ -137,15 +182,23 @@
 }
 
 \newenvironment{fnverse}{
-  \setlength{\vleftmargin}{2em}
-  \setlength{\vgap}{1em}
-  \addtolength{\versewidth}{0.5\textwidth}
-  \setlength\stanzaskip{0.25\baselineskip plus 0.75\baselineskip}
-  \begin{verse}[\versewidth]  \scriptsize
+  \footnotesize
+  \begin{verse}[\versewidth]
 }{%
   \end{verse}
-  \scriptsize
+  \normalsize
 }
+
+%\newenvironment{fnverse}{
+%  \setlength{\vleftmargin}{2em}
+%  \setlength{\vgap}{1em}
+%  \addtolength{\versewidth}{0.5\textwidth}
+%  \setlength\stanzaskip{0.25\baselineskip plus 0.75\baselineskip}
+%  \begin{verse}[\versewidth]  \scriptsize
+%}{%
+%  \end{verse}
+%  \scriptsize
+%}
 
 \setlength{\stanzaskip}{0.33\baselineskip}
 
@@ -155,8 +208,18 @@
 
 %\includeonly{english-minstrelsy-1270-1480, henryvii-to-mary-1}
 
-\begin{document}
 
+
+\begin{document}
+\changefontsize{12}
+%
+%\setlxvchars[\baskerville]
+%\setxlvchars[\baskerville\footnotesize]
+%
+%65 chars = \the\lxvchars\par
+%45 chars = \the\xlvchars\par
 \frontmatter
 \include{chappellV2}
+
+%\theendnotes
 \end{document}
