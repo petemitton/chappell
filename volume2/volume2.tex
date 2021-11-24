@@ -121,7 +121,7 @@
 \newcommand{\tie}{\raisebox{8pt}{\rotatebox{-90}{(}}}
 \newcommand{\subscriber}[1]{\hangpara{2em}{1}\textsc{#1}}
 \newcommand{\dent}{\hspace{2em}}
-\newcommand{\timesig}[2]{\scriptsize\parbox{1em}{\raggedright #1 \linebreak #2}\normalsize}
+\newcommand{\timesig}[2]{\tiny \raisebox{2pt}{\parbox{3pt}{\textbf{\raggedright #1 \linebreak #2}}}\normalsize}
 
 %\newcommand{\dcfootnote}[1]{\footnote{\scriptsize #1}}
 %\newcommand{\scfootnote}[1]{\DFNsingle \dcfootnote{#1} \DFNdouble}
@@ -131,14 +131,15 @@
 %\newcommand{\dcfootnote}[1]{\footnotesize\begin{multicols}{2} #1 \end{multicols}}
 \newenvironment{scfootnote}
   {\footnotesize \begin{center}}
-  {\end{center}}
+  {\end{center} \backskip{0.5}}
   
 \newenvironment{dcfootnote}
 	{\footnotesize \begin{multicols}{2}}
 	{\end{multicols}}
 
 \newcommand{\centerrule}{\begin{center}{\makebox[1in]{\hrulefill}}\end{center}}
-\newcommand{\attribution}{\vin\vin\vin\vin }
+%\newcommand{\attribution}{\vin\vin\vin\vin }
+\newcommand{\attribution}[1]{\raggedleft #1}
 
 \newcommand{\musictitle}[1]{\medskip\begin{center}\textsc{#1}\end{center}}
 \newcommand{\musicsubtitle}[1]{\begin{center}\small\textsc{#1}\end{center}\vspace{-\baselineskip}}
@@ -169,9 +170,11 @@
 \newcommand{\headingfive}[1]{\begin{center} \textsc{#1} \end{center} \medskip}
     
 \newenvironment{scverse}{
+  \backskip{0.5}
   \begin{verse}[\versewidth]
 }{%
   \end{verse}
+  \backskip{0.5}
   \normalsize
 }
 
@@ -179,9 +182,11 @@
     \setlength{\vgap}{1em}
   \begin{multicols}{2}
     \begin{scverse}\small
+    \backskip{0.5}
 }{%
     \end{scverse}
   \end{multicols}
+  \backskip{0.5}
   \normalsize
 }
 

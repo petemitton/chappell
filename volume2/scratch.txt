@@ -25,3 +25,4 @@ page 395 dcverse changed to footnotesize and backskip{2} added
 page 396 dcverse changed to footnotesize
 page 397 two backskips added
 page 404 dcfootnote changed to scriptsizerr
+page 423 backskips before quotation
