@@ -28,3 +28,6 @@ page 404 dcfootnote changed to scriptsizerr
 page 423 backskips before quotation
 page 438 dcverses and dcfootnote both reduced in size
 page 473 removed quotes from payment table - couldn't think how to make it work.
+page 523 dcverses made smaller and backskip before title
+
+some text typed in as normal more text here is some more text typed in as normal
