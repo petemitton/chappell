@@ -1,11 +1,11 @@
 %%writefields TCOPQ false
 %%pageheight 10in
-%%pagewidth 9in
-%%leftmargin 36pt
-%%rightmargin 71pt
-%%textfont Baskerville10Pro 15
-%%vocalfont Baskerville10Pro 15
-%%annotationfont Baskerville10Pro-Italic 15
+%%pagewidth 625pt
+%%leftmargin 0pt
+%%rightmargin 0pt
+%%textfont Baskerville10Pro 12
+%%vocalfont Baskerville10Pro 12
+%%annotationfont Baskerville10Pro-Italic 12
 %%pagescale 1
 %%staffscale 1
 %%score 1 2
@@ -47,7 +47,7 @@ w:gay, Bold Ro-bin* Hood and his mer-*ry* men Were well dis-pos'd to play.
 [V:2][EG]2B,2 E,2z2|[CA]4 [DA]4|G,4 A,2C2|F2B,2 E2E2|A,6||
 
 X:3
-%%pagewidth 9.2in
+%%pagewidth 660pt
 T:Robin Hood and the Pinder of Wakefield
 M:6/8
 L:1/8
@@ -65,9 +65,10 @@ w:bold,* Nor Baron that is* so bold,|||
 [V:2]DA,F, D,2[Dd]|[Dd]2[Dd] [Dd]>[Cc][B,B]|[A,A]3-[A,A]2:||z|^C6|
 [V:1][FA]2B [Ed]2[DG]|[FA]2A [EG]>[DF][^CE]|D3-D2"^Chorus."G|A2A G>FE|D3-D2||
 w:town of Wakefield, But~his pledge goes to the Pin-fold,* His pledge goes to the Pin-fold.*
+[V:2]D3=C2B,|A,3A,3|DA,F, D,2[G,G]|[A,A]2[A,A] [G,G]>[F,F][E,E]|[D,D]3-[D,D]2||
 
 X:4
-%%pagewidth 9.2in
+%%pagewidth 660pt
 T:Robin Hood and the Bishop of Hereford
 M:C
 L:1/8
@@ -100,7 +101,7 @@ w:long, It's mer-ry walk-ing in the fair fo-rest To hear the small birds'
 [V:1]E6||[EGc]2|e3e [Ad]2[G=B]2|(ce)(dc) [G=B]2[=B,G]2 & G2F2x4|[CA]2[Gc]2 c2=B2 & x4F4|
 w:song. The wood-weele sang, and would* not* cease, Sit-ting up-on the
 [V:2][EG]6||[CG]2|[CGc]4 F2G2|A4 G2G2|F2E2 D2G2|
-[V:1][Ec]6[EAc]2|e3e (de)(fd) & [EB]2x2 A4|[Ge]2B2 [EB]2c2 & x6E2-|B2A2 G2[DF]2 & E2E4x2|E6||
+[V:1][Ec]6[EAc]2|e3e (de)(fd) & [EB]2x2 A4|[Ge]2B2 [EB]2yc2 & x6E2-|B2A2 yG2[DF]2 & E2E4x2|E6||
 w:spray, So loud he wa-*ken'd* Ro-bin Hood In~the Green wood where he lay.
 [V:2]C2c2B2A2|A2G2F2B,2|C2G,2G,2A2|G2c2 B2[B,A]2|[EG]6||
 
@@ -131,8 +132,9 @@ V:2 clef-bass octave=-1
 w:Come, here's to Ro-bin Hood, Of the mer-ry green-*wood, And a bless-ing on his
 [V:2]z1z2|[B,B]2 [EB]2 B2 z2|[FA]4 [DB]2C2|G,2 D2 E2 F2|
 
+
 X:8
-%%pagewidth 9.2in
+%%pagewidth 660pt
 T:The Lady Frances Nevill's Delight - Part 2
 M:C
 L:1/8
@@ -158,6 +160,7 @@ w:heart lives on, And we drink to him with three times three.
 
 X:9
 T:The Lady Frances Nevill's Delight - Alternative Part 2
+%%staffscale 0.8
 M:C
 L:1/8
 K:Bb
