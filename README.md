@@ -10,7 +10,7 @@ An ABC file of the musical content is
 
 I'm classifying this as a late Beta version. There are still improvements to be made.
 
-Work on Volume 2 is underway and will be added to this repository soon(ish).
+Work on Volume 2 is underway and development versions are in the repo.
 
 ## Reporting errors or general comments.
 
