@@ -1,4 +1,4 @@
-\documentclass[12pt,  twoside, extrafontsizes]{memoir}
+\documentclass[11pt,  twoside, extrafontsizes]{memoir}
 
 \usepackage[showframe]{geometry}
 \usepackage{fontspec}
@@ -33,21 +33,22 @@
 \setlength{\marginparsep}{0.1pt}
 \setlength{\marginparwidth}{0.1pt}
 
-\setstocksize{29.7cm}{21cm}
-%\setstocksize{9in}{6in}
-\setpagecc{29.7cm}{21cm}{*}
-\setlrmarginsandblock{1.5cm}{1.5cm}{*}
-\setulmarginsandblock{4cm}{2cm}{*}
+%\setstocksize{29.7cm}{21cm}
+\setstocksize{10in}{7in}
+\setpagecc{10in}{7in}{*}
+%\setpagecc{29.7cm}{21cm}{*}
+\setlrmarginsandblock{1.3cm}{1.3cm}{*}
+\setulmarginsandblock{1.3cm}{1.5cm}{*}
 \checkandfixthelayout
 
-\fancyhead{} %clear all header fields
-\setlength{\headheight}{20pt}
-\setlength{\footskip}{15pt}
-\setlength{\headwidth}{\textwidth}
-\fancyhead[LE, RO]{\thepage}
-\fancyhead[EC]{\textsc{\leftmark}}
-\fancyhead[OC]{\textsc{\rightmark}}
-\fancyfoot[LCR]{}
+%\fancyhead{} %clear all header fields
+\setlength{\headheight}{0pt}
+\setlength{\footskip}{0pt}
+%\setlength{\headwidth}{\textwidth}
+%\fancyhead[LE, RO]{\thepage}
+%\fancyhead[EC]{\textsc{\leftmark}}
+%\fancyhead[OC]{\textsc{\rightmark}}
+%\fancyfoot[LCR]{}
 %\semiisopage
 
 %\let\footnote=\endnote
@@ -89,8 +90,17 @@
 
 \newlength{\fixedpagewidth}
 \setlength{\fixedpagewidth}{\textwidth}
+
+\strictpagecheck
+
+\newcommand\versoheadertext{english song and ballad music.}
+\newcommand\rectoheadertext{robin hood.}
+\newcommand\versoheader{\noindent\thepage\vspace{-1.5\baselineskip}\begin{center}\textsc{\versoheadertext}\end{center}}
+\newcommand\rectoheader{\hfill\thepage\vspace{-1.5\baselineskip}\begin{center}\textsc{\rectoheadertext}\end{center}}
+
 \newenvironment{fixedpage}
-	{\begin{center}
+	{
+	\begin{center}
 		\begin{minipage}
 			\fixedpagewidth
 			\setlength{\parindent}{1em}
@@ -121,7 +131,7 @@
 \newcommand{\tie}{\raisebox{8pt}{\rotatebox{-90}{(}}}
 \newcommand{\subscriber}[1]{\hangpara{2em}{1}\textsc{#1}}
 \newcommand{\dent}{\hspace{2em}}
-\newcommand{\timesig}[2]{\tiny \raisebox{2pt}{\parbox{3pt}{\textbf{\raggedright #1 \linebreak #2}}}\normalsize}
+\newcommand{\timesig}[2]{\tiny \raisebox{2pt}{\parbox{2.825pt}{\textbf{\raggedright #1 \linebreak #2}}}\normalsize}
 
 %\newcommand{\dcfootnote}[1]{\footnote{\scriptsize #1}}
 %\newcommand{\scfootnote}[1]{\DFNsingle \dcfootnote{#1} \DFNdouble}
@@ -211,7 +221,7 @@
 
 \setlength{\stanzaskip}{0.33\baselineskip}
 
-\pagestyle{fancy}
+\pagestyle{empty}
 
 \hyphenation{manu-script}
 
@@ -220,7 +230,7 @@
 
 
 \begin{document}
-\changefontsize{12}
+%\changefontsize{12}
 %
 %\setlxvchars[\baskerville]
 %\setxlvchars[\baskerville\footnotesize]

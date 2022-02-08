@@ -32,3 +32,4 @@ page 523 dcverses made smaller and backskip before title
 page 553 single backskip added
 page 577 scverse made small size
 page 645 small quotation
+page 657 final verse small
