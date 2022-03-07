@@ -132,7 +132,7 @@
 \newcommand{\subscriber}[1]{\hangpara{2em}{1}\textsc{#1}}
 \newcommand{\dent}{\hspace{2em}}
 %\newcommand{\timesig}[2]{\tiny \raisebox{2pt}{\parbox{2.825pt}{\textbf{\raggedright #1 \linebreak #2}}}\normalsize}
-\newcommand{\timesig}[2]{{\tiny \raisebox{2pt}{\parbox{6pt}{#1 \par #2}}}}
+\newcommand{\timesig}[2]{{\tiny \raisebox{2pt}{\parbox{4pt}{\textbf #1 \par \textbf #2}}}}
 %\newcommand{\dcfootnote}[1]{\footnote{\scriptsize #1}}
 %\newcommand{\scfootnote}[1]{\DFNsingle \dcfootnote{#1} \DFNdouble}
 %\newcommand{\scfootnote}[1]{\footnote{\scriptsize #1}}
@@ -147,6 +147,11 @@
 	{\footnotesize \begin{multicols}{2}}
 	{\end{multicols}}
 
+\newenvironment{dcindex}
+	{\begin{hangparas}{10pt}{1}\setlength\columnseprule{0.5pt}
+		\begin{multicols}{2}\setlength{\parindent}{0pt}\scriptsizerr}
+	{\end{multicols}\end{hangparas}}
+	
 \newcommand{\centerrule}{\begin{center}{\makebox[1in]{\hrulefill}}\end{center}}
 %\newcommand{\attribution}{\vin\vin\vin\vin }
 \newcommand{\attribution}[1]{\hfill  #1\hspace{2em}}
