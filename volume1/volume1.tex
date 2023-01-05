@@ -1,21 +1,19 @@
-\documentclass[11pt,  twoside, extrafontsizes]{memoir}
-
-%\usepackage[showframe]{geometry}
+\documentclass[12pt, twoside, a4paper, openany, extrafontsizes]{memoir}
+\usepackage[fontsize=12pt]{fontsize}
+\usepackage[showframe, showcrop, includeheadfoot, textwidth=432pt, lines=50]{geometry}
 \usepackage{fontspec}
 \usepackage[T1]{fontenc}
 \usepackage{microtype}
+\usepackage{ragged2e}
+\usepackage{footmisc}
 \usepackage{epic}\setlength{\unitlength}{1pt}
-
-\usepackage{relsize}
-\renewcommand\RSpercentTolerance{0}
-\usepackage{graphicx}
-
+\usepackage{multicol}
+\usepackage{amssymb}
 \usepackage{dblfnote}
 \usepackage{pfnote}
-\usepackage{mparhack}
-\usepackage{multicol}
-\usepackage{marginnote}
-\usepackage{fancyhdr}
+\usepackage[program=/Applications/lilypond-2.24.0/bin/lilypond, 
+noindent, current-font-as-main, staffsize=17, noragged-right, language=english, nofragment, cleantmp]{lyluatex}
+
 
 % the fonts may need changing on your computer to render this document
 % this is also likely to change page layouts
@@ -24,105 +22,107 @@
 \newfontface\blackletter{Plagwitz}
 \newfontface\saxon{Doulos SIL}
 
-\newlength{\defaultfontsize}
-\defaultfontsize=10.5pt
-\usepackage[fontsize=10.5pt]{fontsize}
-
-%\setstocksize{29.7cm}{21cm}
-%\setstocksize{10in}{7in}
-\setpagecc{10in}{7in}{*}
-\setlrmarginsandblock{35pt}{72pt}{*}
-\setulmarginsandblock{60pt}{48pt}{*}
-\checkandfixthelayout
-
-\fancyhead{} %clear all header fields
-\setlength{\headheight}{15pt}
-\setlength{\footskip}{15pt}
-\setlength{\headwidth}{\textwidth}
-\fancyhead[LE, RO]{\thepage}
-\fancyhead[EC]{\textsc{\leftmark}}
-\fancyhead[OC]{\textsc{\rightmark}}
-\fancyfoot[LCR]{}
-%\semiisopage
-
-
-\renewcommand{\headrulewidth}{0pt}
-\renewcommand{\footnoterule}{% Kerns avoid vertical space
-  \kern -2pt                         % This -3 is negative
-  \hrule width \textwidth height 0pt % of the sum of this 1
-  \kern 2pt}                         % and this 2
-
-\sloppybottom
-
-\setkeys{Gin}{width=\linewidth,totalheight=\textheight,keepaspectratio}
-\graphicspath{{music/}}
+\newcommand{\wibble}[1]{\newgeometry{hmargin=72pt, vmargin=72pt}}
 
 \setlength{\columnsep}{0.75em}
-\DFNruleboth
+
 \DFNalwaysdouble
-%\newlength{\DFNstandard}
-%\newlength{\DFNsingle}
+
 \newcommand\DFNdouble{\setlength{\DFNcolumnwidth}{0.5\textwidth}
 \addtolength{\DFNcolumnwidth}{-0.5\columnsep}}
 \newcommand\DFNsingle{\setlength{\DFNcolumnwidth}{\textwidth}}
-%\DFNsingle=\textwidth
-%\DFNstandard=\textwidth
 
-
-\newcommand{\backskip}[1]{\vspace{-#1\baselineskip}}
-\newcommand{\titlespace}{\vspace{\baselineskip}}
-
-\renewcommand*{\thefootnote}{\alph{footnote}}
-
-\newcommand{\TODO}{\textcolor{red}{\textbf{TODO:\hspace{1em}}}}
 \newcommand{\ie}{\textit{i.e.}}
 \newcommand{\ad}{\textsc{a.d.~}}
 \newcommand{\tie}{\raisebox{8pt}{\rotatebox{-90}{(}}}
-\newcommand{\subscriber}[1]{\hangpara{2em}{1}\textsc{#1}}
-\newcommand{\dent}{\hspace{2em}}
-\newcommand{\timesig}[2]{\scriptsize\parbox{1em}{\raggedright #1 \linebreak #2}\normalsize}
-
-\newcommand{\dcfootnote}[1]{\footnote{\scriptsize #1}}
-\newcommand{\scfootnote}[1]{\DFNsingle \dcfootnote{#1} \DFNdouble}
-%\newcommand{\scfootnote}[1]{\footnote{\scriptsize #1}}
-\newcommand{\facsimile}[1]{\smallrrr #1}
-
-\newcommand{\centerrule}{\vfill\begin{center}{\makebox[1in]{\hrulefill}}\end{center}\vfill}
-\newcommand{\attribution}{\vin\vin\vin\vin }
-
-\newcommand{\musictitle}[1]{\medskip\begin{center}\textsc{#1}\end{center}}
-\newcommand{\musicsubtitle}[1]{\begin{center}\small\textsc{#1}\end{center}\vspace{-\baselineskip}}
-\newcommand{\includemusic}[1]{\noindent\includegraphics[width=\textwidth]{#1}}
-\newcommand{\musicinfo}[2]{\vspace{0.5\baselineskip}\footnotesize\hspace{2em}\textit{#1}\hfill \textsc{#2}\vspace{-1.5\baselineskip} \normalsize}
-
-\newcommand{\tocstyle}[2]{\small\noindent #1 \dotfill #2 \bigskip\normalsize}
-\newcommand\intentionalemptypage{
+\newcommand{\centerrule}{\begin{center}{\makebox[1in]{\hrulefill}}\end{center}}
+\newcommand{\intentionalemptypage}{
 	\newpage
 	\mbox{}
 	\thispagestyle{empty}
 	\newpage
 }
+%\newcommand{\subscriber}[1]{\textsc{#1}}
+\newcommand{\subscriber}[1]{\hangpara{2em}{1}\textsc{#1}}
+\newcommand{\titlespace}{\vspace{0.75\baselineskip}}
+\newcommand{\tocstyle}[2]{\small\noindent #1 \dotfill #2 \bigskip\normalsize}
+\newcommand{\musictitle}[1]{\begin{center}\large\textsc{#1}\end{center}}
+\newcommand{\musicinfo}[2]{\textit{#1} \hfill \textsc{#2}}
+\newcommand{\timesig}[2]{$\textstyle \mathbf{#1 \atop #2}$}
+\newcommand{\attribution}{\vin\vin\vin\vin }
 
-\newcommand{\origpage}[1]{\marginnote[\raggedleft\small \textit{#1}]{\raggedright\small \textit{#1}}}
-\newcommand{\headingthree}[1]{\begin{center}\large 
-\vspace*{\baselineskip}
-\vfill
-#1
-\vfill
-\begin{center}\rule{4em}{0.4pt}\end{center}
-\vspace{\baselineskip}
-\vfill
-\end{center}}% end heading three
+\makeatletter
+\renewcommand\footnotesize{%
+   \@setfontsize\footnotesize\@viiipt{10}%
+   \abovedisplayskip 8\p@ \@plus2\p@ \@minus4\p@
+   \abovedisplayshortskip \z@ \@plus\p@
+   \belowdisplayshortskip 4\p@ \@plus2\p@ \@minus2\p@
+   \def\@listi{\leftmargin\leftmargini
+               \topsep 4\p@ \@plus2\p@ \@minus2\p@
+               \parsep 2\p@ \@plus\p@ \@minus\p@
+               \itemsep \parsep}%
+   \belowdisplayskip \abovedisplayskip
+}
+\makeatother
+\renewcommand{\footnoterule}{% Kerns avoid vertical space
+ \kern -2pt                         % This -3 is negative
+ \hrule width \textwidth height 0pt % of the sum of this 1
+ \kern 2pt}                         % and this 2
 
-\newcommand{\headingfour}[1]{\begin{center}\normalsizerr #1 \end{center}}
-\newcommand{\headingfive}[1]{\begin{center} \textsc{#1} \end{center} \medskip}
-    
+\renewcommand*{\thefootnote}{\alph{footnote}}
+ 
+\renewcommand{\printchaptertitle}[1]{
+
+\begin{center}\display\large #1\end{center}
+%	\vfill
+\centerrule
+%	\vfill
+}
+
+\setsecheadstyle{\vspace*{2\baselineskip}\centering\MakeUppercase}
+\setsubsecheadstyle{\centering\scshape}
+\renewcommand{\chapter}[1]{ % THIS IS A SIMPLIFIED VERSION
+  \clearforchapter        % move to correct page
+  \thispagestyle{empty} % set the page style
+  \insertchapterspace     % Inserts space into LoF and LoT
+ \chapterheadstart       % \beforechapskip space before heading
+%   \afterchapternum        % \midchapskip space between number and title
+  \printchaptertitle{#1}  % title
+%   \afterchaptertitle
+  }     % \afterchapskip space after title
+
+\newcommand\versoheader{introduction.}
+\newcommand\rectoheader{introduction.}
+\makepagestyle{chappell}
+\makeevenhead{chappell}{\thepage}{\textsc\versoheader}{}
+\makeoddhead{chappell}{}{\textsc\rectoheader}{\thepage}
+
+\newlength{\zeroskip}
+\newlength{\flushglue}
+\zeroskip = 0pt plus 0pt minus 0pt
+\flushglue = 0pt plus 1fil   
+\newcommand{\lastpar}[1]{%
+\parfillskip=\zeroskip #1\eject\parfillskip=\flushglue
+}
+
+\newenvironment{fixedpage}{%
+	\begin{center}
+		\begin{minipage}
+			\textwidth
+			\setlength{\parindent}{1em}
+	}
+	{
+		\end{minipage}
+	\end{center}
+}
+
 \newenvironment{scverse}{
-%\vspace{-0.25\baselineskip}
+\vspace{-0.5\baselineskip}
   \begin{verse}[\versewidth]
   \small
 }{%
   \end{verse}
+  \vspace{-0.5\baselineskip}
   \normalsize
 }
 
@@ -137,54 +137,41 @@
 }
 
 \newenvironment{fnverse}{
-  \setlength{\vleftmargin}{2em}
-  \setlength{\vgap}{1em}
-  \addtolength{\versewidth}{0.5\textwidth}
-  \setlength\stanzaskip{0.25\baselineskip plus 0.75\baselineskip}
-  \begin{verse}[\versewidth]  \scriptsize
+  \scriptsize
+  \begin{verse}[\versewidth]
 }{%
   \end{verse}
-  \scriptsize
+  \normalsize
 }
 
-\setlength{\stanzaskip}{0.33\baselineskip}
+\newenvironment{scfootnote}
+  {\scriptsize \begin{center}}
+  {\end{center}}
 
-\pagestyle{fancy}
+\newenvironment{dcfootnote}
+	{\scriptsize\begin{multicols}{2}}
+	{\end{multicols}}
 
-\hyphenation{manu-script}
+\hyphenation{manu-script Elm-ham quos-cun-que Roche-ford Counc-il}
 
-%\includeonly{english-minstrelsy-1270-1480, henryvii-to-mary-1}
+\sloppybottom
+
+
+%\setxlvchars[\scriptsizer]
+%\setlxvchars[\normalsize]
+%
+%lxv chars = \typeout{\the\lxvchars}
+%xlv chars = \typeout{\the\xlvchars}
+%text length = \typeout{\the\textwidth}
+
+\pagestyle{chappell}
 
 \begin{document}
 
-\frontmatter
-\changefontsize{9.8}
-\include{cover-page}
-\include{toc-plate1}
-\include{introduction}
-\include{facsimiles}
-\include{subscribers}
-\include{saxon-period-to-edward-i}
-\include{english-minstrelsy}
-\include{english-minstrelsy-1270-1480}
-\include{henryvii-to-mary-1}
-\include{henryvii-to-mary-2}
-\include{reign-of-elizabeth-1}
-%fontsize 1.03x
-\include{reign-of-elizabeth-2}
-%fontsize 1.02x
-\include{reign-of-elizabeth-3}
-%fontsize 1.01x
-\include{shakespeare}
-\include{jamesi} %page 246 fontsize 10.4
-\include{jamesi-charlesi-1}%page 259 fontsize 10.2
-%page 261 fontsize 10.4
-%page 269 fontsize 10.2
-\include{jamesi-charlesi-2}
-\include{jamesi-charlesi-3} %page 317 fontsize 9.2!!!
-\include{jamesi-charlesi-4}%page 319 fontsize 10.4
-%page 325 fontsize 10.0
-%page 333 fontsize 9.6
-\include{jamesi-charlesi-5} %page 339 fontsize 9.4
-\include{jamesi-charlesi-6}
+This is some text.
+
+%\include{begin}
+%\include{middle}
+%\include{end}
+
 \end{document}
