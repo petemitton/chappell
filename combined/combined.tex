@@ -1,0 +1,210 @@
+%\documentclass[12pt, twoside, a4paper, openany, extrafontsizes, showtrims, showframe]{memoir}%draft
+\documentclass[11pt, twoside, a4paper, openany, extrafontsizes, showframe]{memoir}%final
+\usepackage[fontsize=11pt]{fontsize}
+\usepackage[includeall, nomarginpar, textwidth=405pt, textheight=648pt, headheight=16pt, footskip=12pt, vmarginratio={1:1}]{geometry}
+\usepackage{fontspec}
+\usepackage[T1]{fontenc}
+\usepackage{microtype}
+\usepackage{ragged2e}
+\usepackage{footmisc}
+\usepackage{epic}\setlength{\unitlength}{1pt}
+\usepackage{multicol}
+\usepackage{amssymb}
+\usepackage{dblfnote}
+\usepackage{pfnote}
+\usepackage[program=/Applications/lilypond-2.24.0/bin/lilypond, 
+noindent, current-font-as-main, staffsize=13, noragged-right, language=english, nofragment, cleantmp]{lyluatex}
+
+
+%\DisemulatePackage{setspace}
+%\usepackage{setspace}
+\newlength{\defaultfontsize}
+\setlength\defaultfontsize{11pt}
+% the fonts may need changing on your computer to render this document
+% this is also likely to change page layouts
+\setmainfont{Baskerville10Pro}
+\newfontface\display{Baskerville120Pro}
+\newfontface\blackletter{Plagwitz}
+\newfontface\saxon{Doulos SIL}
+\newfontface\apple{Apple Symbols}
+
+\setlength{\columnsep}{0.75em}
+
+\DFNalwaysdouble
+ 
+\newcommand\DFNdouble{\setlength{\DFNcolumnwidth}{0.5\textwidth}
+\addtolength{\DFNcolumnwidth}{-0.5\columnsep}}
+\newcommand\DFNsingle{\setlength{\DFNcolumnwidth}{\textwidth}}
+
+\newcommand{\textblock}[1]{
+	\newgeometry{showframe, showcrop, includeall, nomarginpar, textwidth=#1 , 
+		lines=50, headheight=16pt}
+	\setlength{\DFNcolumnwidth}{0.5\textwidth} 
+	\addtolength{\DFNcolumnwidth}{-0.5\columnsep}
+}
+\hbadness=10000
+
+
+\newcommand{\ie}{\textit{i.e.}}
+\newcommand{\ad}{\textsc{a.d.~}}
+\newcommand{\tie}{\raisebox{8pt}{\rotatebox{-90}{(}}}
+\newcommand{\centerrule}{\begin{center}{\makebox[1in]{\hrulefill}}\end{center}}
+\newcommand{\intentionalemptypage}{
+	\newpage
+	\mbox{}
+	\thispagestyle{empty}
+	\newpage
+}
+
+\newcommand{\subscriber}[1]{\hangpara{2em}{1}\textsc{#1}}
+\newcommand{\titlespace}{\vspace{0.75\baselineskip}}
+\newcommand{\tocstyle}[2]{\small\noindent #1 \dotfill #2 \bigskip\normalsize}
+\newcommand{\musictitle}[1]{\begin{center}\large\textsc{#1}\end{center}}
+\newcommand{\musicinfo}[2]{\small\medskip\textit{#1} \hfill \textsc{#2}}
+\newcommand{\timesig}[2]{$\textstyle \mathbf{#1 \atop #2}$}
+\newcommand{\attribution}{\vin\vin\vin\vin }
+\newcommand{\turn}{>>}
+\newcommand{\hand}{\apple\char"261E}
+\newcommand{\compress}{\vspace{-0.5\baselineskip}}
+
+
+\makeatother
+\renewcommand{\footnoterule}{% Kerns avoid vertical space
+ \kern -2pt                         % This -3 is negative
+ \hrule width \textwidth height 0pt % of the sum of this 1
+ \kern 2pt}                         % and this 2
+
+\renewcommand*{\thefootnote}{\alph{footnote}}
+\renewcommand{\printchaptertitle}[1]{
+
+\begin{center}\display\large #1\end{center}
+%	\vfill
+\centerrule
+%	\vfill
+}
+
+\setsecheadstyle{\vspace*{2\baselineskip}\centering\MakeUppercase}
+\setsubsecheadstyle{\centering\scshape}
+\renewcommand{\chapter}[1]{ % THIS IS A SIMPLIFIED VERSION
+  \clearforchapter        % move to correct page
+  \thispagestyle{empty} % set the page style
+  \insertchapterspace     % Inserts space into LoF and LoT
+  \chapterheadstart       % \beforechapskip space before heading
+%   \afterchapternum        % \midchapskip space between number and title
+  \printchaptertitle{#1}  % title
+%   \afterchaptertitle
+  }     % \afterchapskip space after title
+
+\newcommand\versoheader{introduction.}
+\newcommand\rectoheader{introduction.}
+\newcommand\signaturefooter{}
+
+\makepagestyle{myheadings}
+\makeevenhead{myheadings}{\thepage}{\textsc\versoheader}{}
+\makeoddhead{myheadings}{}{\textsc\rectoheader}{\thepage}
+\makeevenfoot{myheadings}{}{}{}
+\makeoddfoot{myheadings}{}{}{}
+
+\newlength{\zeroskip}
+\newlength{\flushglue}
+\zeroskip = 0pt plus 0pt minus 0pt
+\flushglue = 0pt plus 1fil   
+\newcommand{\lastpar}[1]{%
+\parfillskip=\zeroskip #1\eject\parfillskip=\flushglue
+}
+
+\newenvironment{fixedpage}{%
+%	\begin{center}
+%		\begin{minipage}
+%			\textwidth
+%			\setlength{\parindent}{1em}
+	}
+	{
+%		\end{minipage}
+%	\end{center}
+}
+
+\newenvironment{scverse}{
+\vspace{-0.5\baselineskip}
+  \begin{verse}[\versewidth]
+  \small
+}{%
+  \end{verse}
+  \vspace{-0.5\baselineskip}
+  \normalsize
+}
+
+\newenvironment{dcverse}{
+    \setlength{\vgap}{1em}
+  \begin{multicols}{2}
+    \begin{scverse}\small
+}{%
+    \end{scverse}
+  \end{multicols}
+  \normalsize
+}
+
+\newenvironment{fnverse}{
+  \scriptsize
+  \begin{verse}[\versewidth]
+}{%
+  \end{verse}
+  \normalsize
+}
+
+\newenvironment{myfootnote}[1]
+	{\footnote{\scriptsizer #1 }}
+
+	
+	
+% \newenvironment{dcfootnote}[1]{}
+
+	
+
+\hyphenation{manu-script manu-scripts Elm-ham quos-cun-que Roche-ford Counc-il}
+
+\newcommand{\centredsc}[1]{\begin{center}\textsc{#1}\end{center}}
+\newenvironment{dcindex}
+	{\begin{hangparas}{10pt}{1}\setlength\columnseprule{0.5pt}
+		\begin{multicols}{2}\setlength{\parindent}{0pt}\scriptsizer}
+	{\end{multicols}\end{hangparas}}
+	
+\sloppybottom
+%stuff to remove
+\newcommand{\backskip}[1]{}
+
+\pagestyle{myheadings}
+
+\begin{document}
+%\include{001-title-page}
+%\include{002-sumer-is-icumen-in}
+%\include{003-contents}
+%\include{004-v-introduction}
+%\include{005-vi-x}
+%\include{006-xi-xii}
+%\include{007-xiii-explanation-of-the-facsimiles}
+%\include{008-xiv-xv}
+%\include{009-plates}
+%\include{010-xvii}
+%\include{011-xviii}
+%\include{012-xix}
+%\include{013-xx}
+%\include{014-1-6-minstrelsy}
+%\include{015-7-8}
+%\include{016-9-16}
+%\include{017-17-20}
+%\include{018-21-24}
+%\include{019-25}
+%\include{020-26-29}
+%\include{030-032}
+%\include{033}
+%\include{034}
+%\include{035}
+%\include{036}
+%\include{037}
+%\include{038-41}
+%\include{042}
+%\include{043-046}
+\include{047}
+%\include{main}
+\end{document}

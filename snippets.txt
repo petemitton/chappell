@@ -1,0 +1,53 @@
+\override Beam.auto-knee-gap = #3
+
+<ef\=1_( a\=2_( c'\=3(>4 <bf,\=1) bf\=2)\=3)>8
+
+    \once \override NoteColumn.force-hshift = #1.7
+    
+    \override TupletBracket.tuplet-slur = ##t
+    
+\tuplet 3/2 { b4 4 4 }
+    
+    
+I think this should rather be
+
+{ <\tweak duration-log #2 g \tweak duration-log #2 e' e''>2^. }
+
+Alternatively one can simply do
+
+\new Voice << g4 e' e''2^. >>
+
+(the \new Voice is necessary as there has been no music before this, so there 
+does not exist a voice, and Lilypond will then create one Voice for each 
+parallel music).
+
+Cheers,
+
+\textMark \markup {\caps "Chorus." }
+
+\markup {\italic "beaux" }
+
+\begin{lilypond}[insert=inline, staffsize=30, paperwidth=0.25\paperwidth]
+
+music = \fixed c' {
+c'4 g' f' \bar "|" e'2
+}
+
+\score {
+\new Staff {
+\clef treble \once \override Staff.TimeSignature #'transparent = ##t \time 3/4 \music
+}
+}
+
+\end{lilypond}
+
+\ottava #-1 d,, \ottava #0
+
+ItalicLyrics = 
+#(define-scheme-function
+  (text) (scheme?)
+  #{
+    \override Lyrics.LyricText.font-shape = #'italic
+    $text
+    \revert Lyrics.LyricText.font-shape
+  #})

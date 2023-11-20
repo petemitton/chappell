@@ -1,195 +1,159 @@
-\documentclass[11pt,  twoside, extrafontsizes]{memoir}
-
-\usepackage[showframe]{geometry}
+%\documentclass[12pt, twoside, a4paper, openany, extrafontsizes, showtrims, showframe]{memoir}%draft
+\documentclass[11pt, twoside, a4paper, openany, extrafontsizes]{memoir}%final
+\usepackage[fontsize=12	pt]{fontsize}
+%\usepackage[includeall, nomarginpar, textwidth=432pt, textheight=720pt, headheight=16pt, footskip=11pt, nofoot, vmarginratio={1:1}]{geometry}
+%\usepackage[includeall, nomarginpar, textwidth=5in, textheight=8in, headheight=16pt, footskip=11pt, nofoot, vmarginratio={1:1}]{geometry}
+\usepackage[includeall, nomarginpar, textwidth=405pt, textheight=648pt, headheight=16pt, footskip=11pt, vmarginratio={1:1}]{geometry}
+%\usepackage{geometry}
 \usepackage{fontspec}
 \usepackage[T1]{fontenc}
 \usepackage{microtype}
+\usepackage{ragged2e}
+\usepackage{footmisc}
 \usepackage{epic}\setlength{\unitlength}{1pt}
-
-\usepackage{relsize}
-\renewcommand\RSpercentTolerance{0}
-\usepackage{graphicx}
-
-%\usepackage{dblfnote}
-%\usepackage{pfnote}
-%\usepackage{endnotes}
-\usepackage{mparhack}
 \usepackage{multicol}
-%\usepackage{marginnote}
-\usepackage{fancyhdr}
+\usepackage{amssymb}
+\usepackage{dblfnote}
+\usepackage{pfnote}
+\usepackage[program=/Applications/lilypond-2.24.0/bin/lilypond, 
+noindent, current-font-as-main, staffsize=17, noragged-right, language=english, nofragment, cleantmp]{lyluatex}
 
+%%\setstocksize{9in}{6in}
+%\settrimmedsize{9in}{6in}{*}
+%%\settypeblocksize{8in}{5in}{*}
+%\setheadfoot{\baselineskip}{0pt}
+%\setheaderspaces{*}{\baselineskip}{*}
+%\setlrmarginsandblock{0.5in}{0.5in}{*}
+%\setulmarginsandblock{0.5in}{0.5in}{*}
+%\setpagecc{\paperheight}{\paperwidth}{*}
+%\checkandfixthelayout
+
+%\DisemulatePackage{setspace}
+%\usepackage{setspace}
+\newlength{\defaultfontsize}
+\setlength\defaultfontsize{11pt}
 % the fonts may need changing on your computer to render this document
 % this is also likely to change page layouts
 \setmainfont{Baskerville10Pro}
-\newfontface\baskerville{Baskerville10Pro}
 \newfontface\display{Baskerville120Pro}
 \newfontface\blackletter{Plagwitz}
 \newfontface\saxon{Doulos SIL}
+\newfontface\apple{Apple Symbols}
 
-\newlength{\defaultfontsize}
-%\defaultfontsize=10.5pt
-\usepackage{fontsize}
+\setlength{\columnsep}{0.75em}
 
-\setlength{\marginparsep}{0.1pt}
-\setlength{\marginparwidth}{0.1pt}
+\DFNalwaysdouble
+ 
+\newcommand\DFNdouble{\setlength{\DFNcolumnwidth}{0.5\textwidth}
+\addtolength{\DFNcolumnwidth}{-0.5\columnsep}}
+\newcommand\DFNsingle{\setlength{\DFNcolumnwidth}{\textwidth}}
 
-%\setstocksize{29.7cm}{21cm}
-\setstocksize{10in}{7in}
-\setpagecc{10in}{7in}{*}
-%\setpagecc{29.7cm}{21cm}{*}
-\setlrmarginsandblock{1.3cm}{1.3cm}{*}
-\setulmarginsandblock{1.3cm}{1.5cm}{*}
-\checkandfixthelayout
-
-%\fancyhead{} %clear all header fields
-\setlength{\headheight}{0pt}
-\setlength{\footskip}{0pt}
-%\setlength{\headwidth}{\textwidth}
-%\fancyhead[LE, RO]{\thepage}
-%\fancyhead[EC]{\textsc{\leftmark}}
-%\fancyhead[OC]{\textsc{\rightmark}}
-%\fancyfoot[LCR]{}
-%\semiisopage
-
-%\let\footnote=\endnote
-
-\renewcommand{\headrulewidth}{0pt}
-\renewcommand{\footnoterule}{% Kerns avoid vertical space
-  \kern -2pt                         % This -3 is negative
-  \hrule width \textwidth height 0pt % of the sum of this 1
-  \kern 2pt}                         % and this 2
-
-\newlength{\zeroskip}
-\newlength{\flushglue}
-\zeroskip = 0pt plus 0pt minus 0pt
-\flushglue = 0pt plus 1fil
-\sloppybottom
-
-\setkeys{Gin}{width=\linewidth,totalheight=\textheight,keepaspectratio}
-\graphicspath{{music/}}
-
-\setlength{\columnsep}{12pt}
-%\DFNruleboth
-%\DFNalwaysdouble
-%\newlength{\DFNstandard}
-%\newlength{\DFNsingle}
-%\newcommand\DFNdouble{\setlength{\DFNcolumnwidth}{0.5\textwidth}
-%\addtolength{\DFNcolumnwidth}{-0.5\columnsep}}
-%%\newcommand\DFNsingle{\setlength{\DFNcolumnwidth}{\textwidth}}
-%\DFNsingle=\textwidth
-%\DFNstandard=\textwidth
-
-%\newcommand{\lastpar}[1]{%
-%  \parfillskip=\zeroskip #1\eject\parfillskip=\flushglue
-%}
-
-\newenvironment{lastpar}
-{}{}
-%	{\parfillskip=\zeroskip}
-%	{\par\parfillskip=\flushglue}
-
-\newlength{\fixedpagewidth}
-\setlength{\fixedpagewidth}{\textwidth}
-
-\strictpagecheck
-
-\newcommand\versoheadertext{english song and ballad music.}
-\newcommand\rectoheadertext{robin hood.}
-\newcommand\versoheader{\noindent\thepage\vspace{-1.5\baselineskip}\begin{center}\textsc{\versoheadertext}\end{center}}
-\newcommand\rectoheader{\hfill\thepage\vspace{-1.5\baselineskip}\begin{center}\textsc{\rectoheadertext}\end{center}}
-
-\newenvironment{fixedpage}
-	{
-	\begin{center}
-		\begin{minipage}
-			\fixedpagewidth
-			\setlength{\parindent}{1em}
-	}
-	{
-		\end{minipage}
-	\end{center}
+\newcommand{\textblock}[1]{
+	\newgeometry{showframe, showcrop, includeall, nomarginpar, textwidth=#1 , 
+		lines=50, headheight=16pt}
+	\setlength{\DFNcolumnwidth}{0.5\textwidth} 
+	\addtolength{\DFNcolumnwidth}{-0.5\columnsep}
 }
-%\newcommand{\fixedpage}[2]{%
-%  \begin{center}
-%  \begin{minipage}{#1}
-%    \setlength{\parindent}{1em}
-%    #2
-%  \end{minipage}
-%  \end{center}
-%}
+\hbadness=10000
 
 
-
-\newcommand{\backskip}[1]{\vspace{-#1\baselineskip}}
-\newcommand{\titlespace}{\vspace{\baselineskip}}
-
-\renewcommand*{\thefootnote}{\alph{footnote}}
-
-\newcommand{\TODO}{\textcolor{red}{\textbf{TODO:\hspace{1em}}}}
 \newcommand{\ie}{\textit{i.e.}}
 \newcommand{\ad}{\textsc{a.d.~}}
 \newcommand{\tie}{\raisebox{8pt}{\rotatebox{-90}{(}}}
-\newcommand{\subscriber}[1]{\hangpara{2em}{1}\textsc{#1}}
-\newcommand{\dent}{\hspace{2em}}
-%\newcommand{\timesig}[2]{\tiny \raisebox{2pt}{\parbox{2.825pt}{\textbf{\raggedright #1 \linebreak #2}}}\normalsize}
-\newcommand{\timesig}[2]{{\tiny \raisebox{2pt}{\parbox{4pt}{\textbf #1 \par \textbf #2}}}}
-%\newcommand{\dcfootnote}[1]{\footnote{\scriptsize #1}}
-%\newcommand{\scfootnote}[1]{\DFNsingle \dcfootnote{#1} \DFNdouble}
-%\newcommand{\scfootnote}[1]{\footnote{\scriptsize #1}}
-\newcommand{\facsimile}[1]{\smallrrr #1}
-\newcommand{\centredsc}[1]{\begin{center}\textsc{#1}\end{center}}
-%\newcommand{\dcfootnote}[1]{\footnotesize\begin{multicols}{2} #1 \end{multicols}}
-\newenvironment{scfootnote}
-  {\footnotesize \begin{center}}
-  {\end{center} \backskip{0.5}}
-  
-\newenvironment{dcfootnote}
-	{\footnotesize \begin{multicols}{2}}
-	{\end{multicols}}
-
-\newenvironment{dcindex}
-	{\begin{hangparas}{10pt}{1}\setlength\columnseprule{0.5pt}
-		\begin{multicols}{2}\setlength{\parindent}{0pt}\scriptsizerr}
-	{\end{multicols}\end{hangparas}}
-	
 \newcommand{\centerrule}{\begin{center}{\makebox[1in]{\hrulefill}}\end{center}}
-%\newcommand{\attribution}{\vin\vin\vin\vin }
-\newcommand{\attribution}[1]{\hfill  #1\hspace{2em}}
-
-\newcommand{\musictitle}[1]{\medskip\begin{center}#1\end{center}}
-\newcommand{\musicsubtitle}[1]{\begin{center}\small\textsc{#1}\end{center}\vspace{-\baselineskip}}
-\newcommand{\includemusic}[1]{\noindent\includegraphics[width=\textwidth]{#1}}
-\newcommand{\musicinfo}[2]{\vspace{0.5\baselineskip}\footnotesize\hspace{2em}\textit{#1}\hfill \textsc{#2}\vspace{-1.5\baselineskip} \normalsize}
-
-\newcommand{\tocstyle}[2]{\small\noindent #1 \dotfill #2 \bigskip\normalsize}
-\newcommand\intentionalemptypage{
+\newcommand{\intentionalemptypage}{
 	\newpage
 	\mbox{}
 	\thispagestyle{empty}
 	\newpage
 }
+%\newcommand{\subscriber}[1]{\textsc{#1}}
+\newcommand{\subscriber}[1]{\hangpara{2em}{1}\textsc{#1}}
+\newcommand{\titlespace}{\vspace{0.75\baselineskip}}
+\newcommand{\tocstyle}[2]{\small\noindent #1 \dotfill #2 \bigskip\normalsize}
+\newcommand{\musictitle}[1]{\begin{center}\large\textsc{#1}\end{center}}
+\newcommand{\musicinfo}[2]{\small\medskip\textit{#1} \hfill \textsc{#2}}
+\newcommand{\timesig}[2]{$\textstyle \mathbf{#1 \atop #2}$}
+\newcommand{\attribution}{\vin\vin\vin\vin }
+\newcommand{\turn}{>>}
+\newcommand{\hand}{\apple\char"261E}
 
-%\newcommand{\origpage}[1]{\marginnote[\raggedleft\small \textit{#1}]{\raggedright\small \textit{#1}}}
-%\newcommand{\headingthree}[1]{\begin{center}\large 
-%\vspace*{\baselineskip}
-%\vfill
-%#1
-%\vfill
-%\begin{center}\rule{4em}{0.4pt}\end{center}
-%\vspace{\baselineskip}
-%\vfill
-%\end{center}}% end heading three
+%\makeatletter
+%\renewcommand\footnotesize{%
+%   \@setfontsize\footnotesize\@viiipt{10}%
+%   \abovedisplayskip 8\p@ \@plus2\p@ \@minus4\p@
+%   \abovedisplayshortskip \z@ \@plus\p@
+%   \belowdisplayshortskip 4\p@ \@plus2\p@ \@minus2\p@
+%   \def\@listi{\leftmargin\leftmargini
+%               \topsep 4\p@ \@plus2\p@ \@minus2\p@
+%               \parsep 2\p@ \@plus\p@ \@minus\p@
+%               \itemsep \parsep}%
+%   \belowdisplayskip \abovedisplayskip
+%}
+\makeatother
+\renewcommand{\footnoterule}{% Kerns avoid vertical space
+ \kern -2pt                         % This -3 is negative
+ \hrule width \textwidth height 0pt % of the sum of this 1
+ \kern 2pt}                         % and this 2
 
-\newcommand{\headingthree}[1]{\begin{center}\Large #1 \end{center}}
-\newcommand{\headingfour}[1]{\begin{center}\normalsizerr #1 \end{center}}
-\newcommand{\headingfive}[1]{\begin{center} \textsc{#1} \end{center} \medskip}
-    
+\renewcommand*{\thefootnote}{\alph{footnote}}
+ 
+\renewcommand{\printchaptertitle}[1]{
+
+\begin{center}\display\large #1\end{center}
+%	\vfill
+\centerrule
+%	\vfill
+}
+
+\setsecheadstyle{\vspace*{2\baselineskip}\centering\MakeUppercase}
+\setsubsecheadstyle{\centering\scshape}
+\renewcommand{\chapter}[1]{ % THIS IS A SIMPLIFIED VERSION
+  \clearforchapter        % move to correct page
+  \thispagestyle{empty} % set the page style
+  \insertchapterspace     % Inserts space into LoF and LoT
+  \chapterheadstart       % \beforechapskip space before heading
+%   \afterchapternum        % \midchapskip space between number and title
+  \printchaptertitle{#1}  % title
+%   \afterchaptertitle
+  }     % \afterchapskip space after title
+
+\newcommand\versoheader{introduction.}
+\newcommand\rectoheader{introduction.}
+\newcommand\signaturefooter{}
+
+\makepagestyle{myheadings}
+\makeevenhead{myheadings}{\thepage}{\textsc\versoheader}{}
+\makeoddhead{myheadings}{}{\textsc\rectoheader}{\thepage}
+\makeevenfoot{myheadings}{}{}{}
+\makeoddfoot{myheadings}{}{}{\small\signaturefooter}
+
+\newlength{\zeroskip}
+\newlength{\flushglue}
+\zeroskip = 0pt plus 0pt minus 0pt
+\flushglue = 0pt plus 1fil   
+\newcommand{\lastpar}[1]{%
+\parfillskip=\zeroskip #1\eject\parfillskip=\flushglue
+}
+
+\newenvironment{fixedpage}{%
+%	\begin{center}
+%		\begin{minipage}
+%			\textwidth
+%			\setlength{\parindent}{1em}
+	}
+	{
+%		\end{minipage}
+%	\end{center}
+}
+
 \newenvironment{scverse}{
-  \backskip{0.5}
+\vspace{-0.5\baselineskip}
   \begin{verse}[\versewidth]
+  \small
 }{%
   \end{verse}
-  \backskip{0.5}
+  \vspace{-0.5\baselineskip}
   \normalsize
 }
 
@@ -197,53 +161,69 @@
     \setlength{\vgap}{1em}
   \begin{multicols}{2}
     \begin{scverse}\small
-    \backskip{0.5}
 }{%
     \end{scverse}
   \end{multicols}
-  \backskip{0.5}
   \normalsize
 }
 
 \newenvironment{fnverse}{
-  \footnotesize
+  \scriptsize
   \begin{verse}[\versewidth]
 }{%
   \end{verse}
   \normalsize
 }
 
-%\newenvironment{fnverse}{
-%  \setlength{\vleftmargin}{2em}
-%  \setlength{\vgap}{1em}
-%  \addtolength{\versewidth}{0.5\textwidth}
-%  \setlength\stanzaskip{0.25\baselineskip plus 0.75\baselineskip}
-%  \begin{verse}[\versewidth]  \scriptsize
-%}{%
-%  \end{verse}
-%  \scriptsize
-%}
+%\newenvironment{scfootnote}
+%  {\scriptsize \begin{center}}
+%  {\end{center}}
+%
+%\newenvironment{dcfootnote}
+%	{\scriptsize\begin{multicols}{2}}
+%	{\end{multicols}}
 
-\setlength{\stanzaskip}{0.33\baselineskip}
+\newenvironment{myfootnote}[1]
+	{\footnote{\scriptsizer #1 }}
 
-\pagestyle{empty}
+	
+	
+ \newenvironment{dcfootnote}[1]{}
 
-\hyphenation{manu-script}
+	
 
-%\includeonly{english-minstrelsy-1270-1480, henryvii-to-mary-1}
+\hyphenation{manu-script manu-scripts Elm-ham quos-cun-que Roche-ford Counc-il}
 
+\newcommand{\centredsc}[1]{\begin{center}\textsc{#1}\end{center}}
+\newenvironment{dcindex}
+	{\begin{hangparas}{10pt}{1}\setlength\columnseprule{0.5pt}
+		\begin{multicols}{2}\setlength{\parindent}{0pt}\scriptsizer}
+	{\end{multicols}\end{hangparas}}
+	
+\sloppybottom
+%stuff to remove
+\newcommand{\backskip}[1]{}
 
+\pagestyle{myheadings}
 
 \begin{document}
-%\changefontsize{12}
-%
-%\setlxvchars[\baskerville]
-%\setxlvchars[\baskerville\footnotesize]
-%
-%65 chars = \the\lxvchars\par
-%45 chars = \the\xlvchars\par
-\frontmatter
-\include{chappellV2}
 
-%\theendnotes
+
+
+%text length = \typeout{\the\textwidth}
+
+%\frontmatter		%not needed when 'begin' is included
+%\include{begin}
+%\include{middle}
+\include{end}
+
+%\settypeoutlayoutunit{pt}
+%\typeoutlayout
+%
+%\setxlvchars[\scriptsizer]
+%\setlxvchars[\normalsize]
+%
+%\typeout{lxv chars = \the\lxvchars}\ %368pt
+%\typeout{xlv chars = \the\xlvchars} %177pt
+
 \end{document}

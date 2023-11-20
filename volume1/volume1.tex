@@ -1,6 +1,9 @@
-\documentclass[12pt, twoside, a4paper, openany, extrafontsizes]{memoir}
-\usepackage[fontsize=12pt]{fontsize}
-\usepackage[showframe, showcrop, includeheadfoot, textwidth=432pt, lines=50]{geometry}
+\documentclass[11pt, twoside, a4paper, openany, extrafontsizes, showtrims, showframe]{memoir}
+\usepackage[fontsize=11pt]{fontsize}
+%\usepackage[includeall, nomarginpar, textwidth=432pt, textheight=720pt, headheight=16pt, footskip=11pt, nofoot, vmarginratio={1:1}]{geometry}
+% 9in = 648pt by 405pt
+\usepackage[includeall, nomarginpar, textwidth=405pt, textheight=648pt, headheight=16pt, footskip=11pt, nofoot, vmarginratio={1:1}]{geometry}
+%\usepackage{geometry}
 \usepackage{fontspec}
 \usepackage[T1]{fontenc}
 \usepackage{microtype}
@@ -14,23 +17,44 @@
 \usepackage[program=/Applications/lilypond-2.24.0/bin/lilypond, 
 noindent, current-font-as-main, staffsize=17, noragged-right, language=english, nofragment, cleantmp]{lyluatex}
 
+%%\setstocksize{9in}{6in}
+%\settrimmedsize{9in}{6in}{*}
+%%\settypeblocksize{8in}{5in}{*}
+%\setheadfoot{\baselineskip}{0pt}
+%\setheaderspaces{*}{\baselineskip}{*}
+%\setlrmarginsandblock{0.5in}{0.5in}{*}
+%\setulmarginsandblock{0.5in}{0.5in}{*}
+%\setpagecc{\paperheight}{\paperwidth}{*}
+%\checkandfixthelayout
 
+%\DisemulatePackage{setspace}
+%\usepackage{setspace}
+\newlength{\defaultfontsize}
+\setlength\defaultfontsize{12pt}
 % the fonts may need changing on your computer to render this document
 % this is also likely to change page layouts
 \setmainfont{Baskerville10Pro}
 \newfontface\display{Baskerville120Pro}
 \newfontface\blackletter{Plagwitz}
 \newfontface\saxon{Doulos SIL}
-
-\newcommand{\wibble}[1]{\newgeometry{hmargin=72pt, vmargin=72pt}}
+\newfontface\apple{Apple Symbols}
 
 \setlength{\columnsep}{0.75em}
 
 \DFNalwaysdouble
-
+ 
 \newcommand\DFNdouble{\setlength{\DFNcolumnwidth}{0.5\textwidth}
 \addtolength{\DFNcolumnwidth}{-0.5\columnsep}}
 \newcommand\DFNsingle{\setlength{\DFNcolumnwidth}{\textwidth}}
+
+\newcommand{\textblock}[1]{
+	\newgeometry{showframe, showcrop, includeall, nomarginpar, textwidth=#1 , 
+		lines=50, headheight=16pt}
+	\setlength{\DFNcolumnwidth}{0.5\textwidth} 
+	\addtolength{\DFNcolumnwidth}{-0.5\columnsep}
+}
+\hbadness=10000
+
 
 \newcommand{\ie}{\textit{i.e.}}
 \newcommand{\ad}{\textsc{a.d.~}}
@@ -47,22 +71,24 @@ noindent, current-font-as-main, staffsize=17, noragged-right, language=english, 
 \newcommand{\titlespace}{\vspace{0.75\baselineskip}}
 \newcommand{\tocstyle}[2]{\small\noindent #1 \dotfill #2 \bigskip\normalsize}
 \newcommand{\musictitle}[1]{\begin{center}\large\textsc{#1}\end{center}}
-\newcommand{\musicinfo}[2]{\textit{#1} \hfill \textsc{#2}}
+\newcommand{\musicinfo}[2]{\medskip\textit{#1} \hfill \textsc{#2}}
 \newcommand{\timesig}[2]{$\textstyle \mathbf{#1 \atop #2}$}
 \newcommand{\attribution}{\vin\vin\vin\vin }
+\newcommand{\turn}{>>}
+\newcommand{\hand}{\apple\char"261E}
 
-\makeatletter
-\renewcommand\footnotesize{%
-   \@setfontsize\footnotesize\@viiipt{10}%
-   \abovedisplayskip 8\p@ \@plus2\p@ \@minus4\p@
-   \abovedisplayshortskip \z@ \@plus\p@
-   \belowdisplayshortskip 4\p@ \@plus2\p@ \@minus2\p@
-   \def\@listi{\leftmargin\leftmargini
-               \topsep 4\p@ \@plus2\p@ \@minus2\p@
-               \parsep 2\p@ \@plus\p@ \@minus\p@
-               \itemsep \parsep}%
-   \belowdisplayskip \abovedisplayskip
-}
+%\makeatletter
+%\renewcommand\footnotesize{%
+%   \@setfontsize\footnotesize\@viiipt{10}%
+%   \abovedisplayskip 8\p@ \@plus2\p@ \@minus4\p@
+%   \abovedisplayshortskip \z@ \@plus\p@
+%   \belowdisplayshortskip 4\p@ \@plus2\p@ \@minus2\p@
+%   \def\@listi{\leftmargin\leftmargini
+%               \topsep 4\p@ \@plus2\p@ \@minus2\p@
+%               \parsep 2\p@ \@plus\p@ \@minus\p@
+%               \itemsep \parsep}%
+%   \belowdisplayskip \abovedisplayskip
+%}
 \makeatother
 \renewcommand{\footnoterule}{% Kerns avoid vertical space
  \kern -2pt                         % This -3 is negative
@@ -85,7 +111,7 @@ noindent, current-font-as-main, staffsize=17, noragged-right, language=english, 
   \clearforchapter        % move to correct page
   \thispagestyle{empty} % set the page style
   \insertchapterspace     % Inserts space into LoF and LoT
- \chapterheadstart       % \beforechapskip space before heading
+  \chapterheadstart       % \beforechapskip space before heading
 %   \afterchapternum        % \midchapskip space between number and title
   \printchaptertitle{#1}  % title
 %   \afterchaptertitle
@@ -93,9 +119,11 @@ noindent, current-font-as-main, staffsize=17, noragged-right, language=english, 
 
 \newcommand\versoheader{introduction.}
 \newcommand\rectoheader{introduction.}
-\makepagestyle{chappell}
-\makeevenhead{chappell}{\thepage}{\textsc\versoheader}{}
-\makeoddhead{chappell}{}{\textsc\rectoheader}{\thepage}
+
+\makepagestyle{myheadings}
+\makeevenhead{myheadings}{\thepage}{\textsc\versoheader}{}
+\makeoddhead{myheadings}{}{\textsc\rectoheader}{\thepage}
+
 
 \newlength{\zeroskip}
 \newlength{\flushglue}
@@ -144,34 +172,43 @@ noindent, current-font-as-main, staffsize=17, noragged-right, language=english, 
   \normalsize
 }
 
-\newenvironment{scfootnote}
-  {\scriptsize \begin{center}}
-  {\end{center}}
+%\newenvironment{scfootnote}
+%  {\scriptsize \begin{center}}
+%  {\end{center}}
+%
+%\newenvironment{dcfootnote}
+%	{\scriptsize\begin{multicols}{2}}
+%	{\end{multicols}}
 
-\newenvironment{dcfootnote}
-	{\scriptsize\begin{multicols}{2}}
-	{\end{multicols}}
+\newenvironment{dcfootnote}[1]
+	{\footnote{\scriptsizer #1}}
+	
 
-\hyphenation{manu-script Elm-ham quos-cun-que Roche-ford Counc-il}
+\hyphenation{manu-script manu-scripts Elm-ham quos-cun-que Roche-ford Counc-il}
 
 \sloppybottom
 
 
-%\setxlvchars[\scriptsizer]
-%\setlxvchars[\normalsize]
-%
-%lxv chars = \typeout{\the\lxvchars}
-%xlv chars = \typeout{\the\xlvchars}
-%text length = \typeout{\the\textwidth}
-
-\pagestyle{chappell}
+\pagestyle{myheadings}
 
 \begin{document}
 
-This is some text.
 
-%\include{begin}
-%\include{middle}
+
+%text length = \typeout{\the\textwidth}
+
+%\frontmatter		%not needed when 'begin' is included
+\include{begin}
+\include{middle}
 %\include{end}
+
+%\settypeoutlayoutunit{pt}
+%\typeoutlayout
+%
+%\setxlvchars[\scriptsizer]
+%\setlxvchars[\normalsize]
+%
+%\typeout{lxv chars = \the\lxvchars}\ %368pt
+%\typeout{xlv chars = \the\xlvchars} %177pt
 
 \end{document}

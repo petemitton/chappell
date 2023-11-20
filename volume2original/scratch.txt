@@ -1,0 +1,35 @@
+339.04852pt
+
+197.10394pt
+14pt Baskerville10Pro
+65 chars = 424.18073pt 
+45 chars = 248.68413pt
+
+13pt Baskerville10Pro
+65 chars = 396.26866pt 
+45 chars = 232.566pt
+
+12pt Baskerville10Pro 
+65 chars = 368.3564pt 
+45 chars = 216.44775pt
+
+11pt Baskerville10Pro
+65 chars = 340.44421pt 
+45 chars = 200.32954pt
+
+10pt Baskerville10Pro
+65 chars = 312.5319pt 
+45 chars = 184.21147pt
+
+page 395 dcverse changed to footnotesize and backskip{2} added
+page 396 dcverse changed to footnotesize
+page 397 two backskips added
+page 404 dcfootnote changed to scriptsizerr
+page 423 backskips before quotation
+page 438 dcverses and dcfootnote both reduced in size
+page 473 removed quotes from payment table - couldn't think how to make it work.
+page 523 dcverses made smaller and backskip before title
+page 553 single backskip added
+page 577 scverse made small size
+page 645 small quotation
+page 657 final verse small
